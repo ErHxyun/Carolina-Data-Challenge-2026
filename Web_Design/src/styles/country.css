@@ -1,0 +1,448 @@
+.app-shell.country-mode {
+  height: auto;
+  min-height: 100dvh;
+}
+
+/* Keep the map mounted without exposing it on the country page. */
+.explore-view[hidden] {
+  display: none;
+}
+
+.country-page {
+  width: 100%;
+  max-width: 1800px;
+  margin: 0 auto;
+  padding: 24px;
+  display: grid;
+  grid-template-columns: minmax(260px, 1.05fr) minmax(0, 1.95fr);
+  gap: clamp(28px, 4vw, 72px);
+  align-items: start;
+}
+
+.country-photo {
+  position: sticky;
+  top: 24px;
+  min-height: 560px;
+  height: calc(100dvh - 104px);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 28px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: #19191c;
+}
+
+.photo-topline {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  color: var(--text-secondary);
+  font-size: 10px;
+  line-height: 1.6;
+}
+
+.photo-placeholder {
+  padding: 48px 0;
+  text-align: center;
+  color: var(--text-secondary);
+}
+
+.portrait-symbol {
+  display: block;
+  font-size: 100px;
+  font-weight: 200;
+  color: #55555e;
+}
+
+.photo-placeholder p {
+  margin: 16px 0 6px;
+  font-size: 14px;
+}
+
+.photo-placeholder > span:last-child {
+  font-size: 11px;
+  color: var(--text-muted);
+}
+
+.photo-caption h2 {
+  margin: 0;
+  font-size: clamp(26px, 3vw, 42px);
+  font-weight: 500;
+  letter-spacing: -0.04em;
+  overflow-wrap: anywhere;
+}
+
+.photo-caption > p:last-child {
+  margin: 12px 0 0;
+  color: var(--text-muted);
+  font-size: 11px;
+  line-height: 1.7;
+}
+
+.country-content {
+  min-width: 0;
+  padding: 12px 12px 36px 0;
+}
+
+.back-link {
+  display: inline-block;
+  color: var(--text-secondary);
+  font-size: 12px;
+}
+
+.back-link:hover {
+  color: var(--text);
+}
+
+.country-header {
+  margin-top: 36px;
+}
+
+.country-heading-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.country-heading-row .eyebrow {
+  margin: 0;
+}
+
+.country-header h1 {
+  margin: 0;
+  font-size: clamp(40px, 5vw, 72px);
+  font-weight: 500;
+  letter-spacing: -0.055em;
+  line-height: 1.1;
+  overflow-wrap: anywhere;
+}
+
+.country-introduction {
+  margin: 16px 0 0;
+  color: var(--text-secondary);
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+.topic-navigation {
+  display: flex;
+  gap: 24px;
+  margin-top: 32px;
+  overflow-x: auto;
+  border-bottom: 1px solid var(--border);
+}
+
+.topic-navigation button {
+  flex-shrink: 0;
+  padding: 14px 0;
+  border: 0;
+  border-bottom: 2px solid transparent;
+  background: transparent;
+  color: var(--text-secondary);
+  font-size: 12px;
+}
+
+.topic-navigation button[aria-selected="true"] {
+  color: var(--text);
+  border-bottom-color: var(--text);
+}
+
+.country-analysis {
+  padding-top: 32px;
+}
+
+.country-analysis > h2 {
+  margin: 0;
+  font-size: clamp(22px, 2vw, 30px);
+  font-weight: 500;
+  letter-spacing: -0.035em;
+}
+
+.analysis-introduction {
+  max-width: 620px;
+  margin: 12px 0 0;
+  color: var(--text-secondary);
+  font-size: 13px;
+  line-height: 1.8;
+}
+
+.profile-chart {
+  margin: 28px 0 0;
+  padding: 24px;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: #121214;
+}
+
+.chart-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  gap: 20px;
+}
+
+.chart-heading h3 {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.chart-heading p {
+  margin: 8px 0 0;
+  color: var(--text-muted);
+  font-size: 10px;
+  line-height: 1.6;
+}
+
+.chart-readout {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.chart-readout strong {
+  font-size: 30px;
+  font-weight: 500;
+  font-variant-numeric: tabular-nums;
+}
+
+.chart-readout span {
+  color: var(--text-secondary);
+  font-size: 10px;
+}
+
+.profile-chart svg {
+  display: block;
+  width: 100%;
+  margin-top: 16px;
+}
+
+.chart-gridline {
+  stroke: #2c2c31;
+  stroke-width: 1;
+}
+
+.chart-axis-label {
+  fill: #aaaab2;
+  font-family: var(--font-sans);
+  font-size: 10px;
+}
+
+.chart-crosshair {
+  stroke: #777780;
+  stroke-width: 1;
+  stroke-dasharray: 4 5;
+}
+
+.chart-year-control {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-top: 16px;
+  color: var(--text-secondary);
+  font-size: 11px;
+}
+
+.chart-year-control input {
+  flex: 1;
+  min-width: 0;
+  accent-color: #f2f0eb;
+}
+
+.analysis-notes {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 32px;
+  margin-top: 32px;
+}
+
+.analysis-notes article {
+  padding-top: 22px;
+  border-top: 1px solid var(--border);
+}
+
+.analysis-notes h3 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: -0.025em;
+}
+
+.analysis-notes article > p:last-child {
+  color: var(--text-secondary);
+  font-size: 12px;
+  line-height: 1.9;
+}
+
+.profile-disclosure {
+  margin: 28px 0 0;
+  color: var(--text-muted);
+  font-size: 11px;
+  line-height: 1.7;
+}
+
+a.preview-cta {
+  display: block;
+  text-align: center;
+  color: var(--text);
+}
+
+a.preview-cta:hover {
+  background: var(--text);
+  color: var(--bg);
+}
+
+@media (max-width: 900px) {
+  .country-page {
+    grid-template-columns: 1fr;
+    padding: 20px;
+    gap: 28px;
+  }
+
+  .country-photo {
+    position: relative;
+    top: auto;
+    height: 320px;
+    min-height: 0;
+    padding: 20px;
+  }
+
+  .photo-placeholder {
+    padding: 12px 0;
+  }
+
+  .portrait-symbol {
+    font-size: 42px;
+  }
+
+  .country-content {
+    padding: 0;
+  }
+
+  .country-header {
+    margin-top: 24px;
+  }
+
+  .profile-chart {
+    padding: 16px;
+  }
+
+  .analysis-notes {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+}
+/* Country portraits and editorial research layout. */
+.country-photo { isolation: isolate; }
+.country-portrait-image { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; filter: saturate(.7) brightness(.92); z-index: -2; }
+.country-photo.has-photo::after { content: ''; position: absolute; inset: 0; z-index: -1; background: linear-gradient(180deg, rgb(0 0 0 / 45%), transparent 35%, rgb(0 0 0 / 88%)); }
+.has-photo .photo-topline, .has-photo .photo-caption > p:last-of-type { color: #dedede; }
+.photo-caption a { text-decoration: underline; text-underline-offset: 3px; }
+.portrait-note { display: block; margin-top: 18px; max-width: 260px; font-size: 10px; color: #b6b6ba; line-height: 1.7; }
+.country-region { color: var(--text-secondary); font-size: 11px; margin: 18px 0 0; }
+.country-region span { color: var(--text-muted); }
+.profile-facts { display: grid; grid-template-columns: repeat(3, 1fr); margin-top: 32px; border-block: 1px solid var(--border); padding: 20px 0; }
+.profile-facts > div { display: flex; flex-direction: column; gap: 8px; padding: 0 16px; border-left: 1px solid var(--border); }
+.profile-facts > div:first-child { padding-left: 0; border-left: 0; }
+.profile-facts span { font-size: 11px; color: var(--text-secondary); }
+.profile-facts strong { font-size: 28px; font-weight: 400; }
+.profile-facts small { font-size: 10px; color: var(--text-muted); }
+.profile-methods { border-block: 1px solid var(--border); padding: 18px 0; margin-top: 32px; }
+.profile-methods summary { cursor: pointer; font-size: 12px; }
+.profile-methods summary span { float: right; color: var(--text-muted); font-size: 10px; }
+.profile-methods p { font-size: 12px; color: var(--text-secondary); line-height: 1.8; }
+.country-content { padding-bottom: 96px; }
+.assistant-shell { position: fixed; right: 24px; bottom: 22px; z-index: 20; display: flex; flex-direction: column; align-items: flex-end; gap: 12px; }
+.assistant-trigger { border: 1px solid #55555b; border-radius: 999px; background: #f2f0eb; color: #151516; padding: 13px 20px; font-size: 12px; box-shadow: 0 4px 20px #0005; }
+.assistant-preview { width: min(380px, calc(100vw - 40px)); max-height: calc(100dvh - 110px); overflow: auto; border: 1px solid #414147; border-radius: 16px; background: #141416; padding: 22px; box-shadow: 0 16px 60px #0008; }
+.assistant-preview header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; font-size: 13px; }
+.assistant-preview header button { border: 0; background: transparent; font-size: 24px; }
+.assistant-preview .demo-badge { white-space: normal; display: inline-block; font-size: 9px; }
+.assistant-preview h2 { font-size: 24px; font-weight: 400; letter-spacing: -.04em; margin-top: 26px; }
+.assistant-preview p { color: var(--text-secondary); font-size: 12px; line-height: 1.7; }
+.assistant-prompts p { padding: 12px; border: 1px solid var(--border); border-radius: 8px; }
+.assistant-preview footer { font-size: 10px; line-height: 1.6; color: var(--text-muted); margin-top: 24px; }
+@media (max-width: 600px) {
+ .profile-facts > div { padding-inline: 10px; }
+ .profile-facts span { min-height: 28px; }
+ .profile-methods summary span { display: block; float: none; margin-top: 8px; }
+ .country-heading-row { flex-wrap: wrap; }
+ .assistant-shell { right: 16px; bottom: 16px; }
+}
+
+.portrait-credit { margin-top: 14px; font-size: 10px; line-height: 1.65; color: #d4d4d8; }
+.portrait-credit summary { cursor: pointer; }
+.portrait-credit p { margin: 6px 0; }
+.portrait-credit a { text-decoration: underline; text-underline-offset: 3px; }
+.photo-caption { overflow-wrap: anywhere; }
+.photo-caption > p { font-size: 11px; line-height: 1.7; }
+.country-photo.has-photo .photo-caption { max-height: 55%; overflow-y: auto; }
+
+/* Retain detail when an original cannot support a tall crop. */
+.country-photo.landscape-portrait .country-portrait-image {
+  inset: 6% 0 auto;
+  height: 66%;
+  object-fit: scale-down;
+  object-position: center;
+}
+.country-photo.landscape-portrait::after { background: linear-gradient(180deg, rgb(0 0 0 / 15%), transparent 45%, rgb(0 0 0 / 75%)); }
+@media (max-width: 900px) {
+ .country-photo.landscape-portrait { height: 440px; }
+ .country-photo.landscape-portrait .country-portrait-image { top: 10%; height: 50%; }
+}
+
+/* Compact editorial card for rare images without a usable portrait original. */
+.country-photo.landscape-portrait { height: auto; min-height: 0; gap: 24px; }
+.country-photo.landscape-portrait .country-portrait-image { position: relative; inset: auto; order: 1; width: 100%; height: auto; max-height: 58vh; object-fit: scale-down; z-index: 0; }
+.country-photo.landscape-portrait .photo-topline { order: 0; }
+.country-photo.landscape-portrait .photo-caption { order: 2; max-height: none; }
+.country-photo.landscape-portrait::after { display: none; }
+
+.research-facts strong { font-size: clamp(16px, 1.7vw, 24px); line-height: 1.35; }
+.research-facts small { line-height: 1.7; }
+.research-empty { padding: 24px; margin-top: 24px; border: 1px dashed var(--border); border-radius: 12px; color: var(--text-secondary); font-size: 13px; line-height: 1.8; }
+.research-empty h3 { color: var(--text); font-size: 18px; font-weight: 500; }
+.research-control { display: flex; align-items: center; flex-wrap: wrap; gap: 12px; margin-top: 24px; color: var(--text-secondary); font-size: 12px; }
+.research-control select { max-width: 100%; padding: 10px; border: 1px solid var(--border); background: var(--surface); color: var(--text); border-radius: 8px; }
+.research-callout { border-left: 2px solid #aaa; padding: 8px 20px; margin-top: 26px; }
+.research-callout h3 { font-size: 28px; font-weight: 400; margin: 6px 0; }
+.research-callout p:not(.eyebrow), .research-caption { font-size: 11px; line-height: 1.8; color: var(--text-secondary); }
+.sparse-evidence { border-left-style: dashed; background: #ffffff05; }
+.research-legend { display: flex; gap: 16px; flex-wrap: wrap; font-size: 10px; color: var(--text-secondary); margin-top: 18px; }
+.research-readout { display: flex; gap: 20px; flex-wrap: wrap; font-size: 11px; color: var(--text-secondary); }
+.research-readout strong { display: block; font-size: 15px; font-weight: 500; color: var(--text); margin-top: 6px; }
+.research-table { margin-top: 18px; font-size: 11px; color: var(--text-secondary); }
+.research-table summary { cursor: pointer; }
+.research-table > div { max-height: 240px; overflow: auto; margin-top: 12px; }
+.research-table table { width: 100%; border-collapse: collapse; text-align: left; }
+.research-table td, .research-table th { padding: 9px; border-bottom: 1px solid var(--border); }
+.research-section-title { margin: 36px 0 0; font-weight: 500; font-size: 18px; }
+.profile-methods a { text-decoration: underline; text-underline-offset: 3px; font-size: 11px; }
+
+/* Playback controls use the same restrained palette as the country analysis. */
+.trend-controls { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin-top: 20px; font-size: 11px; }
+.trend-controls button, .trend-controls select { border: 1px solid var(--border); border-radius: 7px; padding: 8px 10px; background: var(--surface); color: var(--text); font: inherit; cursor: pointer; }
+.trend-controls button:first-child { background: #f2f0eb; color: #151515; min-width: 66px; }
+.trend-controls label { display: flex; align-items: center; gap: 6px; }
+.trend-controls > span { color: var(--text-secondary); margin-left: auto; font-variant-numeric: tabular-nums; }
+.trend-controls :focus-visible { outline: 2px solid #f2f0eb; outline-offset: 3px; }
+.research-chart .chart-heading > strong, .research-readout strong { font-variant-numeric: tabular-nums; }
+
+.trend-takeaway { margin-top: 22px; padding: 18px 20px; border-left: 3px solid #ffbd69; background: #ffbd690a; }
+.trend-takeaway > span { font-size: 10px; letter-spacing: .16em; color: #ffbd69; }
+.trend-takeaway p { font-size: clamp(16px, 1.6vw, 21px); line-height: 1.5; margin: 8px 0; color: #f5f5f5; }
+.trend-takeaway small { color: #aeb2ba; font-size: 11px; }
+.research-chart .rural-key, .research-chart .rural-key strong { color: #ffbd69; }
+.research-chart .urban-key, .research-chart .urban-key strong { color: #6dd5e7; }
+.research-readout { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; padding: 16px 0; border-top: 1px solid var(--border); }
+.research-readout strong { font-size: clamp(17px, 1.7vw, 24px); }
+.research-chart .chart-heading h3 { font-size: 20px; }
+.research-chart .chart-heading > strong { font-size: 30px; }
+.research-chart .research-legend { font-size: 12px; }
+@media(max-width:600px) { .research-readout { grid-template-columns: 1fr; } }

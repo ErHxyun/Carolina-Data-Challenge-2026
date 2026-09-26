@@ -1,0 +1,83 @@
+.leaflet-frame .leaflet-canvas {
+	z-index: 0;
+	background: #101012;
+	font-family: var(--font-sans);
+}
+
+/* Preserve the reference map's natural-color satellite imagery. */
+.leaflet-frame .leaflet-tile-pane {
+	filter: none;
+}
+.leaflet-frame .leaflet-bar {
+	overflow: hidden;
+	border: 1px solid var(--border);
+	border-radius: 8px;
+	box-shadow: none;
+}
+
+.leaflet-frame .leaflet-bar a {
+	border-bottom-color: var(--border);
+	background: #19191c;
+	color: var(--text);
+}
+
+.leaflet-frame .leaflet-bar a:hover {
+	background: #2a2a30;
+}
+
+.leaflet-frame .leaflet-bar a.leaflet-disabled {
+	background: #141416;
+	color: #666;
+}
+
+.leaflet-frame .leaflet-control-attribution {
+	background: #171719;
+	color: #aaaab2;
+	font-size: 10px;
+}
+
+.leaflet-frame .leaflet-control-attribution a {
+	color: #dedee3;
+}
+
+.leaflet-country-tooltip {
+	padding: 8px 12px;
+	border: 0;
+	border-radius: 8px;
+	background: #f2f0eb;
+	color: #141416;
+	box-shadow: 0 4px 18px rgb(0 0 0 / 20%);
+	font-family: var(--font-sans);
+	font-size: 12px;
+}
+
+.leaflet-tile-notice {
+	position: absolute;
+	top: 12px;
+	left: 56px;
+	right: 16px;
+	z-index: 1;
+	width: fit-content;
+	max-width: calc(100% - 72px);
+	padding: 8px 12px;
+	border: 1px solid var(--border);
+	border-radius: 8px;
+	background: #171719;
+	color: var(--text-secondary);
+	font-size: 11px;
+}
+
+/* Focus follows the country outline rather than its rectangular SVG bounds. */
+.leaflet-frame .leaflet-overlay-pane path.leaflet-interactive:focus {
+	outline: none;
+}
+
+.leaflet-frame .leaflet-overlay-pane path.leaflet-interactive:focus-visible {
+	stroke: #ffffff;
+	stroke-width: 3;
+}
+
+/* Preserve keyboard focus on the map and controls. */
+.leaflet-frame .leaflet-container:focus:not(:focus-visible) {
+	outline: none;
+}
