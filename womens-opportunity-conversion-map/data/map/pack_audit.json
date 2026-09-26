@@ -1,0 +1,27 @@
+{
+  "countries": 209,
+  "layers": 18,
+  "recommended_layers": 16,
+  "long_rows": 3023,
+  "pilot_evidence_countries": 6,
+  "coverage_by_layer": {
+    "education_employment_conversion_gap_z": 176,
+    "conversion_residual": 176,
+    "conversion_shortfall": 170,
+    "desynchronization_sd": 162,
+    "gap_momentum_state": 186,
+    "prob_gap_widening": 186,
+    "prob_employment_gap_halves_within_10y": 183,
+    "prob_gap_not_halved_within_15y": 183,
+    "development_delay_employment_years": 186,
+    "core_domains_observed": 209,
+    "core_year_spread": 183,
+    "finance_gender_gap_pp": 158,
+    "digital_gender_gap_pp": 133,
+    "identity_female_pct": 129,
+    "time_tax_extra_hours_day": 27,
+    "rural_time_tax_gap_latest_pp": 173,
+    "maternal_mortality_ratio": 194,
+    "evidence_report_available": 209
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Conversion Evidence Report",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "task_id",
+    "country",
+    "statistical_signal",
+    "mechanisms",
+    "contradicting_or_complicating_evidence",
+    "overall_confidence",
+    "causal_conclusion",
+    "limitations",
+    "search_summary"
+  ],
+  "properties": {
+    "task_id": {
+      "type": "string"
+    },
+    "country": {
+      "type": "object",
+      "required": [
+        "iso3",
+        "name"
+      ],
+      "properties": {
+        "iso3": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "statistical_signal": {
+      "type": "object",
+      "required": [
+        "statement",
+        "period",
+        "uncertainty_note"
+      ],
+      "properties": {
+        "statement": {
+          "type": "string"
+        },
+        "period": {
+          "type": "string"
+        },
+        "uncertainty_note": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "mechanisms": {
+      "type": "array",
+      "maxItems": 3,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "mechanism",
+          "supporting_evidence",
+          "confidence",
+          "confidence_reason"
+        ],
+        "properties": {
+          "mechanism": {
+            "type": "string"
+          },
+          "supporting_evidence": {
+            "type": "array",
+            "items": {
+              "$ref": "#/$defs/evidence"
+            }
+          },
+          "confidence": {
+            "enum": [
+              "high",
+              "medium",
+              "low",
+              "insufficient"
+            ]
+          },
+          "confidence_reason": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "contradicting_or_complicating_evidence": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/evidence"
+      }
+    },
+    "overall_confidence": {
+      "enum": [
+        "high",
+        "medium",
+        "low",
+        "insufficient"
+      ]
+    },
+    "causal_conclusion": {
+      "const": false
+    },
+    "limitations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "search_summary": {
+      "type": "object",
+      "required": [
+        "sources_searched",
+        "no_evidence_found_for"
+      ],
+      "properties": {
+        "sources_searched": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "no_evidence_found_for": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "$defs": {
+    "evidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "claim",
+        "organization",
+        "title",
+        "publication_year",
+        "url",
+        "relevance",
+        "time_match"
+      ],
+      "properties": {
+        "claim": {
+          "type": "string"
+        },
+        "organization": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "publication_year": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "relevance": {
+          "type": "string"
+        },
+        "time_match": {
+          "enum": [
+            "before",
+            "during",
+            "after",
+            "unclear"
+          ]
+        }
+      }
+    }
+  }
+}

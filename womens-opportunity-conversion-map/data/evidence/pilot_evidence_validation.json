@@ -1,0 +1,18 @@
+{
+  "schema": "outputs/conversion_evidence_agent/conversion_evidence_report_schema.json",
+  "report_file": "outputs/conversion_evidence_agent/pilot_evidence_reports.jsonl",
+  "report_count": 6,
+  "task_ids": [
+    "CONV-U-003",
+    "CONV-U-008",
+    "CONV-P-001",
+    "CONV-P-004",
+    "CONV-D-003",
+    "CONV-D-005"
+  ],
+  "schema_valid": true,
+  "validation_errors": [],
+  "causal_conclusion_false_count": 6,
+  "reports_with_complicating_evidence": 6,
+  "reports_with_source_urls": 6
+}
