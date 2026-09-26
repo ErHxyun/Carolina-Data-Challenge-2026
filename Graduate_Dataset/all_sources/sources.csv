@@ -1,0 +1,5 @@
+id,lastupdated,name,code,description,url,dataavailability,metadataavailability,concepts
+14,2026-07-22,Gender Statistics,GDS,,,Y,Y,3
+35,2018-06-30,Sustainable Energy for All,SE4,,,Y,Y,3
+80,2020-07-25,Gender Disaggregated Labor Database (GDLD),GDL,,,Y,N,4
+86,2023-05-22,Global Jobs Indicators Database (JOIN),JON,,,Y,Y,3
