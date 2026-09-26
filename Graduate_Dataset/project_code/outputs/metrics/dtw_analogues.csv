@@ -1,0 +1,116 @@
+iso,year,delay_now,analogues,share_analogues_escaped
+AFG,2021,14.25,CPV@2014:Partial improvement; IDN@2009:Escaper; IND@2013:Partial improvement; PAK@2014:Partial improvement; PHL@2008:Partial improvement,0.2
+ALB,2021,12.25,MKD@2014:Escaper; KAZ@2010:Escaper; BLR@2014:Stagnator; UKR@2014:Escaper; LBN@2014:Stagnator,0.6
+ARG,2021,15.625,URY@2014:Escaper; LTU@2014:Escaper; ARM@2014:Stagnator; EGY@2014:Partial improvement; CHL@2014:Partial improvement,0.4
+ARM,2021,22.25,LTU@2014:Escaper; CHL@2014:Partial improvement; URY@2014:Escaper; JOR@2008:Stagnator; LVA@2012:Stagnator,0.4
+AZE,2021,18.0,EGY@2010:Stagnator; LTU@2008:Stagnator; CRI@2014:Stagnator; MDV@2014:Partial improvement; ROU@2012:Stagnator,0.0
+BEN,2021,41.934616,RWA@2012:Stagnator; SOM@2014:Stagnator; KEN@2008:Stagnator; MWI@2014:Stagnator; LSO@2009:Stagnator,0.0
+BFA,2021,39.730465,GHA@2009:Stagnator; COG@2014:Stagnator; MRT@2010:Stagnator; SDN@2008:Partial improvement; LSO@2012:Stagnator,0.0
+BGD,2021,8.75,PHL@2014:Stagnator; LKA@2008:Stagnator; IDN@2014:Escaper; FJI@2008:Partial improvement; ZAF@2014:Stagnator,0.2
+BGR,2021,60.0,MNE@2013:Escaper; ALB@2013:Escaper; THA@2014:Escaper; KGZ@2014:Escaper; RUS@2011:Stagnator,0.8
+BIH,2021,60.0,XKX@2014:Stagnator; RUS@2013:Stagnator; UZB@2014:Stagnator; MYS@2010:Stagnator; ROU@2008:Stagnator,0.0
+BLR,2021,5.5,JOR@2014:Stagnator; POL@2014:Escaper; HRV@2014:Stagnator; MUS@2010:Escaper; LVA@2014:Stagnator,0.4
+BLZ,2021,27.0,TON@2011:Stagnator; AZE@2012:Stagnator; TJK@2010:Stagnator; THA@2008:Partial improvement; IRQ@2013:Partial improvement,0.0
+BOL,2021,60.0,MAR@2010:Stagnator; SLV@2008:Stagnator; PRY@2008:Partial improvement; HND@2013:Stagnator; BTN@2011:Escaper,0.2
+BRA,2021,49.604683,TUN@2011:Stagnator; URY@2008:Escaper; ARG@2012:Stagnator; TUR@2011:Stagnator; IRN@2009:Stagnator,0.2
+BWA,2021,21.625,PAK@2012:Partial improvement; GTM@2008:Stagnator; HND@2008:Stagnator; IDN@2008:Partial improvement; YEM@2014:Stagnator,0.0
+CAF,2021,46.878323,TCD@2010:Fall behind; GNB@2012:Partial improvement; SLE@2012:Stagnator; COD@2012:Stagnator; MDG@2008:Stagnator,0.0
+CHL,2021,36.760307,HRV@2010:Stagnator; GRC@2011:Stagnator; PRT@2013:Stagnator; JOR@2008:Stagnator; EST@2008:Fall behind,0.0
+CHN,2021,19.625,MDV@2013:Partial improvement; UZB@2013:Stagnator; EGY@2008:Stagnator; RUS@2014:Stagnator; IRN@2014:Stagnator,0.0
+CIV,2021,60.0,SLB@2014:Stagnator; SEN@2013:Stagnator; BWA@2008:Fall behind; TLS@2014:Partial improvement; NAM@2010:Stagnator,0.0
+CMR,2021,60.0,SLB@2014:Stagnator; SEN@2011:Stagnator; BWA@2008:Fall behind; NAM@2008:Stagnator; CIV@2014:Stagnator,0.0
+COD,2021,60.0,MDG@2008:Stagnator; TCD@2014:Stagnator; TGO@2008:Stagnator; UGA@2008:Partial improvement; BEN@2008:Stagnator,0.0
+COG,2021,45.980507,GHA@2010:Stagnator; MRT@2011:Stagnator; CMR@2008:Stagnator; SDN@2009:Escaper; ZMB@2014:Stagnator,0.2
+COL,2021,60.0,BRA@2013:Partial improvement; PAN@2014:Stagnator; MEX@2008:Stagnator; ECU@2014:Stagnator; CHN@2011:Partial improvement,0.0
+COM,2021,12.75,NPL@2013:Partial improvement; BGD@2012:Escaper; SWZ@2014:Partial improvement; MMR@2013:Stagnator; CPV@2009:Partial improvement,0.2
+CPV,2021,20.5,PHL@2014:Stagnator; LKA@2008:Stagnator; IDN@2014:Escaper; ZAF@2013:Stagnator; FJI@2008:Partial improvement,0.2
+CRI,2021,60.0,UKR@2011:Stagnator; MUS@2008:Escaper; EGY@2014:Partial improvement; LBN@2014:Stagnator; KAZ@2012:Escaper,0.4
+DJI,2021,55.87432,CIV@2014:Stagnator; SLB@2011:Stagnator; CMR@2014:Stagnator; MRT@2014:Stagnator; SEN@2008:Stagnator,0.0
+DOM,2021,60.0,TON@2008:Partial improvement; BLZ@2014:Partial improvement; WSM@2012:Escaper; JAM@2014:Stagnator; AZE@2009:Stagnator,0.2
+DZA,2021,60.0,KGZ@2008:Escaper; BGR@2013:Stagnator; TON@2014:Stagnator; PSE@2008:Escaper; TJK@2014:Escaper,0.6
+ECU,2021,60.0,GEO@2012:Stagnator; ARG@2009:Stagnator; TUR@2008:Stagnator; MEX@2014:Stagnator; SYR@2009:Stagnator,0.0
+EGY,2021,51.368114,LVA@2013:Stagnator; POL@2010:Partial improvement; MUS@2008:Escaper; LBN@2014:Stagnator; LTU@2014:Escaper,0.4
+ETH,2021,60.0,ZMB@2012:Stagnator; MRT@2008:Stagnator; COG@2014:Stagnator; GHA@2008:Stagnator; TLS@2008:Stagnator,0.0
+FJI,2021,25.5,BLZ@2014:Partial improvement; JAM@2014:Stagnator; WSM@2011:Escaper; TON@2008:Partial improvement; DOM@2014:Stagnator,0.2
+GAB,2021,59.316597,YEM@2008:Stagnator; MNG@2012:Partial improvement; PER@2008:Partial improvement; BOL@2008:Stagnator; LAO@2013:Escaper,0.2
+GEO,2021,33.6745,TUR@2013:Stagnator; ARM@2009:Stagnator; ARG@2014:Stagnator; TUN@2014:Stagnator; IRN@2014:Stagnator,0.0
+GHA,2021,47.911217,MMR@2009:Fall behind; NPL@2010:Partial improvement; BGD@2009:Partial improvement; AFG@2014:Stagnator; SWZ@2010:Partial improvement,0.0
+GIN,2021,31.70998,GHA@2009:Stagnator; LSO@2012:Stagnator; MLI@2014:Fall behind; SDN@2008:Partial improvement; COG@2014:Stagnator,0.0
+GMB,2021,37.09232,KIR@2012:Stagnator; NGA@2014:Stagnator; SDN@2014:Escaper; GHA@2014:Escaper; KEN@2014:Stagnator,0.4
+GNB,2021,26.75,RWA@2010:Stagnator; SOM@2014:Stagnator; MWI@2014:Stagnator; KEN@2008:Stagnator; BEN@2014:Partial improvement,0.0
+GTM,2021,48.83532,LKA@2008:Stagnator; PHL@2014:Stagnator; IDN@2014:Escaper; ZAF@2013:Stagnator; FJI@2008:Partial improvement,0.2
+HND,2021,54.142815,SLV@2014:Partial improvement; PRY@2012:Escaper; VNM@2010:Partial improvement; IRQ@2008:Stagnator; DOM@2008:Stagnator,0.2
+HRV,2021,60.0,PRT@2009:Fall behind; GRC@2008:Partial improvement; JOR@2014:Stagnator; EST@2008:Fall behind; POL@2014:Escaper,0.2
+HTI,2021,60.0,SDN@2008:Partial improvement; LSO@2012:Stagnator; KEN@2010:Stagnator; GHA@2009:Stagnator; GMB@2008:Fall behind,0.0
+IDN,2021,21.625,LKA@2013:Partial improvement; BLZ@2010:Stagnator; FJI@2014:Stagnator; JAM@2009:Fall behind; WSM@2008:Escaper,0.2
+IND,2021,13.5,LKA@2014:Partial improvement; FJI@2014:Stagnator; BLZ@2009:Stagnator; BTN@2014:Escaper; JAM@2008:Stagnator,0.2
+IRN,2021,60.0,MYS@2010:Stagnator; EGY@2010:Stagnator; ROU@2010:Stagnator; CRI@2014:Stagnator; LTU@2008:Stagnator,0.0
+IRQ,2021,10.25,MDV@2014:Partial improvement; EGY@2014:Partial improvement; LTU@2011:Escaper; ROU@2014:Stagnator; CRI@2014:Stagnator,0.2
+JOR,2021,60.0,POL@2014:Escaper; HRV@2011:Stagnator; LVA@2008:Stagnator; MUS@2010:Escaper; PRT@2008:Fall behind,0.4
+KEN,2021,20.125,NPL@2008:Partial improvement; AFG@2013:Stagnator; MMR@2008:Stagnator; BGD@2008:Stagnator; KIR@2014:Stagnator,0.0
+KHM,2021,15.25,BTN@2010:Escaper; ZAF@2008:Stagnator; IDN@2013:Escaper; HND@2010:Stagnator; IND@2014:Partial improvement,0.4
+KIR,2021,26.125,NPL@2010:Partial improvement; BGD@2009:Partial improvement; MMR@2009:Fall behind; SWZ@2009:Stagnator; COM@2014:Stagnator,0.0
+LAO,2021,27.0,BTN@2010:Escaper; HND@2011:Stagnator; ZAF@2008:Stagnator; PRY@2008:Partial improvement; IDN@2013:Escaper,0.4
+LBN,2021,60.0,MUS@2008:Escaper; LVA@2014:Stagnator; POL@2009:Stagnator; KAZ@2012:Escaper; UKR@2014:Escaper,0.6
+LBR,2021,52.324356,SLE@2012:Stagnator; CAF@2010:Fall behind; GNB@2013:Partial improvement; TCD@2009:Fall behind; SOM@2008:Stagnator,0.0
+LKA,2021,14.25,TON@2012:Stagnator; AZE@2013:Stagnator; TJK@2014:Escaper; THA@2009:Partial improvement; DZA@2014:Stagnator,0.2
+LSO,2021,21.5,AFG@2012:Stagnator; KIR@2014:Stagnator; NPL@2008:Partial improvement; MMR@2008:Stagnator; SDN@2014:Escaper,0.2
+LTU,2021,23.5,JOR@2008:Stagnator; POL@2013:Escaper; LVA@2012:Stagnator; MUS@2010:Escaper; HRV@2011:Stagnator,0.4
+LVA,2021,60.0,POL@2010:Partial improvement; MUS@2010:Escaper; JOR@2009:Stagnator; LBN@2014:Stagnator; KAZ@2012:Escaper,0.4
+MAR,2021,21.5,ARG@2009:Stagnator; TUR@2008:Stagnator; IRN@2008:Stagnator; GEO@2013:Stagnator; MDV@2009:Partial improvement,0.0
+MDA,2021,60.0,UZB@2010:Stagnator; THA@2013:Escaper; IRN@2014:Stagnator; MNE@2012:Escaper; KGZ@2014:Escaper,0.6
+MDG,2021,60.0,MWI@2013:Stagnator; UGA@2014:Partial improvement; SOM@2013:Stagnator; LSO@2008:Stagnator; MLI@2012:Stagnator,0.0
+MDV,2021,7.25,HRV@2014:Stagnator; JOR@2011:Stagnator; PRT@2011:Stagnator; GRC@2010:Stagnator; POL@2014:Escaper,0.2
+MEX,2021,60.0,IRN@2012:Stagnator; TUR@2011:Stagnator; MDA@2014:Stagnator; MDV@2011:Partial improvement; GEO@2014:Stagnator,0.0
+MKD,2021,14.75,MUS@2010:Escaper; POL@2011:Escaper; LVA@2014:Stagnator; LBN@2014:Stagnator; KAZ@2012:Escaper,0.6
+MLI,2021,23.75,GHA@2013:Partial improvement; AFG@2008:Stagnator; SDN@2012:Escaper; DJI@2014:Stagnator; KIR@2008:Stagnator,0.2
+MMR,2021,18.5,IDN@2012:Escaper; PHL@2009:Partial improvement; IND@2014:Partial improvement; GTM@2014:Partial improvement; CPV@2014:Partial improvement,0.2
+MNE,2021,13.625,KAZ@2011:Escaper; UKR@2013:Stagnator; LBN@2014:Stagnator; MUS@2008:Escaper; MKD@2014:Escaper,0.6
+MNG,2021,23.75,BTN@2011:Escaper; HND@2012:Stagnator; PRY@2008:Partial improvement; ZAF@2008:Stagnator; VNM@2008:Partial improvement,0.2
+MOZ,2021,27.0,ZMB@2012:Stagnator; MRT@2008:Stagnator; COG@2014:Stagnator; TLS@2008:Stagnator; GHA@2008:Stagnator,0.0
+MRT,2021,25.5,BWA@2009:Fall behind; SEN@2014:Stagnator; NAM@2014:Stagnator; LAO@2010:Partial improvement; ZWE@2014:Stagnator,0.0
+MWI,2021,26.625,KEN@2011:Stagnator; GMB@2008:Fall behind; LSO@2013:Stagnator; SDN@2008:Partial improvement; NGA@2008:Stagnator,0.0
+MYS,2021,60.0,KAZ@2009:Escaper; UKR@2013:Stagnator; MKD@2014:Escaper; LBN@2014:Stagnator; BLR@2014:Stagnator,0.4
+NAM,2021,60.0,SWZ@2010:Partial improvement; CPV@2008:Partial improvement; BWA@2012:Fall behind; IND@2008:Partial improvement; MMR@2011:Stagnator,0.0
+NER,2021,50.47386,MRT@2008:Stagnator; COG@2012:Stagnator; ZMB@2011:Stagnator; BFA@2014:Stagnator; TGO@2014:Stagnator,0.0
+NGA,2021,60.0,KIR@2014:Stagnator; AFG@2012:Stagnator; MMR@2008:Stagnator; SDN@2014:Escaper; NPL@2008:Partial improvement,0.2
+NIC,2021,55.748966,MAR@2010:Stagnator; SLV@2008:Stagnator; BRA@2008:Stagnator; COL@2008:Stagnator; BOL@2014:Stagnator,0.0
+NPL,2021,12.625,PHL@2011:Stagnator; IDN@2012:Escaper; GTM@2014:Partial improvement; IND@2014:Partial improvement; CPV@2014:Partial improvement,0.2
+PAK,2021,34.867645,IDN@2014:Escaper; ZAF@2012:Stagnator; LKA@2008:Stagnator; FJI@2008:Partial improvement; PHL@2014:Stagnator,0.2
+PAN,2021,48.6274,IRN@2008:Stagnator; TUR@2008:Stagnator; TUN@2009:Stagnator; GEO@2014:Stagnator; ARG@2011:Stagnator,0.0
+PER,2021,43.854218,SLV@2008:Stagnator; PRY@2008:Partial improvement; HND@2014:Stagnator; VNM@2008:Partial improvement; MAR@2011:Stagnator,0.0
+PHL,2021,19.5,JAM@2009:Fall behind; WSM@2008:Escaper; GUY@2008:Fall behind; LKA@2013:Partial improvement; BLZ@2010:Stagnator,0.2
+PRY,2021,19.5,THA@2010:Escaper; AZE@2014:Stagnator; TON@2014:Stagnator; IRQ@2014:Partial improvement; MDA@2014:Stagnator,0.2
+ROU,2021,60.0,LTU@2014:Escaper; URY@2014:Escaper; UKR@2008:Stagnator; LVA@2012:Stagnator; POL@2010:Partial improvement,0.4
+RUS,2021,60.0,ROU@2012:Stagnator; LTU@2009:Partial improvement; EGY@2012:Stagnator; MYS@2012:Stagnator; CRI@2014:Stagnator,0.0
+RWA,2021,14.25,KIR@2014:Stagnator; AFG@2012:Stagnator; NPL@2008:Partial improvement; SDN@2014:Escaper; MMR@2008:Stagnator,0.2
+SDN,2021,25.25,NPL@2010:Partial improvement; BGD@2009:Partial improvement; MMR@2009:Fall behind; SWZ@2010:Partial improvement; AFG@2014:Stagnator,0.0
+SEN,2021,42.461514,CPV@2008:Partial improvement; BWA@2012:Fall behind; IND@2008:Partial improvement; SWZ@2011:Partial improvement; MMR@2011:Stagnator,0.0
+SLB,2021,47.091747,SWZ@2008:Stagnator; MMR@2008:Stagnator; SEN@2014:Stagnator; BGD@2008:Stagnator; BWA@2009:Fall behind,0.0
+SLE,2021,26.5,RWA@2008:Stagnator; BEN@2014:Partial improvement; UGA@2014:Partial improvement; SOM@2012:Stagnator; MDG@2014:Stagnator,0.0
+SLV,2021,49.749687,AZE@2008:Stagnator; TON@2008:Partial improvement; VNM@2014:Partial improvement; DOM@2014:Stagnator; IRQ@2011:Partial improvement,0.0
+SOM,2021,20.5,GMB@2011:Stagnator; KEN@2013:Stagnator; NGA@2011:Stagnator; RWA@2014:Stagnator; DJI@2009:Stagnator,0.0
+SRB,2021,60.0,MYS@2014:Stagnator; BIH@2009:Stagnator; KAZ@2008:Escaper; LTU@2008:Stagnator; XKX@2011:Stagnator,0.2
+SSD,2021,15.75,SLE@2008:Stagnator; LBR@2014:Stagnator; CAF@2008:Fall behind; GNB@2011:Partial improvement; TCD@2008:Fall behind,0.0
+STP,2021,12.625,COM@2014:Stagnator; KIR@2014:Stagnator; NPL@2009:Partial improvement; AFG@2013:Stagnator; SDN@2014:Escaper,0.2
+SWZ,2021,44.13761,CPV@2014:Partial improvement; BGD@2014:Escaper; NPL@2014:Partial improvement; IDN@2008:Partial improvement; PHL@2008:Partial improvement,0.2
+SYR,2021,60.0,IRN@2008:Stagnator; GEO@2014:Stagnator; TUR@2009:Stagnator; DZA@2008:Stagnator; MDA@2011:Stagnator,0.0
+TCD,2021,32.211014,TGO@2012:Stagnator; COG@2008:Stagnator; GIN@2012:Stagnator; NER@2014:Stagnator; MLI@2009:Stagnator,0.0
+TGO,2021,32.231167,GHA@2009:Stagnator; MRT@2010:Stagnator; SDN@2008:Partial improvement; COG@2014:Stagnator; LSO@2013:Stagnator,0.0
+TJK,2021,50.879875,KGZ@2013:Escaper; PSE@2008:Escaper; ALB@2009:Escaper; BGR@2014:Stagnator; THA@2013:Escaper,0.8
+TLS,2021,12.0,IND@2013:Partial improvement; IDN@2010:Escaper; CPV@2014:Partial improvement; PAK@2014:Partial improvement; GTM@2012:Partial improvement,0.2
+TON,2021,18.75,MNE@2013:Escaper; THA@2014:Escaper; ALB@2013:Escaper; PSE@2009:Escaper; KGZ@2014:Escaper,1.0
+TUN,2021,60.0,EGY@2011:Stagnator; CRI@2014:Stagnator; ROU@2013:Stagnator; MYS@2011:Stagnator; LTU@2009:Partial improvement,0.0
+TUR,2021,20.625,LTU@2014:Escaper; URY@2014:Escaper; ARM@2014:Stagnator; EGY@2014:Partial improvement; ROU@2014:Stagnator,0.4
+TZA,2021,22.25,LSO@2013:Stagnator; SDN@2009:Escaper; GHA@2010:Stagnator; KEN@2011:Stagnator; AFG@2008:Stagnator,0.2
+UGA,2021,36.1071,RWA@2013:Stagnator; KEN@2009:Stagnator; GMB@2008:Fall behind; SOM@2014:Stagnator; LSO@2012:Stagnator,0.0
+URY,2021,19.25,JOR@2010:Stagnator; HRV@2014:Stagnator; POL@2014:Escaper; LVA@2014:Stagnator; PRT@2008:Fall behind,0.2
+UZB,2021,60.0,SRB@2014:Stagnator; BIH@2014:Stagnator; MYS@2013:Stagnator; RUS@2014:Stagnator; XKX@2013:Stagnator,0.0
+VEN,2021,60.0,EGY@2014:Partial improvement; ROU@2014:Stagnator; LTU@2011:Escaper; CRI@2014:Stagnator; UKR@2008:Stagnator,0.2
+VNM,2021,15.375,THA@2012:Escaper; MDV@2012:Partial improvement; IRN@2014:Stagnator; AZE@2014:Stagnator; MDA@2014:Stagnator,0.2
+WSM,2021,13.75,PSE@2008:Escaper; KGZ@2012:Escaper; BGR@2014:Stagnator; ALB@2010:Escaper; THA@2012:Escaper,0.8
+XKX,2021,60.0,UZB@2008:Stagnator; MYS@2008:Stagnator; RUS@2012:Stagnator; EGY@2008:Stagnator; IRN@2014:Stagnator,0.0
+YEM,2021,60.0,GTM@2008:Stagnator; PAK@2013:Partial improvement; IDN@2008:Partial improvement; HND@2008:Stagnator; IND@2012:Partial improvement,0.0
+ZAF,2021,60.0,BLZ@2008:Stagnator; JAM@2008:Stagnator; FJI@2013:Stagnator; LKA@2012:Partial improvement; DOM@2008:Stagnator,0.0
+ZMB,2021,39.11504,CIV@2009:Stagnator; SLB@2008:Stagnator; CMR@2011:Stagnator; MRT@2013:Stagnator; GHA@2012:Partial improvement,0.0
+ZWE,2021,60.0,NAM@2014:Stagnator; SWZ@2008:Stagnator; BWA@2010:Fall behind; SEN@2014:Stagnator; LAO@2011:Escaper,0.2

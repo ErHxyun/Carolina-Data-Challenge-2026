@@ -1,0 +1,5 @@
+link,n_rows,n_countries,beta_UW,beta_RW,Lambda_median,Lambda_q05,Lambda_q95,p_Lambda_gt_0,reading
+"Education -> Employment (t+3), longitudinal",3616,128,-0.04334856939981126,0.0030207655602004,-0.04777039195930746,-0.1311043496447175,0.030487008078305507,0.17,P = 17% that gains in education convert less strongly for rural women than for urban women
+"Employment (2021) -> Finance (2024), cross-country",94,47,-0.04960433084717657,-0.0021144774451716357,-0.04304008477201423,-0.24236670026364518,0.213872525745731,0.39,P = 39% that gains in employment convert less strongly for rural women than for urban women
+"Digital (2024) -> Finance (2024), cross-country",270,135,-0.08759597948594534,-0.03419350815946985,-0.05801769949714899,-0.22086165372399932,0.13181532203040727,0.315,P = 32% that gains in digital convert less strongly for rural women than for urban women
+"Finance (2024) -> Resilience (2024), cross-country",192,96,0.08025574516610547,0.13660685378367332,-0.07587762922782051,-0.3243368067122253,0.19024060716743674,0.345,P = 34% that gains in finance convert less strongly for rural women than for urban women

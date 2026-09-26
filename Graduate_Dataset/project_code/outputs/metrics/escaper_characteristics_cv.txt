@@ -1,0 +1,2 @@
+rows=124 escapers=19 countries=27
+grouped-CV AUC logistic=0.699  lightgbm=0.646

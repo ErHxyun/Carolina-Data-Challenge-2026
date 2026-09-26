@@ -1,0 +1,9 @@
+dimension,n_obs,n_series,rho,tau,max_rhat,pca_corr,pca_rows,loadings
+Education,8704,606,0.8614498832366405,0.24636422470229685,1.0077883777060674,0.9093854811177431,3144,edu_years=1.00; enrol_6_16=0.70
+Employment,19025,606,0.9012129364100337,0.13401169730117118,1.0448153599526178,0.872294879741115,986,emp_to_pop=0.00; informal_job=0.93; nonag_emp_women=1.38; nonag_wage_emp=1.00; social_security=0.87; work_contract=0.70
+Finance,2226,550,0.8144588473771285,0.05667548166694084,2.092052712157537,0.9460737654864732,250,account=1.00; borrow_formal=1.01; debit_card=1.02; fi_account=1.03; saved_formal=0.69
+Resilience,390,390,0.8121853034108117,0.11084465681117099,1.1805034026222032,,0,emergency_funds=1.00
+Digital,2632,588,0.8081979306352579,0.06480506088890287,1.0582666706691166,0.5227896402060094,334,digital_account=0.37; digital_payment=0.50; id_ownership=1.38; online_id=0.69; own_mobile=1.00
+Health,43024,734,0.9926680930907498,0.026301946208205633,1.0206056354960624,0.9527159252828598,6794,basic_sanit=1.00; basic_water=0.86; handwashing=1.03; health_insur=0.66; menstrual_materials=0.25; menstrual_private=0.50
+Infrastructure,53494,860,0.9849940776893411,0.013112725558157724,1.073543406481541,0.9511710838726742,8404,clean_cooking=1.00; electricity=0.88; safe_water=0.83
+Overall,129495,860,0.974348082851171,0.03216578089131486,1.039829041528953,0.9942135081333782,8248,account=0.73; basic_sanit=1.00; basic_water=0.96; borrow_formal=0.38; clean_cooking=0.97; debit_card=1.06; digital_account=0.23; digital_payment=0.36; edu_years=0.71; electricity=1.03; emergency_funds=0.03; emp_to_pop=0.00; enrol_6_16=0.58; fi_account=0.89; handwashing=1.06; health_insur=0.75; id_ownership=0.76; informal_job=0.95; menstrual_materials=0.31; menstrual_private=0.51; nonag_emp_women=0.82; nonag_wage_emp=0.57; online_id=0.96; own_mobile=0.80; safe_water=0.95; saved_formal=0.06; social_security=0.73; work_contract=0.60
