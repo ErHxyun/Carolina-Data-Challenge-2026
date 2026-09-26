@@ -8,6 +8,7 @@ Run the whole pipeline:  python run_all.py            (about 15 minutes; the MCM
   4 s04_early_warning     PREDICT  - will the delay widen in 3 years?
   5 s05_evidence_prompts  EXPLAIN  - structured LLM evidence-investigation prompts
   6 s06_report            country_summary.csv + figures
+  7 s07_export            hand-off package for UI / LLM teammates (outputs/handoff)
 """
 import importlib
 import sys
@@ -15,7 +16,7 @@ import time
 import warnings
 
 warnings.filterwarnings("ignore")
-STEPS = ["s01_build_panel", "s02_latent_model", "s03_metrics", "s04_early_warning", "s05_evidence_prompts", "s06_report"]
+STEPS = ["s01_build_panel", "s02_latent_model", "s03_metrics", "s04_early_warning", "s05_evidence_prompts", "s06_report", "s07_export"]
 
 if __name__ == "__main__":
     start = int(sys.argv[sys.argv.index("--from") + 1]) if "--from" in sys.argv else 1

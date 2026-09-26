@@ -1,0 +1,100 @@
+[
+ {
+  "name": "get_country_profile",
+  "description": "All headline metrics (opportunity delay, progress pattern, half-life, change points, leakage, intersectional wage penalty, historical analogues, early-warning risk) for one country.",
+  "input_schema": {
+   "type": "object",
+   "properties": {
+    "country": {
+     "type": "string",
+     "description": "ISO3 code or World Bank country name"
+    }
+   },
+   "required": [
+    "country"
+   ]
+  }
+ },
+ {
+  "name": "get_findings",
+  "description": "Structured statistical findings, each with a plain-language statement and its uncertainty. Filter by country, finding_type and dimension.",
+  "input_schema": {
+   "type": "object",
+   "properties": {
+    "country": {
+     "type": "string"
+    },
+    "finding_type": {
+     "type": "string",
+     "enum": [
+      "opportunity_delay",
+      "progress_pattern",
+      "half_life",
+      "change_point",
+      "early_warning"
+     ]
+    },
+    "dimension": {
+     "type": "string",
+     "enum": [
+      "Overall",
+      "Education",
+      "Employment",
+      "Health",
+      "Infrastructure"
+     ]
+    },
+    "limit": {
+     "type": "integer",
+     "default": 50
+    }
+   }
+  }
+ },
+ {
+  "name": "compare_countries",
+  "description": "Side-by-side comparison of several countries on one dimension.",
+  "input_schema": {
+   "type": "object",
+   "properties": {
+    "countries": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     }
+    },
+    "dimension": {
+     "type": "string",
+     "default": "Overall"
+    }
+   },
+   "required": [
+    "countries"
+   ]
+  }
+ },
+ {
+  "name": "list_high_risk",
+  "description": "Countries with the highest predicted probability that rural women's opportunity delay widens 2024-2027.",
+  "input_schema": {
+   "type": "object",
+   "properties": {
+    "top": {
+     "type": "integer",
+     "default": 10
+    },
+    "region": {
+     "type": "string"
+    }
+   }
+  }
+ },
+ {
+  "name": "get_global_summary",
+  "description": "Cross-country headline results and model performance.",
+  "input_schema": {
+   "type": "object",
+   "properties": {}
+  }
+ }
+]

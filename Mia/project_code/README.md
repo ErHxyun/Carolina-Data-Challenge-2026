@@ -26,6 +26,7 @@ Outputs go to `project_code/outputs/` (override with `CDC_OUT`). Seeds are fixed
 | 4 | `s04_early_warning.py` | Predict | One early-warning model: *will rural women's Opportunity Delay widen in the next 3 years?* Chronological validation with an embargo, plus leave-one-region-out |
 | 5 | `s05_evidence_prompts.py` | Explain | Structured LLM evidence-investigation prompts (Finding → Mechanism → Supporting → Contradicting → Confidence); `--run N` queries Claude with web search restricted to World Bank / ILO / UN Women / WHO / UNICEF / FAO / IFAD / UNDP |
 | 6 | `s06_report.py` | — | `outputs/country_summary.csv` (one row per country, every headline metric) + 7 figures |
+| 7 | `s07_export.py` | Hand-off | `outputs/handoff/`: clean JSON for the UI (`ui/`), structured findings + agent tools for the LLM side (`llm/`), and `DATA_DICTIONARY.md` with display rules |
 
 `config.py` holds every choice (indicator map, anchors, years, MCMC length, thresholds). `latent.py` loads posterior draws; `common.py` has loaders and helpers.
 
