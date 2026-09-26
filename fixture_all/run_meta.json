@@ -1,0 +1,10 @@
+{
+ "backend": "fixture",
+ "verify_urls": true,
+ "run_id": "20260926T231651Z-3382e4",
+ "processed": 35,
+ "skipped_completed": 0,
+ "rejected": [],
+ "reports": 35,
+ "failures": 0
+}

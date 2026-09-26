@@ -1,0 +1,64 @@
+{
+ "file": "/Users/isotopeatlarge/Documents/Codex/2026-09-26/referenced-chatgpt-conversation-this-is-an/outputs/conversion_evidence_agent/pilot_evidence_reports.jsonl",
+ "reports": 6,
+ "invalid": 0,
+ "results": [
+  {
+   "line": 1,
+   "task_id": "CONV-U-003",
+   "valid": true,
+   "issues": [
+    {
+     "code": "source_reused_as_contradiction",
+     "severity": "warning",
+     "path": "contradicting_or_complicating_evidence[0]",
+     "message": "source worldbank.org/en/news/feature/2025/03/12/breaking-barriers-boosting-women-s-labor-force-participation-in-egypt appears in 2 evidence lists"
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "task_id": "CONV-U-008",
+   "valid": true,
+   "issues": [
+    {
+     "code": "source_reused_as_contradiction",
+     "severity": "warning",
+     "path": "contradicting_or_complicating_evidence[0]",
+     "message": "source ilo.org/sites/default/files/2024-08/india employment - web_8 april.pdf appears in 2 evidence lists"
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "task_id": "CONV-P-001",
+   "valid": true,
+   "issues": [
+    {
+     "code": "source_reused_across_mechanisms",
+     "severity": "warning",
+     "path": "mechanisms[1].supporting_evidence[0]",
+     "message": "source documents1.worldbank.org/curated/en/099930107032270670/pdf/idu023e151a3048ea046610937c02e7924f61b47.pdf appears in 2 evidence lists"
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "task_id": "CONV-P-004",
+   "valid": true,
+   "issues": []
+  },
+  {
+   "line": 5,
+   "task_id": "CONV-D-003",
+   "valid": true,
+   "issues": []
+  },
+  {
+   "line": 6,
+   "task_id": "CONV-D-005",
+   "valid": true,
+   "issues": []
+  }
+ ]
+}

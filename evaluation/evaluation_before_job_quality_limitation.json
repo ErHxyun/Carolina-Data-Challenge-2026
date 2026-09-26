@@ -1,0 +1,442 @@
+{
+ "disclaimer": "Offline evaluation. Live retrieval (web search) could not be executed in this environment; no metric below measures live search quality.",
+ "pilot_run": {
+  "dir": "../outputs/evidence_agent_runs/fixture_pilots",
+  "metrics": {
+   "tasks": 6,
+   "dispositions": {
+    "completed": 6
+   },
+   "completion_rate_pct": 100.0,
+   "countries_with_report": 6,
+   "schema_valid_rate_pct": 100.0,
+   "with_supporting_source_pct": 100.0,
+   "with_contradicting_evidence_pct": 100.0,
+   "explicit_no_contradiction_found_pct": 0.0,
+   "evidence_items": 25,
+   "accessible_url_pct": 100.0,
+   "claim_terms_or_numbers_confirmed_pct": 80.0,
+   "authoritative_source_rate_pct": 100.0,
+   "tier_distribution": {
+    "2": 18,
+    "3": 7
+   },
+   "duplicate_within_list_rate_pct": 0.0,
+   "source_reuse_rate_pct": 8.0,
+   "temporal_match_completeness_pct": 100.0,
+   "period_stated_in_source_pct": 4.0,
+   "time_match_distribution": {
+    "before": 3,
+    "during": 19,
+    "after": 3
+   },
+   "unsupported_causal_language_rate_pct": 0.0,
+   "possible_causal_overstatement_warning_rate_pct": 0.0,
+   "causal_conclusion_false_pct": 100.0,
+   "abstention_rate_pct": 0.0,
+   "overall_confidence_distribution": {
+    "medium": 3,
+    "low": 3
+   },
+   "mandatory_review_rate_pct": 83.3,
+   "review_flag_counts": {
+    "annotated_time_match_inconsistent_with_publication_year": 2,
+    "cited_title_not_found_in_document": 2,
+    "fixture_evidence_not_live_retrieved": 6,
+    "source_reused_not_independent": 2,
+    "retrieved_evidence_rejected": 1,
+    "low_or_insufficient_confidence": 3,
+    "politically_or_legally_sensitive_claim": 1,
+    "reviewed_claim_corrected_after_source_check": 1
+   }
+  }
+ },
+ "pilot_agreement": {
+  "per_task": [
+   {
+    "task_id": "CONV-U-003",
+    "country": "Egypt",
+    "agent_leading": "unpaid_care",
+    "gold_leading": [
+     "unpaid_care"
+    ],
+    "leading_match": true,
+    "agent_mechanisms": [
+     "unpaid_care",
+     "job_shortage"
+    ],
+    "gold_mechanism_recall": 1.0,
+    "agent_confidence": "medium",
+    "gold_confidence": "medium",
+    "confidence_exact": true,
+    "confidence_within_one": true,
+    "gold_caveats": [
+     "measurement",
+     "no_causal_attribution",
+     "post_period_sources"
+    ],
+    "caveats_found": [
+     "measurement",
+     "no_causal_attribution",
+     "post_period_sources"
+    ],
+    "caveats_missing": [],
+    "caveat_recall": 1.0,
+    "caveat_recall_excluding_templated": 1.0
+   },
+   {
+    "task_id": "CONV-U-008",
+    "country": "India",
+    "agent_leading": "unpaid_care",
+    "gold_leading": [
+     "unpaid_care"
+    ],
+    "leading_match": true,
+    "agent_mechanisms": [
+     "unpaid_care"
+    ],
+    "gold_mechanism_recall": 0.5,
+    "agent_confidence": "medium",
+    "gold_confidence": "medium",
+    "confidence_exact": true,
+    "confidence_within_one": true,
+    "gold_caveats": [
+     "heterogeneity",
+     "job_quality",
+     "no_causal_attribution"
+    ],
+    "caveats_found": [
+     "heterogeneity",
+     "no_causal_attribution"
+    ],
+    "caveats_missing": [
+     "job_quality"
+    ],
+    "caveat_recall": 0.67,
+    "caveat_recall_excluding_templated": 0.0
+   },
+   {
+    "task_id": "CONV-P-001",
+    "country": "Togo",
+    "agent_leading": "broad_participation",
+    "gold_leading": [
+     "broad_participation"
+    ],
+    "leading_match": true,
+    "agent_mechanisms": [
+     "broad_participation",
+     "informality_vulnerable"
+    ],
+    "gold_mechanism_recall": 1.0,
+    "agent_confidence": "low",
+    "gold_confidence": "low",
+    "confidence_exact": true,
+    "confidence_within_one": true,
+    "gold_caveats": [
+     "job_quality",
+     "limited_sources",
+     "no_causal_attribution"
+    ],
+    "caveats_found": [
+     "job_quality",
+     "limited_sources",
+     "no_causal_attribution"
+    ],
+    "caveats_missing": [],
+    "caveat_recall": 1.0,
+    "caveat_recall_excluding_templated": 1.0
+   },
+   {
+    "task_id": "CONV-P-004",
+    "country": "Mozambique",
+    "agent_leading": "broad_participation",
+    "gold_leading": [
+     "broad_participation"
+    ],
+    "leading_match": true,
+    "agent_mechanisms": [
+     "broad_participation",
+     "informality_vulnerable"
+    ],
+    "gold_mechanism_recall": 1.0,
+    "agent_confidence": "low",
+    "gold_confidence": "low",
+    "confidence_exact": true,
+    "confidence_within_one": true,
+    "gold_caveats": [
+     "conflicting_statistics",
+     "job_quality",
+     "no_causal_attribution"
+    ],
+    "caveats_found": [
+     "job_quality",
+     "no_causal_attribution"
+    ],
+    "caveats_missing": [
+     "conflicting_statistics"
+    ],
+    "caveat_recall": 0.67,
+    "caveat_recall_excluding_templated": 0.5
+   },
+   {
+    "task_id": "CONV-D-003",
+    "country": "Cambodia",
+    "agent_leading": "unpaid_care",
+    "gold_leading": [
+     "unpaid_care"
+    ],
+    "leading_match": true,
+    "agent_mechanisms": [
+     "unpaid_care",
+     "skills_mismatch",
+     "occupational_segregation"
+    ],
+    "gold_mechanism_recall": 1.0,
+    "agent_confidence": "low",
+    "gold_confidence": "medium",
+    "confidence_exact": false,
+    "confidence_within_one": true,
+    "gold_caveats": [
+     "job_quality",
+     "no_causal_attribution",
+     "not_longitudinal"
+    ],
+    "caveats_found": [
+     "job_quality",
+     "no_causal_attribution",
+     "not_longitudinal"
+    ],
+    "caveats_missing": [],
+    "caveat_recall": 1.0,
+    "caveat_recall_excluding_templated": 1.0
+   },
+   {
+    "task_id": "CONV-D-005",
+    "country": "Bhutan",
+    "agent_leading": "unpaid_care",
+    "gold_leading": [
+     "job_shortage",
+     "public_sector_queue"
+    ],
+    "leading_match": false,
+    "agent_mechanisms": [
+     "unpaid_care",
+     "public_sector_queue"
+    ],
+    "gold_mechanism_recall": 1.0,
+    "agent_confidence": "medium",
+    "gold_confidence": "medium",
+    "confidence_exact": true,
+    "confidence_within_one": true,
+    "gold_caveats": [
+     "measurement",
+     "no_causal_attribution",
+     "not_longitudinal"
+    ],
+    "caveats_found": [
+     "no_causal_attribution",
+     "not_longitudinal"
+    ],
+    "caveats_missing": [
+     "measurement"
+    ],
+    "caveat_recall": 0.67,
+    "caveat_recall_excluding_templated": 0.5
+   }
+  ],
+  "leading_mechanism_agreement_pct": 83.3,
+  "mean_gold_mechanism_recall": 0.92,
+  "confidence_exact_agreement_pct": 83.3,
+  "confidence_within_one_level_pct": 100.0,
+  "mean_caveat_recall": 0.83,
+  "mean_caveat_recall_excluding_templated": 0.67,
+  "note": "Fixture mode reuses the pilots' own sources, so this measures whether planning, classification and the rubric reproduce reviewer judgments from the same evidence - not retrieval quality. Caveats are keyword-detected; 'no_causal_attribution' and 'heterogeneity' are emitted from templates in every report, so recall excluding them is the more informative number."
+ },
+ "planner_coverage": {
+  "per_task": {
+   "CONV-D-003": {
+    "fixture_items": 4,
+    "retrieved": 4,
+    "never_retrieved": []
+   },
+   "CONV-D-005": {
+    "fixture_items": 5,
+    "retrieved": 5,
+    "never_retrieved": []
+   },
+   "CONV-P-001": {
+    "fixture_items": 3,
+    "retrieved": 3,
+    "never_retrieved": []
+   },
+   "CONV-P-004": {
+    "fixture_items": 5,
+    "retrieved": 4,
+    "never_retrieved": [
+     "CONV-P-004#03: Structural change, employment and education in Mozambique"
+    ]
+   },
+   "CONV-U-003": {
+    "fixture_items": 5,
+    "retrieved": 5,
+    "never_retrieved": []
+   },
+   "CONV-U-008": {
+    "fixture_items": 6,
+    "retrieved": 5,
+    "never_retrieved": [
+     "CONV-U-008#03: India Employment Report 2024: Youth employment, education and skills"
+    ]
+   }
+  },
+  "fixture_recall_pct": 92.9
+ },
+ "pilot_self_audit": {
+  "reports": [
+   {
+    "task_id": "CONV-U-003",
+    "errors": [],
+    "warnings": [
+     "source_reused_as_contradiction"
+    ]
+   },
+   {
+    "task_id": "CONV-U-008",
+    "errors": [],
+    "warnings": [
+     "source_reused_as_contradiction"
+    ]
+   },
+   {
+    "task_id": "CONV-P-001",
+    "errors": [],
+    "warnings": [
+     "source_reused_across_mechanisms"
+    ]
+   },
+   {
+    "task_id": "CONV-P-004",
+    "errors": [],
+    "warnings": []
+   },
+   {
+    "task_id": "CONV-D-003",
+    "errors": [],
+    "warnings": []
+   },
+   {
+    "task_id": "CONV-D-005",
+    "errors": [],
+    "warnings": []
+   }
+  ]
+ },
+ "all_tasks_run": {
+  "dir": "../outputs/evidence_agent_runs/fixture_all",
+  "metrics": {
+   "tasks": 35,
+   "dispositions": {
+    "abstained": 29,
+    "completed": 6
+   },
+   "completion_rate_pct": 100.0,
+   "countries_with_report": 31,
+   "schema_valid_rate_pct": 100.0,
+   "with_supporting_source_pct": 17.1,
+   "with_contradicting_evidence_pct": 17.1,
+   "explicit_no_contradiction_found_pct": 82.9,
+   "evidence_items": 25,
+   "accessible_url_pct": 100.0,
+   "claim_terms_or_numbers_confirmed_pct": 80.0,
+   "authoritative_source_rate_pct": 100.0,
+   "tier_distribution": {
+    "2": 18,
+    "3": 7
+   },
+   "duplicate_within_list_rate_pct": 0.0,
+   "source_reuse_rate_pct": 8.0,
+   "temporal_match_completeness_pct": 100.0,
+   "period_stated_in_source_pct": 4.0,
+   "time_match_distribution": {
+    "before": 3,
+    "during": 19,
+    "after": 3
+   },
+   "unsupported_causal_language_rate_pct": 0.0,
+   "possible_causal_overstatement_warning_rate_pct": 0.0,
+   "causal_conclusion_false_pct": 100.0,
+   "abstention_rate_pct": 82.9,
+   "overall_confidence_distribution": {
+    "insufficient": 29,
+    "medium": 3,
+    "low": 3
+   },
+   "mandatory_review_rate_pct": 97.1,
+   "review_flag_counts": {
+    "fixture_evidence_not_live_retrieved": 35,
+    "low_or_insufficient_confidence": 32,
+    "annotated_time_match_inconsistent_with_publication_year": 2,
+    "cited_title_not_found_in_document": 2,
+    "source_reused_not_independent": 2,
+    "retrieved_evidence_rejected": 1,
+    "politically_or_legally_sensitive_claim": 1,
+    "positive_converter_job_quality_unverified": 8,
+    "reviewed_claim_corrected_after_source_check": 1
+   }
+  }
+ },
+ "legacy_run": {
+  "dir": "../outputs/evidence_agent_runs/legacy_fixture",
+  "metrics": {
+   "tasks": 20,
+   "dispositions": {
+    "abstained": 20
+   },
+   "completion_rate_pct": 100.0,
+   "countries_with_report": 18,
+   "schema_valid_rate_pct": 100.0,
+   "with_supporting_source_pct": 0.0,
+   "with_contradicting_evidence_pct": 0.0,
+   "explicit_no_contradiction_found_pct": 100.0,
+   "evidence_items": 0,
+   "accessible_url_pct": "not measured (run without --verify-urls)",
+   "claim_terms_or_numbers_confirmed_pct": "not measured",
+   "authoritative_source_rate_pct": null,
+   "tier_distribution": {},
+   "duplicate_within_list_rate_pct": null,
+   "source_reuse_rate_pct": null,
+   "temporal_match_completeness_pct": null,
+   "period_stated_in_source_pct": null,
+   "time_match_distribution": {},
+   "unsupported_causal_language_rate_pct": 0.0,
+   "possible_causal_overstatement_warning_rate_pct": 0.0,
+   "causal_conclusion_false_pct": 100.0,
+   "abstention_rate_pct": 100.0,
+   "overall_confidence_distribution": {
+    "insufficient": 20
+   },
+   "mandatory_review_rate_pct": 100.0,
+   "review_flag_counts": {
+    "fixture_evidence_not_live_retrieved": 20,
+    "legacy_out_of_scope": 18,
+    "low_or_insufficient_confidence": 20
+   }
+  }
+ },
+ "legacy_regression": {
+  "legacy_prompts": 201,
+  "parsed": 201,
+  "rejected": [],
+  "sample_size": 20,
+  "sample_dimensions": {
+   "Infrastructure": 6,
+   "Health": 10,
+   "Overall": 2,
+   "Education": 1,
+   "Employment": 1
+  },
+  "flagged_out_of_scope_pct": 90.0,
+  "abstained_pct": 100.0,
+  "note": "No completed reports exist for the legacy 201 prompts (only prompts and statistical findings), so regression checks parsing, scoping, schema validity, causal safety and correct abstention when no evidence is available - not agreement with prior answers."
+ }
+}
