@@ -1,0 +1,13 @@
+﻿variable,nonmissing,missing,minimum,maximum,flagged
+female_unpaid_hours,177,0,1.2049224,7.449794400000001,0
+male_unpaid_hours,177,0,0.3,4.1666664,0
+time_gap_hours,177,0,0.5022912,5.4622248,0
+female_lfpr_pct,177,0,12.29,87.119,0
+male_lfpr_pct,177,0,56.075,95.596,0
+lfpr_gap_pp,177,0,-1.0700000000000074,60.445,0
+electricity_pct,177,0,5.3,100.0,0
+water_pct,174,3,36.9195071413939,100.0,0
+clean_cooking_pct,171,6,0.4,100.0,0
+urban_population_pct,177,0,15.1041793656241,100.0,0
+fertility_rate,177,0,0.918,5.848,0
+gdp_per_capita_ppp,175,2,1214.7426419188,138046.596315458,0

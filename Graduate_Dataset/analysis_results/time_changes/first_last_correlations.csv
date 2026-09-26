@@ -1,0 +1,7 @@
+view,related_change,pairs,entities,pearson_r,spearman_rho
+All first-to-last pairs,delta_female_lfpr_pp,45,45,-0.033619697906907726,-0.20711462450592882
+All first-to-last pairs,delta_lfpr_gap_pp,45,45,0.1182858480382899,0.21304347826086956
+Exclude source conflicts,delta_female_lfpr_pp,41,41,-0.11719046293906328,-0.29320557491289206
+Exclude source conflicts,delta_lfpr_gap_pp,41,41,0.19944447149965713,0.25000000000000006
+Exclude conflicts and United States,delta_female_lfpr_pp,40,40,-0.11332907271344639,-0.2823639774859288
+Exclude conflicts and United States,delta_lfpr_gap_pp,40,40,0.1998598379323648,0.25309568480300193

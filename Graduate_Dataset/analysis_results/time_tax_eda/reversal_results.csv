@@ -1,0 +1,136 @@
+﻿view,infrastructure,time_variable,adjustment,observations,entities,correlation
+All available observations,electricity_pct,female_unpaid_hours,Unadjusted,175,88,0.26328335189563634
+All available observations,electricity_pct,female_unpaid_hours,Year only,175,88,0.28369402587126347
+All available observations,electricity_pct,female_unpaid_hours,GDP only,175,88,0.4726834155602657
+All available observations,electricity_pct,female_unpaid_hours,GDP + year,175,88,0.4949908655403586
+All available observations,electricity_pct,female_unpaid_hours,Full background,175,88,0.48010254935702373
+All available observations,electricity_pct,male_unpaid_hours,Unadjusted,175,88,0.3226859180014196
+All available observations,electricity_pct,male_unpaid_hours,Year only,175,88,0.3406636132074769
+All available observations,electricity_pct,male_unpaid_hours,GDP only,175,88,0.03944104383051253
+All available observations,electricity_pct,male_unpaid_hours,GDP + year,175,88,0.05282885763892713
+All available observations,electricity_pct,male_unpaid_hours,Full background,175,88,0.06877665037245066
+All available observations,electricity_pct,time_gap_hours,Unadjusted,175,88,0.017052765755435434
+All available observations,electricity_pct,time_gap_hours,Year only,175,88,0.021847036204149902
+All available observations,electricity_pct,time_gap_hours,GDP only,175,88,0.4842373316522551
+All available observations,electricity_pct,time_gap_hours,GDP + year,175,88,0.4891675781507425
+All available observations,electricity_pct,time_gap_hours,Full background,175,88,0.47502280317813095
+All available observations,water_pct,female_unpaid_hours,Unadjusted,172,88,0.07372086714440447
+All available observations,water_pct,female_unpaid_hours,Year only,172,88,0.0831184906156929
+All available observations,water_pct,female_unpaid_hours,GDP only,172,88,0.254970491360965
+All available observations,water_pct,female_unpaid_hours,GDP + year,172,88,0.2589815360444726
+All available observations,water_pct,female_unpaid_hours,Full background,172,88,0.20259515707047274
+All available observations,water_pct,male_unpaid_hours,Unadjusted,172,88,0.2939391199825376
+All available observations,water_pct,male_unpaid_hours,Year only,172,88,0.3042811976698717
+All available observations,water_pct,male_unpaid_hours,GDP only,172,88,-0.0734991918854953
+All available observations,water_pct,male_unpaid_hours,GDP + year,172,88,-0.07654022676395729
+All available observations,water_pct,male_unpaid_hours,Full background,172,88,-0.06621546403880336
+All available observations,water_pct,time_gap_hours,Unadjusted,172,88,-0.1485549863336074
+All available observations,water_pct,time_gap_hours,Year only,172,88,-0.14616978139968118
+All available observations,water_pct,time_gap_hours,GDP only,172,88,0.33280631100461483
+All available observations,water_pct,time_gap_hours,GDP + year,172,88,0.3330897940065556
+All available observations,water_pct,time_gap_hours,Full background,172,88,0.2726691726657495
+All available observations,clean_cooking_pct,female_unpaid_hours,Unadjusted,169,85,0.18112969760060074
+All available observations,clean_cooking_pct,female_unpaid_hours,Year only,169,85,0.17472720454395374
+All available observations,clean_cooking_pct,female_unpaid_hours,GDP only,169,85,0.43664739481117437
+All available observations,clean_cooking_pct,female_unpaid_hours,GDP + year,169,85,0.42297114425500915
+All available observations,clean_cooking_pct,female_unpaid_hours,Full background,169,85,0.3729873628362454
+All available observations,clean_cooking_pct,male_unpaid_hours,Unadjusted,169,85,0.37819288415080077
+All available observations,clean_cooking_pct,male_unpaid_hours,Year only,169,85,0.37573278760376017
+All available observations,clean_cooking_pct,male_unpaid_hours,GDP only,169,85,0.038497434046079096
+All available observations,clean_cooking_pct,male_unpaid_hours,GDP + year,169,85,0.010424431659006842
+All available observations,clean_cooking_pct,male_unpaid_hours,Full background,169,85,0.0363121148666077
+All available observations,clean_cooking_pct,time_gap_hours,Unadjusted,169,85,-0.1053594252157838
+All available observations,clean_cooking_pct,time_gap_hours,Year only,169,85,-0.1084769885733612
+All available observations,clean_cooking_pct,time_gap_hours,GDP only,169,85,0.44542297033227
+All available observations,clean_cooking_pct,time_gap_hours,GDP + year,169,85,0.44337197114083604
+All available observations,clean_cooking_pct,time_gap_hours,Full background,169,85,0.37886964496041986
+Exclude source conflicts,electricity_pct,female_unpaid_hours,Unadjusted,170,88,0.287062171321596
+Exclude source conflicts,electricity_pct,female_unpaid_hours,Year only,170,88,0.302849552502506
+Exclude source conflicts,electricity_pct,female_unpaid_hours,GDP only,170,88,0.519597578125816
+Exclude source conflicts,electricity_pct,female_unpaid_hours,GDP + year,170,88,0.5359715020834235
+Exclude source conflicts,electricity_pct,female_unpaid_hours,Full background,170,88,0.5040327912787299
+Exclude source conflicts,electricity_pct,male_unpaid_hours,Unadjusted,170,88,0.3288427153378737
+Exclude source conflicts,electricity_pct,male_unpaid_hours,Year only,170,88,0.3444336270311249
+Exclude source conflicts,electricity_pct,male_unpaid_hours,GDP only,170,88,0.05111372652687395
+Exclude source conflicts,electricity_pct,male_unpaid_hours,GDP + year,170,88,0.06213883710634109
+Exclude source conflicts,electricity_pct,male_unpaid_hours,Full background,170,88,0.0724569683683869
+Exclude source conflicts,electricity_pct,time_gap_hours,Unadjusted,170,88,0.028408195731938906
+Exclude source conflicts,electricity_pct,time_gap_hours,Year only,170,88,0.031105012986920515
+Exclude source conflicts,electricity_pct,time_gap_hours,GDP only,170,88,0.5172905904155974
+Exclude source conflicts,electricity_pct,time_gap_hours,GDP + year,170,88,0.5194040209309893
+Exclude source conflicts,electricity_pct,time_gap_hours,Full background,170,88,0.49298472488555045
+Exclude source conflicts,water_pct,female_unpaid_hours,Unadjusted,167,88,0.08886362191086733
+Exclude source conflicts,water_pct,female_unpaid_hours,Year only,167,88,0.09548805312290654
+Exclude source conflicts,water_pct,female_unpaid_hours,GDP only,167,88,0.29159592686422
+Exclude source conflicts,water_pct,female_unpaid_hours,GDP + year,167,88,0.292405434665933
+Exclude source conflicts,water_pct,female_unpaid_hours,Full background,167,88,0.21290865602486075
+Exclude source conflicts,water_pct,male_unpaid_hours,Unadjusted,167,88,0.2967293118329775
+Exclude source conflicts,water_pct,male_unpaid_hours,Year only,167,88,0.3048790610485441
+Exclude source conflicts,water_pct,male_unpaid_hours,GDP only,167,88,-0.062038838344433044
+Exclude source conflicts,water_pct,male_unpaid_hours,GDP + year,167,88,-0.06726367848211513
+Exclude source conflicts,water_pct,male_unpaid_hours,Full background,167,88,-0.06469952141970509
+Exclude source conflicts,water_pct,time_gap_hours,Unadjusted,167,88,-0.13961466369411898
+Exclude source conflicts,water_pct,time_gap_hours,Year only,167,88,-0.13828711071232402
+Exclude source conflicts,water_pct,time_gap_hours,GDP only,167,88,0.36010490737633866
+Exclude source conflicts,water_pct,time_gap_hours,GDP + year,167,88,0.35967740463416825
+Exclude source conflicts,water_pct,time_gap_hours,Full background,167,88,0.28312438558415687
+Exclude source conflicts,clean_cooking_pct,female_unpaid_hours,Unadjusted,164,85,0.200796800910728
+Exclude source conflicts,clean_cooking_pct,female_unpaid_hours,Year only,164,85,0.19372253286824795
+Exclude source conflicts,clean_cooking_pct,female_unpaid_hours,GDP only,164,85,0.48420844826184084
+Exclude source conflicts,clean_cooking_pct,female_unpaid_hours,GDP + year,164,85,0.4714435607407152
+Exclude source conflicts,clean_cooking_pct,female_unpaid_hours,Full background,164,85,0.4032531202524714
+Exclude source conflicts,clean_cooking_pct,male_unpaid_hours,Unadjusted,164,85,0.3818195871146714
+Exclude source conflicts,clean_cooking_pct,male_unpaid_hours,Year only,164,85,0.3775534380270761
+Exclude source conflicts,clean_cooking_pct,male_unpaid_hours,GDP only,164,85,0.05365496783336698
+Exclude source conflicts,clean_cooking_pct,male_unpaid_hours,GDP + year,164,85,0.02354787529343234
+Exclude source conflicts,clean_cooking_pct,male_unpaid_hours,Full background,164,85,0.039793836216823454
+Exclude source conflicts,clean_cooking_pct,time_gap_hours,Unadjusted,164,85,-0.09518212459049752
+Exclude source conflicts,clean_cooking_pct,time_gap_hours,Year only,164,85,-0.0970183483661487
+Exclude source conflicts,clean_cooking_pct,time_gap_hours,GDP only,164,85,0.47671777650800357
+Exclude source conflicts,clean_cooking_pct,time_gap_hours,GDP + year,164,85,0.4797624386109474
+Exclude source conflicts,clean_cooking_pct,time_gap_hours,Full background,164,85,0.4042855537275759
+Latest observation per entity,electricity_pct,female_unpaid_hours,Unadjusted,88,88,0.3252989733919357
+Latest observation per entity,electricity_pct,female_unpaid_hours,Year only,88,88,0.38376663873268335
+Latest observation per entity,electricity_pct,female_unpaid_hours,GDP only,88,88,0.46740614207036885
+Latest observation per entity,electricity_pct,female_unpaid_hours,GDP + year,88,88,0.5165157863810315
+Latest observation per entity,electricity_pct,female_unpaid_hours,Full background,88,88,0.5159725356759138
+Latest observation per entity,electricity_pct,male_unpaid_hours,Unadjusted,88,88,0.32974140279283654
+Latest observation per entity,electricity_pct,male_unpaid_hours,Year only,88,88,0.35121786762166457
+Latest observation per entity,electricity_pct,male_unpaid_hours,GDP only,88,88,-0.06261132602461246
+Latest observation per entity,electricity_pct,male_unpaid_hours,GDP + year,88,88,-0.038465287606299775
+Latest observation per entity,electricity_pct,male_unpaid_hours,Full background,88,88,-0.044143979912470134
+Latest observation per entity,electricity_pct,time_gap_hours,Unadjusted,88,88,0.06622159441933738
+Latest observation per entity,electricity_pct,time_gap_hours,Year only,88,88,0.10047916892682532
+Latest observation per entity,electricity_pct,time_gap_hours,GDP only,88,88,0.5003365625810474
+Latest observation per entity,electricity_pct,time_gap_hours,GDP + year,88,88,0.5252160043144449
+Latest observation per entity,electricity_pct,time_gap_hours,Full background,88,88,0.5342846496969597
+Latest observation per entity,water_pct,female_unpaid_hours,Unadjusted,88,88,0.1311759069992888
+Latest observation per entity,water_pct,female_unpaid_hours,Year only,88,88,0.1556096314357639
+Latest observation per entity,water_pct,female_unpaid_hours,GDP only,88,88,0.18748777952135776
+Latest observation per entity,water_pct,female_unpaid_hours,GDP + year,88,88,0.18627847316861695
+Latest observation per entity,water_pct,female_unpaid_hours,Full background,88,88,0.1385364458901165
+Latest observation per entity,water_pct,male_unpaid_hours,Unadjusted,88,88,0.3221008956187244
+Latest observation per entity,water_pct,male_unpaid_hours,Year only,88,88,0.33045008415339916
+Latest observation per entity,water_pct,male_unpaid_hours,GDP only,88,88,-0.13658690613135663
+Latest observation per entity,water_pct,male_unpaid_hours,GDP + year,88,88,-0.14173079090354132
+Latest observation per entity,water_pct,male_unpaid_hours,Full background,88,88,-0.15003364771199332
+Latest observation per entity,water_pct,time_gap_hours,Unadjusted,88,88,-0.10886378928298196
+Latest observation per entity,water_pct,time_gap_hours,Year only,88,88,-0.0950773059937529
+Latest observation per entity,water_pct,time_gap_hours,GDP only,88,88,0.2745903655642192
+Latest observation per entity,water_pct,time_gap_hours,GDP + year,88,88,0.2735844503821508
+Latest observation per entity,water_pct,time_gap_hours,Full background,88,88,0.23474740086759746
+Latest observation per entity,clean_cooking_pct,female_unpaid_hours,Unadjusted,85,85,0.29553625883684054
+Latest observation per entity,clean_cooking_pct,female_unpaid_hours,Year only,85,85,0.30307446890562556
+Latest observation per entity,clean_cooking_pct,female_unpaid_hours,GDP only,85,85,0.44655911006667537
+Latest observation per entity,clean_cooking_pct,female_unpaid_hours,GDP + year,85,85,0.4217985991715621
+Latest observation per entity,clean_cooking_pct,female_unpaid_hours,Full background,85,85,0.40274106135859256
+Latest observation per entity,clean_cooking_pct,male_unpaid_hours,Unadjusted,85,85,0.3948550181422485
+Latest observation per entity,clean_cooking_pct,male_unpaid_hours,Year only,85,85,0.39576138209521844
+Latest observation per entity,clean_cooking_pct,male_unpaid_hours,GDP only,85,85,-0.04384516686890838
+Latest observation per entity,clean_cooking_pct,male_unpaid_hours,GDP + year,85,85,-0.07795925539263494
+Latest observation per entity,clean_cooking_pct,male_unpaid_hours,Full background,85,85,-0.08801406075051255
+Latest observation per entity,clean_cooking_pct,time_gap_hours,Unadjusted,85,85,-0.007399074636374158
+Latest observation per entity,clean_cooking_pct,time_gap_hours,Year only,85,85,-0.005541625453806806
+Latest observation per entity,clean_cooking_pct,time_gap_hours,GDP only,85,85,0.46217971000750174
+Latest observation per entity,clean_cooking_pct,time_gap_hours,GDP + year,85,85,0.4541005091297693
+Latest observation per entity,clean_cooking_pct,time_gap_hours,Full background,85,85,0.44483655897633717

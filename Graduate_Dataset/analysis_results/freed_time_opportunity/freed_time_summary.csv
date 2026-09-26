@@ -1,0 +1,7 @@
+view,rule,freed_time_pairs,entities,participation_increased,participation_approximately_unchanged,participation_decreased,pct_without_increase_under_rule
+First-to-last: all,Numerical direction,37,37,23,0,14,37.83783783783784
+First-to-last: all,10 minutes and 1 percentage point,31,31,18,7,6,41.935483870967744
+First-to-last: exclude conflicts,Numerical direction,33,33,23,0,10,30.303030303030305
+First-to-last: exclude conflicts,10 minutes and 1 percentage point,27,27,18,5,4,33.33333333333333
+Adjacent: exclude conflicts,Numerical direction,55,34,36,0,19,34.54545454545455
+Adjacent: exclude conflicts,10 minutes and 1 percentage point,35,29,20,10,5,42.857142857142854

@@ -1,0 +1,7 @@
+﻿variable,matched_observations,matched_entities,missing_observations,minimum,maximum,outside_0_to_100
+female_vulnerable_pct,177,89,0,0.267180719040746,93.2563306929211,0
+male_vulnerable_pct,177,89,0,0.236942444568386,85.1786249764827,0
+female_wage_salaried_pct,177,89,0,5.92925062020863,99.2983384855098,0
+male_wage_salaried_pct,177,89,0,14.0286921300589,99.4832597029981,0
+female_self_employed_pct,177,89,0,0.701162111277024,94.0707493797914,0
+male_self_employed_pct,177,89,0,0.516740297001901,85.9713036600815,0
