@@ -1,0 +1,5 @@
+income_level_name,P(stay Falling behind),P(Falling->Catching),P(stay Catching up),n_falling
+High income,0.957,0.043,0.946,46.0
+Low income,0.853,0.132,0.909,68.0
+Lower middle income,0.889,0.083,0.968,72.0
+Upper middle income,0.836,0.145,0.977,55.0

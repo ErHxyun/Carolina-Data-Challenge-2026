@@ -1,0 +1,3 @@
+origin,n,MAE_hmm,MAE_nochange,cover80,mean_p_halved,obs_halved,brier_halved,brier_widened,brier_widened_clim
+2012,183.0,0.12,0.122,0.858,0.196,0.028,0.087,0.231,0.237
+2015,183.0,0.093,0.094,0.831,0.12,0.017,0.041,0.231,0.242

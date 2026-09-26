@@ -1,0 +1,7 @@
+,odds_ratio,p
+from_stalled,0.438,0.023
+from_div,305.477,0.0
+log_gdppc,1.151,0.399
+gdp_growth,0.896,0.334
+fertility,0.743,0.117
+rural_pop_share,0.863,0.274

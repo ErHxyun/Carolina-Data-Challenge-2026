@@ -1,0 +1,631 @@
+iso3,country,year,target_year,delay_years,target_delay,model,prediction
+AGO,Angola,2018,2021,8.0,10.0,persistence,8.0
+ALB,Albania,2018,2021,10.0,13.0,persistence,10.0
+ALB,Albania,2019,2022,11.0,14.0,persistence,11.0
+ALB,Albania,2020,2023,12.0,13.0,persistence,12.0
+ALB,Albania,2021,2024,13.0,8.0,persistence,13.0
+ARG,Argentina,2018,2021,10.0,11.0,persistence,10.0
+ARG,Argentina,2019,2022,11.0,11.0,persistence,11.0
+ARG,Argentina,2020,2023,11.0,12.0,persistence,11.0
+BEL,Belgium,2018,2021,0.0,0.0,persistence,0.0
+BEL,Belgium,2019,2022,0.0,21.0,persistence,0.0
+BEL,Belgium,2020,2023,0.0,0.0,persistence,0.0
+BEN,Benin,2018,2021,13.0,18.0,persistence,13.0
+BEN,Benin,2019,2022,16.0,19.0,persistence,16.0
+BFA,Burkina Faso,2018,2021,9.0,14.0,persistence,9.0
+BFA,Burkina Faso,2019,2022,10.0,20.0,persistence,10.0
+BFA,Burkina Faso,2020,2023,11.0,23.0,persistence,11.0
+BFA,Burkina Faso,2021,2024,14.0,24.0,persistence,14.0
+BGR,Bulgaria,2018,2021,4.0,8.0,persistence,4.0
+BGR,Bulgaria,2019,2022,5.0,15.0,persistence,5.0
+BGR,Bulgaria,2020,2023,7.0,16.0,persistence,7.0
+BGR,Bulgaria,2021,2024,8.0,18.0,persistence,8.0
+BHS,"Bahamas, The",2018,2021,0.0,19.0,persistence,0.0
+BTN,Bhutan,2018,2021,4.0,4.0,persistence,4.0
+BTN,Bhutan,2019,2022,2.0,7.0,persistence,2.0
+BTN,Bhutan,2020,2023,0.0,9.0,persistence,0.0
+BTN,Bhutan,2021,2024,4.0,10.0,persistence,4.0
+CAN,Canada,2018,2021,6.0,21.0,persistence,6.0
+CAN,Canada,2019,2022,13.0,22.0,persistence,13.0
+CAN,Canada,2020,2023,17.0,23.0,persistence,17.0
+CHL,Chile,2018,2021,17.0,21.0,persistence,17.0
+COL,Colombia,2018,2021,15.0,20.0,persistence,15.0
+COL,Colombia,2019,2022,17.0,20.0,persistence,17.0
+COM,Comoros,2018,2021,13.0,16.0,persistence,13.0
+CPV,Cabo Verde,2018,2021,0.0,9.0,persistence,0.0
+CPV,Cabo Verde,2019,2022,6.0,9.0,persistence,6.0
+CRI,Costa Rica,2018,2021,6.0,8.0,persistence,6.0
+CRI,Costa Rica,2019,2022,7.0,9.0,persistence,7.0
+CRI,Costa Rica,2020,2023,7.0,10.0,persistence,7.0
+CRI,Costa Rica,2021,2024,8.0,12.0,persistence,8.0
+CYP,Cyprus,2021,2024,4.0,4.0,persistence,4.0
+DNK,Denmark,2018,2021,17.0,8.0,persistence,17.0
+DNK,Denmark,2019,2022,18.0,9.0,persistence,18.0
+DNK,Denmark,2020,2023,19.0,22.0,persistence,19.0
+DNK,Denmark,2021,2024,8.0,23.0,persistence,8.0
+DOM,Dominican Republic,2018,2021,14.0,21.0,persistence,14.0
+DOM,Dominican Republic,2019,2022,16.0,22.0,persistence,16.0
+DOM,Dominican Republic,2020,2023,19.0,21.0,persistence,19.0
+ECU,Ecuador,2018,2021,11.0,16.0,persistence,11.0
+ECU,Ecuador,2019,2022,13.0,16.0,persistence,13.0
+ECU,Ecuador,2020,2023,15.0,17.0,persistence,15.0
+EST,Estonia,2018,2021,3.0,6.0,persistence,3.0
+EST,Estonia,2019,2022,5.0,7.0,persistence,5.0
+EST,Estonia,2020,2023,5.0,9.0,persistence,5.0
+EST,Estonia,2021,2024,6.0,12.0,persistence,6.0
+FIN,Finland,2018,2021,0.0,0.0,persistence,0.0
+FIN,Finland,2019,2022,0.0,0.0,persistence,0.0
+FIN,Finland,2020,2023,0.0,0.0,persistence,0.0
+FIN,Finland,2021,2024,0.0,0.0,persistence,0.0
+GBR,United Kingdom,2018,2021,4.0,8.0,persistence,4.0
+GBR,United Kingdom,2019,2022,5.0,9.0,persistence,5.0
+GBR,United Kingdom,2020,2023,7.0,10.0,persistence,7.0
+GEO,Georgia,2018,2021,16.0,21.0,persistence,16.0
+GEO,Georgia,2019,2022,17.0,22.0,persistence,17.0
+GEO,Georgia,2020,2023,19.0,23.0,persistence,19.0
+GHA,Ghana,2018,2021,8.0,10.0,persistence,8.0
+GHA,Ghana,2019,2022,9.0,11.0,persistence,9.0
+GHA,Ghana,2020,2023,9.0,12.0,persistence,9.0
+GHA,Ghana,2021,2024,10.0,13.0,persistence,10.0
+HKG,"Hong Kong SAR, China",2018,2021,7.0,11.0,persistence,7.0
+HKG,"Hong Kong SAR, China",2019,2022,8.0,11.0,persistence,8.0
+HKG,"Hong Kong SAR, China",2020,2023,10.0,12.0,persistence,10.0
+HKG,"Hong Kong SAR, China",2021,2024,11.0,13.0,persistence,11.0
+HRV,Croatia,2018,2021,2.0,4.0,persistence,2.0
+HRV,Croatia,2019,2022,2.0,4.0,persistence,2.0
+HRV,Croatia,2020,2023,3.0,5.0,persistence,3.0
+HUN,Hungary,2018,2021,5.0,9.0,persistence,5.0
+HUN,Hungary,2019,2022,7.0,9.0,persistence,7.0
+HUN,Hungary,2020,2023,8.0,9.0,persistence,8.0
+HUN,Hungary,2021,2024,9.0,10.0,persistence,9.0
+IDN,Indonesia,2018,2021,10.0,11.0,persistence,10.0
+IDN,Indonesia,2019,2022,10.0,12.0,persistence,10.0
+IDN,Indonesia,2020,2023,11.0,13.0,persistence,11.0
+IDN,Indonesia,2021,2024,11.0,14.0,persistence,11.0
+IRL,Ireland,2018,2021,0.0,0.0,persistence,0.0
+IRL,Ireland,2019,2022,0.0,0.0,persistence,0.0
+ISL,Iceland,2018,2021,6.0,21.0,persistence,6.0
+ISR,Israel,2018,2021,7.0,10.0,persistence,7.0
+ISR,Israel,2019,2022,8.0,11.0,persistence,8.0
+ISR,Israel,2020,2023,9.0,11.0,persistence,9.0
+ISR,Israel,2021,2024,10.0,12.0,persistence,10.0
+KAZ,Kazakhstan,2018,2021,15.0,20.0,persistence,15.0
+KAZ,Kazakhstan,2019,2022,17.0,21.0,persistence,17.0
+KAZ,Kazakhstan,2020,2023,19.0,21.0,persistence,19.0
+KAZ,Kazakhstan,2021,2024,20.0,22.0,persistence,20.0
+KEN,Kenya,2018,2021,9.0,13.0,persistence,9.0
+KHM,Cambodia,2018,2021,12.0,13.0,persistence,12.0
+KHM,Cambodia,2019,2022,13.0,4.0,persistence,13.0
+KHM,Cambodia,2020,2023,13.0,2.0,persistence,13.0
+KHM,Cambodia,2021,2024,13.0,2.0,persistence,13.0
+LAO,Lao PDR,2018,2021,6.0,9.0,persistence,6.0
+LAO,Lao PDR,2019,2022,6.0,11.0,persistence,6.0
+LAO,Lao PDR,2020,2023,8.0,14.0,persistence,8.0
+LAO,Lao PDR,2021,2024,9.0,16.0,persistence,9.0
+LCA,St. Lucia,2018,2021,12.0,17.0,persistence,12.0
+LCA,St. Lucia,2019,2022,15.0,16.0,persistence,15.0
+LCA,St. Lucia,2020,2023,16.0,16.0,persistence,16.0
+LCA,St. Lucia,2021,2024,17.0,2.0,persistence,17.0
+LTU,Lithuania,2018,2021,5.0,8.0,persistence,5.0
+LTU,Lithuania,2019,2022,6.0,9.0,persistence,6.0
+LTU,Lithuania,2020,2023,7.0,10.0,persistence,7.0
+LTU,Lithuania,2021,2024,8.0,11.0,persistence,8.0
+LUX,Luxembourg,2018,2021,9.0,11.0,persistence,9.0
+LUX,Luxembourg,2019,2022,10.0,10.0,persistence,10.0
+LUX,Luxembourg,2020,2023,11.0,9.0,persistence,11.0
+LUX,Luxembourg,2021,2024,11.0,11.0,persistence,11.0
+LVA,Latvia,2018,2021,6.0,9.0,persistence,6.0
+LVA,Latvia,2019,2022,7.0,10.0,persistence,7.0
+LVA,Latvia,2020,2023,8.0,11.0,persistence,8.0
+LVA,Latvia,2021,2024,9.0,19.0,persistence,9.0
+MAC,"Macao SAR, China",2018,2021,12.0,17.0,persistence,12.0
+MAC,"Macao SAR, China",2019,2022,14.0,18.0,persistence,14.0
+MAC,"Macao SAR, China",2020,2023,15.0,19.0,persistence,15.0
+MAC,"Macao SAR, China",2021,2024,17.0,19.0,persistence,17.0
+MDA,Moldova,2018,2021,4.0,6.0,persistence,4.0
+MDA,Moldova,2019,2022,5.0,7.0,persistence,5.0
+MDA,Moldova,2020,2023,6.0,3.0,persistence,6.0
+MDA,Moldova,2021,2024,6.0,4.0,persistence,6.0
+MDG,Madagascar,2018,2021,10.0,14.0,persistence,10.0
+MEX,Mexico,2018,2021,12.0,20.0,persistence,12.0
+MEX,Mexico,2019,2022,14.0,19.0,persistence,14.0
+MEX,Mexico,2020,2023,17.0,17.0,persistence,17.0
+MEX,Mexico,2021,2024,20.0,13.0,persistence,20.0
+MKD,North Macedonia,2019,2022,11.0,4.0,persistence,11.0
+MKD,North Macedonia,2020,2023,8.0,4.0,persistence,8.0
+MNE,Montenegro,2018,2021,11.0,14.0,persistence,11.0
+MNE,Montenegro,2019,2022,12.0,7.0,persistence,12.0
+MNE,Montenegro,2020,2023,14.0,5.0,persistence,14.0
+MNG,Mongolia,2018,2021,12.0,2.0,persistence,12.0
+MNG,Mongolia,2019,2022,11.0,3.0,persistence,11.0
+MNG,Mongolia,2020,2023,8.0,4.0,persistence,8.0
+NAM,Namibia,2018,2021,6.0,0.0,persistence,6.0
+NAM,Namibia,2019,2022,7.0,0.0,persistence,7.0
+NAM,Namibia,2020,2023,0.0,0.0,persistence,0.0
+NAM,Namibia,2021,2024,0.0,0.0,persistence,0.0
+NLD,Netherlands,2020,2023,1.0,2.0,persistence,1.0
+NPL,Nepal,2018,2021,10.0,12.0,persistence,10.0
+NPL,Nepal,2019,2022,10.0,12.0,persistence,10.0
+NPL,Nepal,2020,2023,11.0,13.0,persistence,11.0
+NPL,Nepal,2021,2024,12.0,13.0,persistence,12.0
+NZL,New Zealand,2018,2021,15.0,17.0,persistence,15.0
+NZL,New Zealand,2019,2022,15.0,18.0,persistence,15.0
+NZL,New Zealand,2020,2023,0.0,19.0,persistence,0.0
+NZL,New Zealand,2021,2024,17.0,20.0,persistence,17.0
+PER,Peru,2018,2021,13.0,20.0,persistence,13.0
+PER,Peru,2019,2022,18.0,16.0,persistence,18.0
+PER,Peru,2020,2023,19.0,17.0,persistence,19.0
+PER,Peru,2021,2024,20.0,17.0,persistence,20.0
+POL,Poland,2018,2021,6.0,8.0,persistence,6.0
+POL,Poland,2019,2022,6.0,9.0,persistence,6.0
+POL,Poland,2020,2023,7.0,10.0,persistence,7.0
+POL,Poland,2021,2024,8.0,11.0,persistence,8.0
+PRI,Puerto Rico (US),2020,2023,0.0,1.0,persistence,0.0
+PRT,Portugal,2018,2021,2.0,5.0,persistence,2.0
+PRT,Portugal,2019,2022,3.0,5.0,persistence,3.0
+PRT,Portugal,2020,2023,4.0,6.0,persistence,4.0
+RUS,Russian Federation,2018,2021,9.0,18.0,persistence,9.0
+RUS,Russian Federation,2019,2022,12.0,19.0,persistence,12.0
+RWA,Rwanda,2018,2021,9.0,12.0,persistence,9.0
+RWA,Rwanda,2019,2022,10.0,13.0,persistence,10.0
+RWA,Rwanda,2020,2023,11.0,13.0,persistence,11.0
+RWA,Rwanda,2021,2024,12.0,13.0,persistence,12.0
+SLE,Sierra Leone,2018,2021,7.0,0.0,persistence,7.0
+SLE,Sierra Leone,2019,2022,1.0,0.0,persistence,1.0
+SLE,Sierra Leone,2020,2023,0.0,0.0,persistence,0.0
+SRB,Serbia,2018,2021,4.0,6.0,persistence,4.0
+SRB,Serbia,2019,2022,5.0,6.0,persistence,5.0
+SRB,Serbia,2020,2023,5.0,7.0,persistence,5.0
+SRB,Serbia,2021,2024,6.0,8.0,persistence,6.0
+SUR,Suriname,2018,2021,10.0,20.0,persistence,10.0
+SUR,Suriname,2019,2022,13.0,21.0,persistence,13.0
+SVK,Slovak Republic,2018,2021,14.0,16.0,persistence,14.0
+SVK,Slovak Republic,2019,2022,15.0,17.0,persistence,15.0
+SVK,Slovak Republic,2020,2023,15.0,17.0,persistence,15.0
+SVK,Slovak Republic,2021,2024,16.0,9.0,persistence,16.0
+SVN,Slovenia,2018,2021,3.0,20.0,persistence,3.0
+SVN,Slovenia,2019,2022,4.0,21.0,persistence,4.0
+SVN,Slovenia,2020,2023,6.0,9.0,persistence,6.0
+SWE,Sweden,2018,2021,0.0,0.0,persistence,0.0
+SWE,Sweden,2019,2022,0.0,0.0,persistence,0.0
+SWE,Sweden,2020,2023,0.0,0.0,persistence,0.0
+SWE,Sweden,2021,2024,0.0,0.0,persistence,0.0
+TGO,Togo,2018,2021,17.0,19.0,persistence,17.0
+TGO,Togo,2019,2022,18.0,19.0,persistence,18.0
+TGO,Togo,2020,2023,18.0,20.0,persistence,18.0
+THA,Thailand,2018,2021,12.0,13.0,persistence,12.0
+THA,Thailand,2019,2022,13.0,12.0,persistence,13.0
+THA,Thailand,2020,2023,15.0,12.0,persistence,15.0
+THA,Thailand,2021,2024,13.0,13.0,persistence,13.0
+URY,Uruguay,2018,2021,2.0,5.0,persistence,2.0
+URY,Uruguay,2019,2022,4.0,5.0,persistence,4.0
+URY,Uruguay,2020,2023,5.0,6.0,persistence,5.0
+VCT,St. Vincent and the Grenadines,2018,2021,2.0,4.0,persistence,2.0
+VCT,St. Vincent and the Grenadines,2019,2022,2.0,5.0,persistence,2.0
+VCT,St. Vincent and the Grenadines,2020,2023,3.0,6.0,persistence,3.0
+VCT,St. Vincent and the Grenadines,2021,2024,4.0,7.0,persistence,4.0
+VEN,"Venezuela, RB",2019,2022,14.0,17.0,persistence,14.0
+VUT,Vanuatu,2020,2023,15.0,1.0,persistence,15.0
+ZAF,South Africa,2018,2021,6.0,17.0,persistence,6.0
+ZAF,South Africa,2019,2022,13.0,19.0,persistence,13.0
+ZAF,South Africa,2020,2023,15.0,20.0,persistence,15.0
+AGO,Angola,2018,2021,8.0,10.0,elastic_net_alpha_0.001,9.058151864226534
+ALB,Albania,2018,2021,10.0,13.0,elastic_net_alpha_0.001,9.832927441723347
+ALB,Albania,2019,2022,11.0,14.0,elastic_net_alpha_0.001,11.227680302230649
+ALB,Albania,2020,2023,12.0,13.0,elastic_net_alpha_0.001,12.326674540459603
+ALB,Albania,2021,2024,13.0,8.0,elastic_net_alpha_0.001,13.425356276799594
+ARG,Argentina,2018,2021,10.0,11.0,elastic_net_alpha_0.001,11.159096512885414
+ARG,Argentina,2019,2022,11.0,11.0,elastic_net_alpha_0.001,11.903238874555328
+ARG,Argentina,2020,2023,11.0,12.0,elastic_net_alpha_0.001,11.4946153206775
+BEL,Belgium,2018,2021,0.0,0.0,elastic_net_alpha_0.001,4.437797637317638
+BEL,Belgium,2019,2022,0.0,21.0,elastic_net_alpha_0.001,4.653072153863224
+BEL,Belgium,2020,2023,0.0,0.0,elastic_net_alpha_0.001,4.545350559013934
+BEN,Benin,2018,2021,13.0,18.0,elastic_net_alpha_0.001,11.061427272871764
+BEN,Benin,2019,2022,16.0,19.0,elastic_net_alpha_0.001,13.676163702461876
+BFA,Burkina Faso,2018,2021,9.0,14.0,elastic_net_alpha_0.001,7.01826309031828
+BFA,Burkina Faso,2019,2022,10.0,20.0,elastic_net_alpha_0.001,8.426751020344868
+BFA,Burkina Faso,2020,2023,11.0,23.0,elastic_net_alpha_0.001,9.236015202741392
+BFA,Burkina Faso,2021,2024,14.0,24.0,elastic_net_alpha_0.001,12.26032444536817
+BGR,Bulgaria,2018,2021,4.0,8.0,elastic_net_alpha_0.001,6.057546343986195
+BGR,Bulgaria,2019,2022,5.0,15.0,elastic_net_alpha_0.001,7.1508618699980975
+BGR,Bulgaria,2020,2023,7.0,16.0,elastic_net_alpha_0.001,9.972831554865307
+BGR,Bulgaria,2021,2024,8.0,18.0,elastic_net_alpha_0.001,10.919414562769674
+BHS,"Bahamas, The",2018,2021,0.0,19.0,elastic_net_alpha_0.001,1.7857914422862153
+BTN,Bhutan,2018,2021,4.0,4.0,elastic_net_alpha_0.001,6.691768297864403
+BTN,Bhutan,2019,2022,2.0,7.0,elastic_net_alpha_0.001,5.187781114063382
+BTN,Bhutan,2020,2023,0.0,9.0,elastic_net_alpha_0.001,3.407053986880459
+BTN,Bhutan,2021,2024,4.0,10.0,elastic_net_alpha_0.001,7.667231196398266
+CAN,Canada,2018,2021,6.0,21.0,elastic_net_alpha_0.001,8.050085281614786
+CAN,Canada,2019,2022,13.0,22.0,elastic_net_alpha_0.001,14.228033571568398
+CAN,Canada,2020,2023,17.0,23.0,elastic_net_alpha_0.001,16.92012986774548
+CHL,Chile,2018,2021,17.0,21.0,elastic_net_alpha_0.001,14.347584620073635
+COL,Colombia,2018,2021,15.0,20.0,elastic_net_alpha_0.001,13.742233819033853
+COL,Colombia,2019,2022,17.0,20.0,elastic_net_alpha_0.001,15.305799218751782
+COM,Comoros,2018,2021,13.0,16.0,elastic_net_alpha_0.001,10.83459733218433
+CPV,Cabo Verde,2018,2021,0.0,9.0,elastic_net_alpha_0.001,2.4377673497210632
+CPV,Cabo Verde,2019,2022,6.0,9.0,elastic_net_alpha_0.001,8.079521073628774
+CRI,Costa Rica,2018,2021,6.0,8.0,elastic_net_alpha_0.001,7.410474014371918
+CRI,Costa Rica,2019,2022,7.0,9.0,elastic_net_alpha_0.001,8.868386430979527
+CRI,Costa Rica,2020,2023,7.0,10.0,elastic_net_alpha_0.001,8.821920787567084
+CRI,Costa Rica,2021,2024,8.0,12.0,elastic_net_alpha_0.001,9.816095933158907
+CYP,Cyprus,2021,2024,4.0,4.0,elastic_net_alpha_0.001,3.293987793905213
+DNK,Denmark,2018,2021,17.0,8.0,elastic_net_alpha_0.001,19.032317206296632
+DNK,Denmark,2019,2022,18.0,9.0,elastic_net_alpha_0.001,18.005690301074132
+DNK,Denmark,2020,2023,19.0,22.0,elastic_net_alpha_0.001,18.446547857552545
+DNK,Denmark,2021,2024,8.0,23.0,elastic_net_alpha_0.001,5.675257610465394
+DOM,Dominican Republic,2018,2021,14.0,21.0,elastic_net_alpha_0.001,13.66129448122256
+DOM,Dominican Republic,2019,2022,16.0,22.0,elastic_net_alpha_0.001,15.840399661018646
+DOM,Dominican Republic,2020,2023,19.0,21.0,elastic_net_alpha_0.001,18.412186218574124
+ECU,Ecuador,2018,2021,11.0,16.0,elastic_net_alpha_0.001,11.754291522772911
+ECU,Ecuador,2019,2022,13.0,16.0,elastic_net_alpha_0.001,13.113325621581495
+ECU,Ecuador,2020,2023,15.0,17.0,elastic_net_alpha_0.001,15.038885718247736
+EST,Estonia,2018,2021,3.0,6.0,elastic_net_alpha_0.001,5.171971877153075
+EST,Estonia,2019,2022,5.0,7.0,elastic_net_alpha_0.001,8.224716370410196
+EST,Estonia,2020,2023,5.0,9.0,elastic_net_alpha_0.001,7.6488066388103535
+EST,Estonia,2021,2024,6.0,12.0,elastic_net_alpha_0.001,8.885708333961926
+FIN,Finland,2018,2021,0.0,0.0,elastic_net_alpha_0.001,3.5462114001213507
+FIN,Finland,2019,2022,0.0,0.0,elastic_net_alpha_0.001,3.5590831512815906
+FIN,Finland,2020,2023,0.0,0.0,elastic_net_alpha_0.001,3.656888777182229
+FIN,Finland,2021,2024,0.0,0.0,elastic_net_alpha_0.001,3.731924035407328
+GBR,United Kingdom,2018,2021,4.0,8.0,elastic_net_alpha_0.001,7.917516341917128
+GBR,United Kingdom,2019,2022,5.0,9.0,elastic_net_alpha_0.001,8.518520103163661
+GBR,United Kingdom,2020,2023,7.0,10.0,elastic_net_alpha_0.001,10.20129138296804
+GEO,Georgia,2018,2021,16.0,21.0,elastic_net_alpha_0.001,13.87900690534968
+GEO,Georgia,2019,2022,17.0,22.0,elastic_net_alpha_0.001,14.902203628590053
+GEO,Georgia,2020,2023,19.0,23.0,elastic_net_alpha_0.001,16.928010823574212
+GHA,Ghana,2018,2021,8.0,10.0,elastic_net_alpha_0.001,8.343619394960106
+GHA,Ghana,2019,2022,9.0,11.0,elastic_net_alpha_0.001,8.41985201589216
+GHA,Ghana,2020,2023,9.0,12.0,elastic_net_alpha_0.001,9.773598399405088
+GHA,Ghana,2021,2024,10.0,13.0,elastic_net_alpha_0.001,11.01287637707805
+HKG,"Hong Kong SAR, China",2018,2021,7.0,11.0,elastic_net_alpha_0.001,8.031423249659843
+HKG,"Hong Kong SAR, China",2019,2022,8.0,11.0,elastic_net_alpha_0.001,8.72629366082135
+HKG,"Hong Kong SAR, China",2020,2023,10.0,12.0,elastic_net_alpha_0.001,10.4927961373309
+HKG,"Hong Kong SAR, China",2021,2024,11.0,13.0,elastic_net_alpha_0.001,10.982670030600982
+HRV,Croatia,2018,2021,2.0,4.0,elastic_net_alpha_0.001,2.663527651269707
+HRV,Croatia,2019,2022,2.0,4.0,elastic_net_alpha_0.001,4.5117066766948435
+HRV,Croatia,2020,2023,3.0,5.0,elastic_net_alpha_0.001,5.384258262720448
+HUN,Hungary,2018,2021,5.0,9.0,elastic_net_alpha_0.001,8.08139287838928
+HUN,Hungary,2019,2022,7.0,9.0,elastic_net_alpha_0.001,10.013432684166464
+HUN,Hungary,2020,2023,8.0,9.0,elastic_net_alpha_0.001,10.587941479813349
+HUN,Hungary,2021,2024,9.0,10.0,elastic_net_alpha_0.001,11.397644745388998
+IDN,Indonesia,2018,2021,10.0,11.0,elastic_net_alpha_0.001,9.062516079337374
+IDN,Indonesia,2019,2022,10.0,12.0,elastic_net_alpha_0.001,9.354048322903477
+IDN,Indonesia,2020,2023,11.0,13.0,elastic_net_alpha_0.001,10.593503937915816
+IDN,Indonesia,2021,2024,11.0,14.0,elastic_net_alpha_0.001,10.934851077636527
+IRL,Ireland,2018,2021,0.0,0.0,elastic_net_alpha_0.001,2.9244038924541056
+IRL,Ireland,2019,2022,0.0,0.0,elastic_net_alpha_0.001,5.46791191094796
+ISL,Iceland,2018,2021,6.0,21.0,elastic_net_alpha_0.001,9.468630403235766
+ISR,Israel,2018,2021,7.0,10.0,elastic_net_alpha_0.001,9.138443682429418
+ISR,Israel,2019,2022,8.0,11.0,elastic_net_alpha_0.001,9.645078731200654
+ISR,Israel,2020,2023,9.0,11.0,elastic_net_alpha_0.001,10.988372805081418
+ISR,Israel,2021,2024,10.0,12.0,elastic_net_alpha_0.001,11.224819360143204
+KAZ,Kazakhstan,2018,2021,15.0,20.0,elastic_net_alpha_0.001,16.445978838627607
+KAZ,Kazakhstan,2019,2022,17.0,21.0,elastic_net_alpha_0.001,17.953594095550148
+KAZ,Kazakhstan,2020,2023,19.0,21.0,elastic_net_alpha_0.001,19.612191768913956
+KAZ,Kazakhstan,2021,2024,20.0,22.0,elastic_net_alpha_0.001,20.464878361109854
+KEN,Kenya,2018,2021,9.0,13.0,elastic_net_alpha_0.001,9.175609847091721
+KHM,Cambodia,2018,2021,12.0,13.0,elastic_net_alpha_0.001,13.409621269390787
+KHM,Cambodia,2019,2022,13.0,4.0,elastic_net_alpha_0.001,13.546521013534374
+KHM,Cambodia,2020,2023,13.0,2.0,elastic_net_alpha_0.001,12.890201805908132
+KHM,Cambodia,2021,2024,13.0,2.0,elastic_net_alpha_0.001,12.93220455304077
+LAO,Lao PDR,2018,2021,6.0,9.0,elastic_net_alpha_0.001,7.804381774820859
+LAO,Lao PDR,2019,2022,6.0,11.0,elastic_net_alpha_0.001,8.675116154456706
+LAO,Lao PDR,2020,2023,8.0,14.0,elastic_net_alpha_0.001,10.796005632129308
+LAO,Lao PDR,2021,2024,9.0,16.0,elastic_net_alpha_0.001,11.56798166783573
+LCA,St. Lucia,2018,2021,12.0,17.0,elastic_net_alpha_0.001,12.937156753266642
+LCA,St. Lucia,2019,2022,15.0,16.0,elastic_net_alpha_0.001,15.401980520016235
+LCA,St. Lucia,2020,2023,16.0,16.0,elastic_net_alpha_0.001,15.637929250481102
+LCA,St. Lucia,2021,2024,17.0,2.0,elastic_net_alpha_0.001,16.860103321009763
+LTU,Lithuania,2018,2021,5.0,8.0,elastic_net_alpha_0.001,6.751621320044487
+LTU,Lithuania,2019,2022,6.0,9.0,elastic_net_alpha_0.001,7.459505779099958
+LTU,Lithuania,2020,2023,7.0,10.0,elastic_net_alpha_0.001,9.580365936087432
+LTU,Lithuania,2021,2024,8.0,11.0,elastic_net_alpha_0.001,10.393571069329521
+LUX,Luxembourg,2018,2021,9.0,11.0,elastic_net_alpha_0.001,9.338436980086628
+LUX,Luxembourg,2019,2022,10.0,10.0,elastic_net_alpha_0.001,11.135254551773237
+LUX,Luxembourg,2020,2023,11.0,9.0,elastic_net_alpha_0.001,11.954604467969844
+LUX,Luxembourg,2021,2024,11.0,11.0,elastic_net_alpha_0.001,11.738409100761842
+LVA,Latvia,2018,2021,6.0,9.0,elastic_net_alpha_0.001,9.045869033063767
+LVA,Latvia,2019,2022,7.0,10.0,elastic_net_alpha_0.001,9.754727161286224
+LVA,Latvia,2020,2023,8.0,11.0,elastic_net_alpha_0.001,10.460509258091893
+LVA,Latvia,2021,2024,9.0,19.0,elastic_net_alpha_0.001,11.173330448066238
+MAC,"Macao SAR, China",2018,2021,12.0,17.0,elastic_net_alpha_0.001,14.823937124970714
+MAC,"Macao SAR, China",2019,2022,14.0,18.0,elastic_net_alpha_0.001,15.154409814441761
+MAC,"Macao SAR, China",2020,2023,15.0,19.0,elastic_net_alpha_0.001,14.475774505170193
+MAC,"Macao SAR, China",2021,2024,17.0,19.0,elastic_net_alpha_0.001,15.54781446719174
+MDA,Moldova,2018,2021,4.0,6.0,elastic_net_alpha_0.001,8.651410831575248
+MDA,Moldova,2019,2022,5.0,7.0,elastic_net_alpha_0.001,9.584494804860796
+MDA,Moldova,2020,2023,6.0,3.0,elastic_net_alpha_0.001,9.755824877416973
+MDA,Moldova,2021,2024,6.0,4.0,elastic_net_alpha_0.001,9.54897532160177
+MDG,Madagascar,2018,2021,10.0,14.0,elastic_net_alpha_0.001,9.217195646296483
+MEX,Mexico,2018,2021,12.0,20.0,elastic_net_alpha_0.001,10.737538123519546
+MEX,Mexico,2019,2022,14.0,19.0,elastic_net_alpha_0.001,13.475140602424238
+MEX,Mexico,2020,2023,17.0,17.0,elastic_net_alpha_0.001,16.15814712611685
+MEX,Mexico,2021,2024,20.0,13.0,elastic_net_alpha_0.001,18.77922975331346
+MKD,North Macedonia,2019,2022,11.0,4.0,elastic_net_alpha_0.001,10.149085010983066
+MKD,North Macedonia,2020,2023,8.0,4.0,elastic_net_alpha_0.001,8.017489337415554
+MNE,Montenegro,2018,2021,11.0,14.0,elastic_net_alpha_0.001,11.768079574770278
+MNE,Montenegro,2019,2022,12.0,7.0,elastic_net_alpha_0.001,12.642301616444986
+MNE,Montenegro,2020,2023,14.0,5.0,elastic_net_alpha_0.001,14.275247806852759
+MNG,Mongolia,2018,2021,12.0,2.0,elastic_net_alpha_0.001,14.268057167745146
+MNG,Mongolia,2019,2022,11.0,3.0,elastic_net_alpha_0.001,12.403255753470699
+MNG,Mongolia,2020,2023,8.0,4.0,elastic_net_alpha_0.001,10.074664702049523
+NAM,Namibia,2018,2021,6.0,0.0,elastic_net_alpha_0.001,7.552806846497193
+NAM,Namibia,2019,2022,7.0,0.0,elastic_net_alpha_0.001,8.551357526069841
+NAM,Namibia,2020,2023,0.0,0.0,elastic_net_alpha_0.001,1.3229558917371333
+NAM,Namibia,2021,2024,0.0,0.0,elastic_net_alpha_0.001,3.0757000985116885
+NLD,Netherlands,2020,2023,1.0,2.0,elastic_net_alpha_0.001,-1.0430164623727967
+NPL,Nepal,2018,2021,10.0,12.0,elastic_net_alpha_0.001,6.63866221895549
+NPL,Nepal,2019,2022,10.0,12.0,elastic_net_alpha_0.001,6.74737753893374
+NPL,Nepal,2020,2023,11.0,13.0,elastic_net_alpha_0.001,7.657151521772952
+NPL,Nepal,2021,2024,12.0,13.0,elastic_net_alpha_0.001,9.630053141378934
+NZL,New Zealand,2018,2021,15.0,17.0,elastic_net_alpha_0.001,13.298816738911365
+NZL,New Zealand,2019,2022,15.0,18.0,elastic_net_alpha_0.001,13.197813821164821
+NZL,New Zealand,2020,2023,0.0,19.0,elastic_net_alpha_0.001,-1.0047054428562472
+NZL,New Zealand,2021,2024,17.0,20.0,elastic_net_alpha_0.001,17.103876113181045
+PER,Peru,2018,2021,13.0,20.0,elastic_net_alpha_0.001,12.056264134058589
+PER,Peru,2019,2022,18.0,16.0,elastic_net_alpha_0.001,16.32915403996885
+PER,Peru,2020,2023,19.0,17.0,elastic_net_alpha_0.001,16.651412417282977
+PER,Peru,2021,2024,20.0,17.0,elastic_net_alpha_0.001,17.56265804253017
+POL,Poland,2018,2021,6.0,8.0,elastic_net_alpha_0.001,8.242419443809814
+POL,Poland,2019,2022,6.0,9.0,elastic_net_alpha_0.001,8.496402546337624
+POL,Poland,2020,2023,7.0,10.0,elastic_net_alpha_0.001,9.855580979922875
+POL,Poland,2021,2024,8.0,11.0,elastic_net_alpha_0.001,10.74425029827852
+PRI,Puerto Rico (US),2020,2023,0.0,1.0,elastic_net_alpha_0.001,0.03105731525016253
+PRT,Portugal,2018,2021,2.0,5.0,elastic_net_alpha_0.001,3.146257847995571
+PRT,Portugal,2019,2022,3.0,5.0,elastic_net_alpha_0.001,6.331472560176197
+PRT,Portugal,2020,2023,4.0,6.0,elastic_net_alpha_0.001,7.029479196069994
+RUS,Russian Federation,2018,2021,9.0,18.0,elastic_net_alpha_0.001,10.471554541964897
+RUS,Russian Federation,2019,2022,12.0,19.0,elastic_net_alpha_0.001,13.023178083772486
+RWA,Rwanda,2018,2021,9.0,12.0,elastic_net_alpha_0.001,7.734352145186739
+RWA,Rwanda,2019,2022,10.0,13.0,elastic_net_alpha_0.001,8.691565311677333
+RWA,Rwanda,2020,2023,11.0,13.0,elastic_net_alpha_0.001,9.205659663848618
+RWA,Rwanda,2021,2024,12.0,13.0,elastic_net_alpha_0.001,10.088251778242455
+SLE,Sierra Leone,2018,2021,7.0,0.0,elastic_net_alpha_0.001,4.912071240258893
+SLE,Sierra Leone,2019,2022,1.0,0.0,elastic_net_alpha_0.001,0.2260037161277566
+SLE,Sierra Leone,2020,2023,0.0,0.0,elastic_net_alpha_0.001,0.13692103507100128
+SRB,Serbia,2018,2021,4.0,6.0,elastic_net_alpha_0.001,3.2671584126130173
+SRB,Serbia,2019,2022,5.0,6.0,elastic_net_alpha_0.001,6.140568908543779
+SRB,Serbia,2020,2023,5.0,7.0,elastic_net_alpha_0.001,5.858470725943229
+SRB,Serbia,2021,2024,6.0,8.0,elastic_net_alpha_0.001,9.362424260925192
+SUR,Suriname,2018,2021,10.0,20.0,elastic_net_alpha_0.001,10.9897900418668
+SUR,Suriname,2019,2022,13.0,21.0,elastic_net_alpha_0.001,14.000324975995175
+SVK,Slovak Republic,2018,2021,14.0,16.0,elastic_net_alpha_0.001,14.281682977938923
+SVK,Slovak Republic,2019,2022,15.0,17.0,elastic_net_alpha_0.001,15.344264062935995
+SVK,Slovak Republic,2020,2023,15.0,17.0,elastic_net_alpha_0.001,15.173559932549374
+SVK,Slovak Republic,2021,2024,16.0,9.0,elastic_net_alpha_0.001,15.92706548226505
+SVN,Slovenia,2018,2021,3.0,20.0,elastic_net_alpha_0.001,4.552225071293661
+SVN,Slovenia,2019,2022,4.0,21.0,elastic_net_alpha_0.001,5.380968935862832
+SVN,Slovenia,2020,2023,6.0,9.0,elastic_net_alpha_0.001,9.412316610526267
+SWE,Sweden,2018,2021,0.0,0.0,elastic_net_alpha_0.001,3.6765963558051276
+SWE,Sweden,2019,2022,0.0,0.0,elastic_net_alpha_0.001,3.9226292609545457
+SWE,Sweden,2020,2023,0.0,0.0,elastic_net_alpha_0.001,3.7499985751136187
+SWE,Sweden,2021,2024,0.0,0.0,elastic_net_alpha_0.001,3.821333259390054
+TGO,Togo,2018,2021,17.0,19.0,elastic_net_alpha_0.001,15.033852636017706
+TGO,Togo,2019,2022,18.0,19.0,elastic_net_alpha_0.001,15.849471115208717
+TGO,Togo,2020,2023,18.0,20.0,elastic_net_alpha_0.001,14.649268912363047
+THA,Thailand,2018,2021,12.0,13.0,elastic_net_alpha_0.001,14.418885736679734
+THA,Thailand,2019,2022,13.0,12.0,elastic_net_alpha_0.001,14.830656004367901
+THA,Thailand,2020,2023,15.0,12.0,elastic_net_alpha_0.001,16.040844287007875
+THA,Thailand,2021,2024,13.0,13.0,elastic_net_alpha_0.001,12.81639041755485
+URY,Uruguay,2018,2021,2.0,5.0,elastic_net_alpha_0.001,5.290505562926769
+URY,Uruguay,2019,2022,4.0,5.0,elastic_net_alpha_0.001,6.846558076781186
+URY,Uruguay,2020,2023,5.0,6.0,elastic_net_alpha_0.001,7.35900625932124
+VCT,St. Vincent and the Grenadines,2018,2021,2.0,4.0,elastic_net_alpha_0.001,3.857915349772608
+VCT,St. Vincent and the Grenadines,2019,2022,2.0,5.0,elastic_net_alpha_0.001,4.863505596969388
+VCT,St. Vincent and the Grenadines,2020,2023,3.0,6.0,elastic_net_alpha_0.001,6.214682835684759
+VCT,St. Vincent and the Grenadines,2021,2024,4.0,7.0,elastic_net_alpha_0.001,7.44349902820044
+VEN,"Venezuela, RB",2019,2022,14.0,17.0,elastic_net_alpha_0.001,14.493684659967906
+VUT,Vanuatu,2020,2023,15.0,1.0,elastic_net_alpha_0.001,11.340033345111872
+ZAF,South Africa,2018,2021,6.0,17.0,elastic_net_alpha_0.001,8.438697881827693
+ZAF,South Africa,2019,2022,13.0,19.0,elastic_net_alpha_0.001,14.936159494241714
+ZAF,South Africa,2020,2023,15.0,20.0,elastic_net_alpha_0.001,15.855340901045789
+AGO,Angola,2018,2021,8.0,10.0,hist_gradient_boosting,9.776129075842746
+ALB,Albania,2018,2021,10.0,13.0,hist_gradient_boosting,8.028589725516747
+ALB,Albania,2019,2022,11.0,14.0,hist_gradient_boosting,10.797190472343237
+ALB,Albania,2020,2023,12.0,13.0,hist_gradient_boosting,10.473273994161385
+ALB,Albania,2021,2024,13.0,8.0,hist_gradient_boosting,9.2481429644203
+ARG,Argentina,2018,2021,10.0,11.0,hist_gradient_boosting,11.050429799110413
+ARG,Argentina,2019,2022,11.0,11.0,hist_gradient_boosting,9.28694207596881
+ARG,Argentina,2020,2023,11.0,12.0,hist_gradient_boosting,6.167858640937454
+BEL,Belgium,2018,2021,0.0,0.0,hist_gradient_boosting,1.0799604561983411
+BEL,Belgium,2019,2022,0.0,21.0,hist_gradient_boosting,1.0799604561983411
+BEL,Belgium,2020,2023,0.0,0.0,hist_gradient_boosting,1.0799604561983411
+BEN,Benin,2018,2021,13.0,18.0,hist_gradient_boosting,13.064482542295778
+BEN,Benin,2019,2022,16.0,19.0,hist_gradient_boosting,12.998142352545266
+BFA,Burkina Faso,2018,2021,9.0,14.0,hist_gradient_boosting,9.09995522763748
+BFA,Burkina Faso,2019,2022,10.0,20.0,hist_gradient_boosting,10.475148067073265
+BFA,Burkina Faso,2020,2023,11.0,23.0,hist_gradient_boosting,10.121733343157011
+BFA,Burkina Faso,2021,2024,14.0,24.0,hist_gradient_boosting,10.110754609046463
+BGR,Bulgaria,2018,2021,4.0,8.0,hist_gradient_boosting,8.730991931235643
+BGR,Bulgaria,2019,2022,5.0,15.0,hist_gradient_boosting,7.828852261120764
+BGR,Bulgaria,2020,2023,7.0,16.0,hist_gradient_boosting,8.909514363096724
+BGR,Bulgaria,2021,2024,8.0,18.0,hist_gradient_boosting,10.161319247976918
+BHS,"Bahamas, The",2018,2021,0.0,19.0,hist_gradient_boosting,4.2490246054237915
+BTN,Bhutan,2018,2021,4.0,4.0,hist_gradient_boosting,6.4829761254175065
+BTN,Bhutan,2019,2022,2.0,7.0,hist_gradient_boosting,3.636668275690191
+BTN,Bhutan,2020,2023,0.0,9.0,hist_gradient_boosting,2.816505544222689
+BTN,Bhutan,2021,2024,4.0,10.0,hist_gradient_boosting,6.361513792589245
+CAN,Canada,2018,2021,6.0,21.0,hist_gradient_boosting,5.889297970967252
+CAN,Canada,2019,2022,13.0,22.0,hist_gradient_boosting,9.803701528505458
+CAN,Canada,2020,2023,17.0,23.0,hist_gradient_boosting,8.29557247081748
+CHL,Chile,2018,2021,17.0,21.0,hist_gradient_boosting,5.975406238224343
+COL,Colombia,2018,2021,15.0,20.0,hist_gradient_boosting,11.441171574789488
+COL,Colombia,2019,2022,17.0,20.0,hist_gradient_boosting,11.45799412938326
+COM,Comoros,2018,2021,13.0,16.0,hist_gradient_boosting,9.945951750836429
+CPV,Cabo Verde,2018,2021,0.0,9.0,hist_gradient_boosting,2.2460051124199745
+CPV,Cabo Verde,2019,2022,6.0,9.0,hist_gradient_boosting,7.329358433793729
+CRI,Costa Rica,2018,2021,6.0,8.0,hist_gradient_boosting,5.7745004255540175
+CRI,Costa Rica,2019,2022,7.0,9.0,hist_gradient_boosting,7.507965276418354
+CRI,Costa Rica,2020,2023,7.0,10.0,hist_gradient_boosting,5.612080907992034
+CRI,Costa Rica,2021,2024,8.0,12.0,hist_gradient_boosting,7.827339149732754
+CYP,Cyprus,2021,2024,4.0,4.0,hist_gradient_boosting,4.95222984572282
+DNK,Denmark,2018,2021,17.0,8.0,hist_gradient_boosting,9.292093063244115
+DNK,Denmark,2019,2022,18.0,9.0,hist_gradient_boosting,9.292093063244115
+DNK,Denmark,2020,2023,19.0,22.0,hist_gradient_boosting,9.292093063244115
+DNK,Denmark,2021,2024,8.0,23.0,hist_gradient_boosting,5.960179680321537
+DOM,Dominican Republic,2018,2021,14.0,21.0,hist_gradient_boosting,8.35789635464182
+DOM,Dominican Republic,2019,2022,16.0,22.0,hist_gradient_boosting,11.055017225791065
+DOM,Dominican Republic,2020,2023,19.0,21.0,hist_gradient_boosting,11.440132357294386
+ECU,Ecuador,2018,2021,11.0,16.0,hist_gradient_boosting,11.910168590266654
+ECU,Ecuador,2019,2022,13.0,16.0,hist_gradient_boosting,11.635807769395281
+ECU,Ecuador,2020,2023,15.0,17.0,hist_gradient_boosting,10.948293296840184
+EST,Estonia,2018,2021,3.0,6.0,hist_gradient_boosting,2.211572681968331
+EST,Estonia,2019,2022,5.0,7.0,hist_gradient_boosting,5.312140426741236
+EST,Estonia,2020,2023,5.0,9.0,hist_gradient_boosting,4.20651865156966
+EST,Estonia,2021,2024,6.0,12.0,hist_gradient_boosting,5.799367310755793
+FIN,Finland,2018,2021,0.0,0.0,hist_gradient_boosting,2.4641789512863896
+FIN,Finland,2019,2022,0.0,0.0,hist_gradient_boosting,2.4641789512863896
+FIN,Finland,2020,2023,0.0,0.0,hist_gradient_boosting,2.3170176233398756
+FIN,Finland,2021,2024,0.0,0.0,hist_gradient_boosting,2.4641789512863896
+GBR,United Kingdom,2018,2021,4.0,8.0,hist_gradient_boosting,4.749837717555717
+GBR,United Kingdom,2019,2022,5.0,9.0,hist_gradient_boosting,4.551317250845733
+GBR,United Kingdom,2020,2023,7.0,10.0,hist_gradient_boosting,7.286528659568025
+GEO,Georgia,2018,2021,16.0,21.0,hist_gradient_boosting,9.961021748960261
+GEO,Georgia,2019,2022,17.0,22.0,hist_gradient_boosting,11.697099580733964
+GEO,Georgia,2020,2023,19.0,23.0,hist_gradient_boosting,11.097515022041678
+GHA,Ghana,2018,2021,8.0,10.0,hist_gradient_boosting,9.50510097029388
+GHA,Ghana,2019,2022,9.0,11.0,hist_gradient_boosting,10.603819586599991
+GHA,Ghana,2020,2023,9.0,12.0,hist_gradient_boosting,10.127324853115654
+GHA,Ghana,2021,2024,10.0,13.0,hist_gradient_boosting,11.828557555874054
+HKG,"Hong Kong SAR, China",2018,2021,7.0,11.0,hist_gradient_boosting,7.497339227980195
+HKG,"Hong Kong SAR, China",2019,2022,8.0,11.0,hist_gradient_boosting,8.080710627117497
+HKG,"Hong Kong SAR, China",2020,2023,10.0,12.0,hist_gradient_boosting,9.154400636553781
+HKG,"Hong Kong SAR, China",2021,2024,11.0,13.0,hist_gradient_boosting,9.154400636553781
+HRV,Croatia,2018,2021,2.0,4.0,hist_gradient_boosting,6.916137851601631
+HRV,Croatia,2019,2022,2.0,4.0,hist_gradient_boosting,7.171922422246734
+HRV,Croatia,2020,2023,3.0,5.0,hist_gradient_boosting,9.50804240574284
+HUN,Hungary,2018,2021,5.0,9.0,hist_gradient_boosting,6.835325831133272
+HUN,Hungary,2019,2022,7.0,9.0,hist_gradient_boosting,9.114700296132588
+HUN,Hungary,2020,2023,8.0,9.0,hist_gradient_boosting,8.658816327271333
+HUN,Hungary,2021,2024,9.0,10.0,hist_gradient_boosting,9.48894456780188
+IDN,Indonesia,2018,2021,10.0,11.0,hist_gradient_boosting,9.479525826290391
+IDN,Indonesia,2019,2022,10.0,12.0,hist_gradient_boosting,9.893260338409682
+IDN,Indonesia,2020,2023,11.0,13.0,hist_gradient_boosting,11.754538552986963
+IDN,Indonesia,2021,2024,11.0,14.0,hist_gradient_boosting,9.413627016313676
+IRL,Ireland,2018,2021,0.0,0.0,hist_gradient_boosting,2.5075564018307013
+IRL,Ireland,2019,2022,0.0,0.0,hist_gradient_boosting,3.1503935100565807
+ISL,Iceland,2018,2021,6.0,21.0,hist_gradient_boosting,6.3068981609916435
+ISR,Israel,2018,2021,7.0,10.0,hist_gradient_boosting,8.956490559714608
+ISR,Israel,2019,2022,8.0,11.0,hist_gradient_boosting,9.926410609384853
+ISR,Israel,2020,2023,9.0,11.0,hist_gradient_boosting,11.017430841894248
+ISR,Israel,2021,2024,10.0,12.0,hist_gradient_boosting,11.03950716580252
+KAZ,Kazakhstan,2018,2021,15.0,20.0,hist_gradient_boosting,12.839297925383416
+KAZ,Kazakhstan,2019,2022,17.0,21.0,hist_gradient_boosting,13.04255648514915
+KAZ,Kazakhstan,2020,2023,19.0,21.0,hist_gradient_boosting,12.55808023855133
+KAZ,Kazakhstan,2021,2024,20.0,22.0,hist_gradient_boosting,12.267071313962283
+KEN,Kenya,2018,2021,9.0,13.0,hist_gradient_boosting,10.030169421474595
+KHM,Cambodia,2018,2021,12.0,13.0,hist_gradient_boosting,11.353352888818893
+KHM,Cambodia,2019,2022,13.0,4.0,hist_gradient_boosting,11.404028298488917
+KHM,Cambodia,2020,2023,13.0,2.0,hist_gradient_boosting,9.657536907933173
+KHM,Cambodia,2021,2024,13.0,2.0,hist_gradient_boosting,9.590520888698144
+LAO,Lao PDR,2018,2021,6.0,9.0,hist_gradient_boosting,8.08529596695354
+LAO,Lao PDR,2019,2022,6.0,11.0,hist_gradient_boosting,8.755731220643518
+LAO,Lao PDR,2020,2023,8.0,14.0,hist_gradient_boosting,11.121767670045372
+LAO,Lao PDR,2021,2024,9.0,16.0,hist_gradient_boosting,12.154319884387187
+LCA,St. Lucia,2018,2021,12.0,17.0,hist_gradient_boosting,8.43655532278269
+LCA,St. Lucia,2019,2022,15.0,16.0,hist_gradient_boosting,10.48277730971256
+LCA,St. Lucia,2020,2023,16.0,16.0,hist_gradient_boosting,9.77701345866065
+LCA,St. Lucia,2021,2024,17.0,2.0,hist_gradient_boosting,10.806163479280482
+LTU,Lithuania,2018,2021,5.0,8.0,hist_gradient_boosting,7.065636497589236
+LTU,Lithuania,2019,2022,6.0,9.0,hist_gradient_boosting,7.919348290519812
+LTU,Lithuania,2020,2023,7.0,10.0,hist_gradient_boosting,9.012504388962425
+LTU,Lithuania,2021,2024,8.0,11.0,hist_gradient_boosting,8.490970031526492
+LUX,Luxembourg,2018,2021,9.0,11.0,hist_gradient_boosting,9.085750931874324
+LUX,Luxembourg,2019,2022,10.0,10.0,hist_gradient_boosting,9.154400636553781
+LUX,Luxembourg,2020,2023,11.0,9.0,hist_gradient_boosting,9.154400636553781
+LUX,Luxembourg,2021,2024,11.0,11.0,hist_gradient_boosting,6.909465658194169
+LVA,Latvia,2018,2021,6.0,9.0,hist_gradient_boosting,7.767300687513447
+LVA,Latvia,2019,2022,7.0,10.0,hist_gradient_boosting,8.290374514659447
+LVA,Latvia,2020,2023,8.0,11.0,hist_gradient_boosting,9.01408777285192
+LVA,Latvia,2021,2024,9.0,19.0,hist_gradient_boosting,9.588685698225442
+MAC,"Macao SAR, China",2018,2021,12.0,17.0,hist_gradient_boosting,9.132324312645508
+MAC,"Macao SAR, China",2019,2022,14.0,18.0,hist_gradient_boosting,9.132324312645508
+MAC,"Macao SAR, China",2020,2023,15.0,19.0,hist_gradient_boosting,9.132324312645508
+MAC,"Macao SAR, China",2021,2024,17.0,19.0,hist_gradient_boosting,9.132324312645508
+MDA,Moldova,2018,2021,4.0,6.0,hist_gradient_boosting,7.858017376295694
+MDA,Moldova,2019,2022,5.0,7.0,hist_gradient_boosting,7.941449237879024
+MDA,Moldova,2020,2023,6.0,3.0,hist_gradient_boosting,9.323932609546327
+MDA,Moldova,2021,2024,6.0,4.0,hist_gradient_boosting,8.009650250992381
+MDG,Madagascar,2018,2021,10.0,14.0,hist_gradient_boosting,13.272934206297638
+MEX,Mexico,2018,2021,12.0,20.0,hist_gradient_boosting,11.170481917820496
+MEX,Mexico,2019,2022,14.0,19.0,hist_gradient_boosting,12.262449267474029
+MEX,Mexico,2020,2023,17.0,17.0,hist_gradient_boosting,12.278958609074598
+MEX,Mexico,2021,2024,20.0,13.0,hist_gradient_boosting,11.820539839910031
+MKD,North Macedonia,2019,2022,11.0,4.0,hist_gradient_boosting,8.36767331176255
+MKD,North Macedonia,2020,2023,8.0,4.0,hist_gradient_boosting,8.42599560517922
+MNE,Montenegro,2018,2021,11.0,14.0,hist_gradient_boosting,6.772363467508053
+MNE,Montenegro,2019,2022,12.0,7.0,hist_gradient_boosting,9.028074006524959
+MNE,Montenegro,2020,2023,14.0,5.0,hist_gradient_boosting,9.065979691218509
+MNG,Mongolia,2018,2021,12.0,2.0,hist_gradient_boosting,10.65661432369462
+MNG,Mongolia,2019,2022,11.0,3.0,hist_gradient_boosting,9.125248794834095
+MNG,Mongolia,2020,2023,8.0,4.0,hist_gradient_boosting,8.583930245200298
+NAM,Namibia,2018,2021,6.0,0.0,hist_gradient_boosting,6.99297706006677
+NAM,Namibia,2019,2022,7.0,0.0,hist_gradient_boosting,10.02730881422425
+NAM,Namibia,2020,2023,0.0,0.0,hist_gradient_boosting,5.161906735591227
+NAM,Namibia,2021,2024,0.0,0.0,hist_gradient_boosting,3.75183140923117
+NLD,Netherlands,2020,2023,1.0,2.0,hist_gradient_boosting,0.637525272453881
+NPL,Nepal,2018,2021,10.0,12.0,hist_gradient_boosting,9.476478685244906
+NPL,Nepal,2019,2022,10.0,12.0,hist_gradient_boosting,9.971534879917469
+NPL,Nepal,2020,2023,11.0,13.0,hist_gradient_boosting,11.438919939982691
+NPL,Nepal,2021,2024,12.0,13.0,hist_gradient_boosting,10.909561039100616
+NZL,New Zealand,2018,2021,15.0,17.0,hist_gradient_boosting,5.814789792409753
+NZL,New Zealand,2019,2022,15.0,18.0,hist_gradient_boosting,5.746140087730299
+NZL,New Zealand,2020,2023,0.0,19.0,hist_gradient_boosting,-0.3945207138286272
+NZL,New Zealand,2021,2024,17.0,20.0,hist_gradient_boosting,7.9467230867475
+PER,Peru,2018,2021,13.0,20.0,hist_gradient_boosting,12.025919869461198
+PER,Peru,2019,2022,18.0,16.0,hist_gradient_boosting,11.690708384960443
+PER,Peru,2020,2023,19.0,17.0,hist_gradient_boosting,12.33249290190103
+PER,Peru,2021,2024,20.0,17.0,hist_gradient_boosting,12.163984294383493
+POL,Poland,2018,2021,6.0,8.0,hist_gradient_boosting,9.341387388421492
+POL,Poland,2019,2022,6.0,9.0,hist_gradient_boosting,7.705643694043408
+POL,Poland,2020,2023,7.0,10.0,hist_gradient_boosting,9.871711890090625
+POL,Poland,2021,2024,8.0,11.0,hist_gradient_boosting,10.138594760285145
+PRI,Puerto Rico (US),2020,2023,0.0,1.0,hist_gradient_boosting,3.1277523457135805
+PRT,Portugal,2018,2021,2.0,5.0,hist_gradient_boosting,4.431319532747002
+PRT,Portugal,2019,2022,3.0,5.0,hist_gradient_boosting,6.764619995116419
+PRT,Portugal,2020,2023,4.0,6.0,hist_gradient_boosting,7.443629899678112
+RUS,Russian Federation,2018,2021,9.0,18.0,hist_gradient_boosting,8.149394695034324
+RUS,Russian Federation,2019,2022,12.0,19.0,hist_gradient_boosting,10.807894009765608
+RWA,Rwanda,2018,2021,9.0,12.0,hist_gradient_boosting,8.67146346057173
+RWA,Rwanda,2019,2022,10.0,13.0,hist_gradient_boosting,9.575837108796874
+RWA,Rwanda,2020,2023,11.0,13.0,hist_gradient_boosting,9.575837108796874
+RWA,Rwanda,2021,2024,12.0,13.0,hist_gradient_boosting,9.575837108796874
+SLE,Sierra Leone,2018,2021,7.0,0.0,hist_gradient_boosting,9.660457556592435
+SLE,Sierra Leone,2019,2022,1.0,0.0,hist_gradient_boosting,4.44894796920647
+SLE,Sierra Leone,2020,2023,0.0,0.0,hist_gradient_boosting,4.124651756048311
+SRB,Serbia,2018,2021,4.0,6.0,hist_gradient_boosting,5.613468448665726
+SRB,Serbia,2019,2022,5.0,6.0,hist_gradient_boosting,7.825905693127487
+SRB,Serbia,2020,2023,5.0,7.0,hist_gradient_boosting,6.8639570545941
+SRB,Serbia,2021,2024,6.0,8.0,hist_gradient_boosting,9.12458633202173
+SUR,Suriname,2018,2021,10.0,20.0,hist_gradient_boosting,12.097161552734553
+SUR,Suriname,2019,2022,13.0,21.0,hist_gradient_boosting,11.722964674452463
+SVK,Slovak Republic,2018,2021,14.0,16.0,hist_gradient_boosting,12.084387782176256
+SVK,Slovak Republic,2019,2022,15.0,17.0,hist_gradient_boosting,12.008580225002552
+SVK,Slovak Republic,2020,2023,15.0,17.0,hist_gradient_boosting,9.131554457705288
+SVK,Slovak Republic,2021,2024,16.0,9.0,hist_gradient_boosting,11.307090886647302
+SVN,Slovenia,2018,2021,3.0,20.0,hist_gradient_boosting,4.601897665846901
+SVN,Slovenia,2019,2022,4.0,21.0,hist_gradient_boosting,6.385132889165798
+SVN,Slovenia,2020,2023,6.0,9.0,hist_gradient_boosting,8.625015929804501
+SWE,Sweden,2018,2021,0.0,0.0,hist_gradient_boosting,0.9439785895234253
+SWE,Sweden,2019,2022,0.0,0.0,hist_gradient_boosting,1.0759982199656617
+SWE,Sweden,2020,2023,0.0,0.0,hist_gradient_boosting,1.0759982199656617
+SWE,Sweden,2021,2024,0.0,0.0,hist_gradient_boosting,1.0759982199656617
+TGO,Togo,2018,2021,17.0,19.0,hist_gradient_boosting,12.09205308630647
+TGO,Togo,2019,2022,18.0,19.0,hist_gradient_boosting,13.758206560858977
+TGO,Togo,2020,2023,18.0,20.0,hist_gradient_boosting,12.432172586542325
+THA,Thailand,2018,2021,12.0,13.0,hist_gradient_boosting,10.660554442572284
+THA,Thailand,2019,2022,13.0,12.0,hist_gradient_boosting,10.626219243019513
+THA,Thailand,2020,2023,15.0,12.0,hist_gradient_boosting,9.910505199689021
+THA,Thailand,2021,2024,13.0,13.0,hist_gradient_boosting,6.822191136032396
+URY,Uruguay,2018,2021,2.0,5.0,hist_gradient_boosting,5.717990273182369
+URY,Uruguay,2019,2022,4.0,5.0,hist_gradient_boosting,6.63420476442586
+URY,Uruguay,2020,2023,5.0,6.0,hist_gradient_boosting,5.365807952280894
+VCT,St. Vincent and the Grenadines,2018,2021,2.0,4.0,hist_gradient_boosting,4.1406080820721645
+VCT,St. Vincent and the Grenadines,2019,2022,2.0,5.0,hist_gradient_boosting,4.175895896024874
+VCT,St. Vincent and the Grenadines,2020,2023,3.0,6.0,hist_gradient_boosting,4.79024657388665
+VCT,St. Vincent and the Grenadines,2021,2024,4.0,7.0,hist_gradient_boosting,6.24073659740375
+VEN,"Venezuela, RB",2019,2022,14.0,17.0,hist_gradient_boosting,11.988967388057743
+VUT,Vanuatu,2020,2023,15.0,1.0,hist_gradient_boosting,7.727204395827307
+ZAF,South Africa,2018,2021,6.0,17.0,hist_gradient_boosting,7.051026582660591
+ZAF,South Africa,2019,2022,13.0,19.0,hist_gradient_boosting,9.863871276140326
+ZAF,South Africa,2020,2023,15.0,20.0,hist_gradient_boosting,11.005024696596351

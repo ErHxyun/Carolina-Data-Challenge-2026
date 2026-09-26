@@ -1,0 +1,33 @@
+{
+  "analysis_period": [
+    2000,
+    2024
+  ],
+  "countries_in_outcomes": 209,
+  "country_year_sex_score_rows": 7002,
+  "latest_joint_delay_countries": 160,
+  "latest_joint_uncensored_countries": 82,
+  "latest_joint_bootstrap_90pct_median_width": 16.574999999999996,
+  "model_features": [
+    "delay_years",
+    "delay_change_1y",
+    "delay_change_3y",
+    "rural_population_pct",
+    "rural_electricity_pct",
+    "log_gdp_per_capita_ppp",
+    "government_effectiveness",
+    "fertility_rate",
+    "internet_total_pct"
+  ],
+  "test_best_model": {
+    "split": "test",
+    "model": "elastic_net_alpha_0.001",
+    "n": 210,
+    "mae_years": 4.0096407571606845,
+    "rmse_years": 5.543547982776453,
+    "r2": 0.29912855650717507,
+    "direction_accuracy": 0.580952380952381
+  },
+  "fpt_countries": 73,
+  "method_note": "Development-year uncertainty is indicator-resampling bootstrap, not a Bayesian credible interval. First-passage estimates are baseline stochastic scenarios with latest external predictors held fixed."
+}

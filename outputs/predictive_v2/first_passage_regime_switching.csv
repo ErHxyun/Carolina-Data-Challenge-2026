@@ -1,0 +1,182 @@
+iso3,country,region,income,gap_2024,start_state,p_halve_by_2030,p_halve_by_2050,median_year_halve,halve_q10,halve_q90,p_parity_by_2050,p_parity_by_2099,median_year_parity,p_widened_2050,status
+AFG,Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",Low income,2.396413062974616,Widening,0.0,0.0,,,,0.0,0.0,,,unlikely to halve by 2050
+AGO,Angola,Sub-Saharan Africa ,Lower middle income,0.4170895769813505,Widening,0.05675,0.40075,2063.0,2033.0,,0.2515,0.55375,2087.0,,unlikely to halve by 2050
+ALB,Albania,Europe & Central Asia,Upper middle income,0.3674826795608601,Closing,0.05625,0.3695,2066.0,2033.0,,0.21575,0.54725,2090.0,,unlikely to halve by 2050
+ARE,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",High income,1.2891639646997977,Closing,0.00025,0.1615,2069.0,2048.0,,0.003,0.4355,,,unlikely to halve by 2050
+ARG,Argentina,Latin America & Caribbean ,Upper middle income,0.5793600141462373,Closing,0.03875,0.49775,2054.0,2036.0,2099.0,0.216,0.7855,2069.0,,unlikely to halve by 2050
+ARM,Armenia,Europe & Central Asia,Upper middle income,0.5916129183943227,Widening,0.01925,0.177,,2045.0,,0.03825,0.2315,,,unlikely to halve by 2050
+AUS,Australia,East Asia & Pacific,High income,0.2172894750136113,Closing,0.42925,0.9405,2033.0,2027.0,2048.0,0.935,0.99675,2033.0,,likely halves by 2050
+AUT,Austria,Europe & Central Asia,High income,0.2612820265452968,Closing,0.31325,0.843,2036.0,2030.0,2060.0,0.8035,0.97825,2036.0,,likely halves by 2050
+AZE,Azerbaijan,Europe & Central Asia,Upper middle income,0.3193328220741844,Flat,0.095,0.42375,2060.0,2033.0,,0.3125,0.61,2078.0,,unlikely to halve by 2050
+BDI,Burundi,Sub-Saharan Africa ,Low income,0.0405234477271205,Flat,,,,,,,,,,already near parity
+BEL,Belgium,Europe & Central Asia,High income,0.1914721600901282,Flat,0.323,0.8865,2033.0,2027.0,2054.0,0.89275,0.99125,2033.0,,likely halves by 2050
+BEN,Benin,Sub-Saharan Africa ,Lower middle income,0.1557279021121199,Flat,0.26025,0.7415,2039.0,2027.0,2090.0,0.78375,0.9385,2036.0,,likely halves by 2050
+BFA,Burkina Faso,Sub-Saharan Africa ,Low income,0.5677414216441109,Widening,0.007,0.07,,2060.0,,0.01625,0.089,,,unlikely to halve by 2050
+BGD,Bangladesh,South Asia,Lower middle income,1.2382672244335653,Widening,0.0,0.03775,,2063.0,,0.0,0.05725,,,unlikely to halve by 2050
+BGR,Bulgaria,Europe & Central Asia,High income,0.3142356372356215,Closing,0.13675,0.5895,2045.0,2030.0,,0.477,0.8055,2054.0,,likely halves by 2050
+BHR,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",High income,1.4151389704633237,Flat,0.0,0.01325,,2078.0,,0.0,0.01625,,,unlikely to halve by 2050
+BHS,"Bahamas, The",Latin America & Caribbean ,High income,0.0355346112533094,Flat,,,,,,,,,,already near parity
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,0.8493779895686734,Closing,0.00375,0.1695,2081.0,2045.0,,0.01575,0.29025,,,unlikely to halve by 2050
+BLR,Belarus,Europe & Central Asia,Upper middle income,0.3217404421995488,Widening,0.07575,0.3845,2067.5,2033.0,,0.28,0.54425,2087.0,,unlikely to halve by 2050
+BLZ,Belize,Latin America & Caribbean ,Upper middle income,1.1714247876373909,Closing,0.0005,0.08575,2093.0,2054.0,,0.0005,0.138,,,unlikely to halve by 2050
+BOL,Bolivia,Latin America & Caribbean ,Lower middle income,0.4852265635242001,Closing,0.064,0.5985,2045.0,2033.0,,0.3565,0.798,2063.0,,likely halves by 2050
+BRA,Brazil,Latin America & Caribbean ,Upper middle income,0.6434094553710792,Closing,0.019,0.34475,2063.0,2039.0,,0.09475,0.59925,2090.0,,unlikely to halve by 2050
+BRB,Barbados,Latin America & Caribbean ,High income,0.1617667048836739,Flat,0.32675,0.7925,2036.0,2027.0,2072.0,0.83675,0.9645,2033.0,,likely halves by 2050
+BRN,Brunei Darussalam,East Asia & Pacific,High income,0.5723321444164801,Closing,0.0495,0.58225,2048.0,2033.0,2093.0,0.28975,0.82975,2063.0,,likely halves by 2050
+BTN,Bhutan,South Asia,Lower middle income,0.7812971594109216,Widening,0.001,0.0635,,2060.0,,0.00225,0.06475,,,unlikely to halve by 2050
+BWA,Botswana,Sub-Saharan Africa ,Upper middle income,0.5635340914491921,Widening,0.0285,0.30175,2075.0,2036.0,,0.105,0.43375,,,unlikely to halve by 2050
+CAF,Central African Republic,Sub-Saharan Africa ,Low income,0.654075559425761,Widening,0.00775,0.0515,,2075.0,,0.00825,0.03525,,,unlikely to halve by 2050
+CAN,Canada,North America,High income,0.2039728396660862,Closing,0.28025,0.74325,2039.0,2027.0,2078.0,0.7395,0.9395,2039.0,,likely halves by 2050
+CHE,Switzerland,Europe & Central Asia,High income,0.3065837671256903,Closing,0.1825,0.87275,2036.0,2030.0,2057.0,0.7955,0.987,2042.0,,likely halves by 2050
+CHL,Chile,Latin America & Caribbean ,High income,0.5973054864462503,Closing,0.0535,0.816,2042.0,2033.0,2060.0,0.5285,0.975,2051.0,,likely halves by 2050
+CHN,China,East Asia & Pacific,Upper middle income,0.2541147491521242,Closing,0.3295,0.862,2033.0,2027.0,2060.0,0.83025,0.9785,2036.0,,likely halves by 2050
+CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,0.6343802555503406,Closing,0.01725,0.29625,2081.0,2039.0,,0.08375,0.36575,,,unlikely to halve by 2050
+CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,0.693054272264078,Widening,0.0015,0.09075,,2054.0,,0.01425,0.088,,,unlikely to halve by 2050
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,0.1832949092379331,Flat,0.13525,0.5255,2051.0,2030.0,,0.55175,0.74325,2048.0,,likely halves by 2050
+COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,0.4822917298899131,Widening,0.02175,0.183,,2042.0,,0.06925,0.21725,,,unlikely to halve by 2050
+COL,Colombia,Latin America & Caribbean ,Upper middle income,0.834083881314867,Closing,0.00825,0.303,2063.0,2042.0,,0.03775,0.53325,2096.0,,unlikely to halve by 2050
+COM,Comoros,Sub-Saharan Africa ,Lower middle income,0.7119222003473148,Flat,0.01,0.20325,2099.0,2042.0,,0.0355,0.2635,,,unlikely to halve by 2050
+CPV,Cabo Verde,Sub-Saharan Africa ,Upper middle income,0.500025741092195,Widening,0.0485,0.459,2054.0,2036.0,,0.21075,0.68425,2075.0,,unlikely to halve by 2050
+CRI,Costa Rica,Latin America & Caribbean ,High income,0.8089197321185773,Closing,0.01275,0.33175,2063.0,2042.0,,0.05675,0.55825,2093.0,,unlikely to halve by 2050
+CUB,Cuba,Latin America & Caribbean ,Upper middle income,0.6614634594778365,Widening,0.0185,0.4555,2054.0,2036.0,,0.15725,0.7225,2078.0,,unlikely to halve by 2050
+CYP,Cyprus,Europe & Central Asia,High income,0.3518625812094504,Closing,0.159,0.7405,2039.0,2030.0,2075.0,0.611,0.933,2048.0,,likely halves by 2050
+CZE,Czechia,Europe & Central Asia,High income,0.4068163433291257,Closing,0.10025,0.7895,2042.0,2030.0,2063.2999999999997,0.60075,0.969,2048.0,,likely halves by 2050
+DEU,Germany,Europe & Central Asia,High income,0.2796495324904017,Flat,0.181,0.80425,2039.0,2030.0,2066.0,0.71225,0.96475,2042.0,,likely halves by 2050
+DJI,Djibouti,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,1.451534818461308,Closing,0.0,0.10075,2078.0,2051.0,,0.0,0.23675,,,unlikely to halve by 2050
+DNK,Denmark,Europe & Central Asia,High income,0.2252915655388988,Flat,0.21225,0.687,2042.0,2030.0,2096.0,0.65725,0.895,2042.0,,likely halves by 2050
+DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,0.7904015981814267,Closing,0.011,0.2105,2078.0,2045.0,,0.024,0.3535,,,unlikely to halve by 2050
+DZA,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,1.883907348760148,Widening,0.0,0.00025,,,,0.0,0.0005,,,unlikely to halve by 2050
+ECU,Ecuador,Latin America & Caribbean ,Upper middle income,0.900454278458624,Closing,0.0035,0.139,2084.0,2048.0,,0.00775,0.2635,,,unlikely to halve by 2050
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,1.990037409792606,Closing,0.0,0.00325,,2081.0,,0.0,0.00375,,,unlikely to halve by 2050
+ERI,Eritrea,Sub-Saharan Africa ,Low income,0.5304495432382145,Widening,0.01125,0.142,,2048.0,,0.04025,0.2,,,unlikely to halve by 2050
+ESP,Spain,Europe & Central Asia,High income,0.3812615339728368,Closing,0.1415,0.7285,2039.0,2030.0,2078.0,0.585,0.9275,2048.0,,likely halves by 2050
+EST,Estonia,Europe & Central Asia,High income,0.2358378353480726,Closing,0.2895,0.78375,2036.0,2027.0,2075.0,0.74925,0.94575,2039.0,,likely halves by 2050
+ETH,Ethiopia,Sub-Saharan Africa ,Low income,0.7401051922996132,Closing,0.01225,0.04625,,2078.0,,0.0045,0.02775,,,unlikely to halve by 2050
+FIN,Finland,Europe & Central Asia,High income,0.0661265936833789,Closing,,,,,,,,,,already near parity
+FJI,Fiji,East Asia & Pacific,Upper middle income,1.1701551462842774,Widening,0.0005,0.0475,,2063.0,,0.0005,0.051,,,unlikely to halve by 2050
+FRA,France,Europe & Central Asia,High income,0.2004546842049004,Flat,0.337,0.86375,2036.0,2027.0,2057.0,0.8635,0.9865,2036.0,,likely halves by 2050
+GAB,Gabon,Sub-Saharan Africa ,Upper middle income,1.2323037025244667,Widening,0.0,0.017,,2084.0,,0.0,0.011,,,unlikely to halve by 2050
+GBR,United Kingdom,Europe & Central Asia,High income,0.1822162513755477,Flat,0.39225,0.8355,2033.0,2027.0,2066.0,0.8505,0.95925,2033.0,,likely halves by 2050
+GEO,Georgia,Europe & Central Asia,Upper middle income,0.3160264699811203,Flat,0.086,0.461,2057.0,2033.0,,0.32775,0.62575,2072.0,,unlikely to halve by 2050
+GHA,Ghana,Sub-Saharan Africa ,Lower middle income,0.3461244213706917,Flat,0.10425,0.5825,2048.0,2030.0,,0.4275,0.754,2060.0,,likely halves by 2050
+GIN,Guinea,Sub-Saharan Africa ,Lower middle income,0.7100733553090649,Closing,0.0085,0.1955,,2042.0,,0.03525,0.19425,,,unlikely to halve by 2050
+GMB,"Gambia, The",Sub-Saharan Africa ,Low income,0.3647411665971585,Widening,0.04675,0.2985,2084.0,2036.0,,0.162,0.41325,,,unlikely to halve by 2050
+GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,0.3825456369728437,Closing,0.08475,0.588,2048.0,2033.0,,0.39875,0.77925,2060.0,,likely halves by 2050
+GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,0.5608990536261558,Widening,0.0215,0.21825,2090.0,2042.0,,0.0585,0.312,,,unlikely to halve by 2050
+GRC,Greece,Europe & Central Asia,High income,0.6367484802008824,Closing,0.04075,0.61525,2048.0,2033.0,2078.0,0.2705,0.8875,2063.0,,likely halves by 2050
+GTM,Guatemala,Latin America & Caribbean ,Upper middle income,1.4596045451720048,Widening,0.00025,0.01275,,2087.0,,0.0,0.008,,,unlikely to halve by 2050
+GUM,Guam,East Asia & Pacific,High income,0.2962097772811714,Widening,0.12475,0.565,2048.0,2030.0,,0.45375,0.78625,2057.0,,likely halves by 2050
+GUY,Guyana,Latin America & Caribbean ,High income,0.5897558983038195,Closing,0.0685,0.819,2042.0,2033.0,2060.0,0.541,0.97975,2051.0,,likely halves by 2050
+HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,0.216037373398689,Flat,0.3235,0.883,2036.0,2027.0,2054.0,0.87175,0.98875,2036.0,,likely halves by 2050
+HND,Honduras,Latin America & Caribbean ,Lower middle income,1.315297502306109,Widening,0.0,0.01225,,2081.0,,0.0,0.0135,,,unlikely to halve by 2050
+HRV,Croatia,Europe & Central Asia,High income,0.3156045331167003,Closing,0.1485,0.74075,2042.0,2030.0,2075.0,0.6255,0.943,2048.0,,likely halves by 2050
+HTI,Haiti,Latin America & Caribbean ,Lower middle income,0.6931311905487368,Widening,0.00675,0.189,,2042.0,,0.03725,0.258,,,unlikely to halve by 2050
+HUN,Hungary,Europe & Central Asia,High income,0.3753058114486283,Closing,0.115,0.64875,2045.0,2030.0,2090.0,0.47975,0.86925,2054.0,,likely halves by 2050
+IDN,Indonesia,East Asia & Pacific,Upper middle income,0.9400395323917372,Widening,0.00325,0.13925,2090.0,2048.0,,0.008,0.21975,,,unlikely to halve by 2050
+IND,India,South Asia,Lower middle income,1.3809402299209923,Widening,0.0,0.01975,,2075.0,,0.0,0.0175,,,unlikely to halve by 2050
+IRL,Ireland,Europe & Central Asia,High income,0.2560888014052656,Closing,0.278,0.77675,2036.0,2030.0,2075.0,0.739,0.94125,2039.0,,likely halves by 2050
+IRN,"Iran, Islamic Rep.","Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,1.8015830921661855,Closing,0.0,0.00175,,,,0.0,0.001,,,unlikely to halve by 2050
+IRQ,Iraq,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,2.418299581498406,Widening,0.0,0.0,,,,0.0,0.0,,,unlikely to halve by 2050
+ISL,Iceland,Europe & Central Asia,High income,0.1632397215526067,Flat,0.3755,0.7505,2036.0,2027.0,,0.79625,0.9035,2033.0,,likely halves by 2050
+ISR,Israel,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.1782293998618977,Closing,0.47475,0.90725,2033.0,2027.0,2051.0,0.918,0.9925,2030.0,,likely halves by 2050
+ITA,Italy,Europe & Central Asia,High income,0.5348108456895448,Flat,0.03275,0.546,2051.0,2036.0,2090.0,0.28175,0.86025,2063.0,,likely halves by 2050
+JAM,Jamaica,Latin America & Caribbean ,Upper middle income,0.401823962846207,Closing,0.065,0.63725,2045.0,2033.0,2081.0,0.42125,0.89475,2057.0,,likely halves by 2050
+JOR,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,1.5460591703409328,Flat,0.0,0.004,,,,0.0,0.001,,,unlikely to halve by 2050
+JPN,Japan,East Asia & Pacific,High income,0.4476273787507216,Closing,0.12975,0.8875,2036.0,2030.0,2054.0,0.7545,0.98775,2045.0,,likely halves by 2050
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,0.3735563123669791,Flat,0.06725,0.54225,2051.0,2033.0,,0.34525,0.8185,2063.0,,likely halves by 2050
+KEN,Kenya,Sub-Saharan Africa ,Lower middle income,0.5471199183471047,Closing,0.035,0.319,2078.0,2036.0,,0.11425,0.40425,,,unlikely to halve by 2050
+KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,0.8128172260538938,Closing,0.00475,0.157,,2045.0,,0.01825,0.145,,,unlikely to halve by 2050
+KHM,Cambodia,East Asia & Pacific,Lower middle income,0.4093000713538832,Closing,0.04975,0.37575,2063.0,2036.0,,0.18925,0.56275,2090.0,,unlikely to halve by 2050
+KOR,"Korea, Rep.",East Asia & Pacific,High income,0.4590939833122425,Closing,0.088,0.698,2042.0,2033.0,2075.0,0.47275,0.916,2054.0,,likely halves by 2050
+KWT,Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",High income,1.3778210967605924,Widening,0.0,0.026,,2072.0,,0.0,0.03325,,,unlikely to halve by 2050
+LAO,Lao PDR,East Asia & Pacific,Lower middle income,0.3205075188831879,Widening,0.049,0.3185,2084.0,2036.0,,0.22275,0.45875,,,unlikely to halve by 2050
+LBR,Liberia,Sub-Saharan Africa ,Low income,0.4290179276548265,Widening,0.0245,0.28425,2084.0,2039.0,,0.1485,0.42325,,,unlikely to halve by 2050
+LBY,Libya,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,1.167339700779852,Widening,0.0005,0.02375,,2075.0,,0.00025,0.0145,,,unlikely to halve by 2050
+LCA,St. Lucia,Latin America & Caribbean ,Upper middle income,0.3868437997852816,Closing,0.086,0.52225,2051.0,2033.0,,0.344,0.70875,2066.0,,likely halves by 2050
+LKA,Sri Lanka,South Asia,Upper middle income,1.209097962995031,Closing,0.0,0.1375,2075.0,2051.0,,0.002,0.32125,,,unlikely to halve by 2050
+LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,0.6326414310612889,Widening,0.005,0.0995,,2054.0,,0.0155,0.0965,,,unlikely to halve by 2050
+LTU,Lithuania,Europe & Central Asia,High income,0.2137451602094713,Widening,0.1705,0.56675,2048.0,2030.0,,0.5525,0.778,2048.0,,likely halves by 2050
+LUX,Luxembourg,Europe & Central Asia,High income,0.244588119122472,Closing,0.3685,0.8945,2033.0,2027.0,2054.0,0.8745,0.989,2036.0,,likely halves by 2050
+LVA,Latvia,Europe & Central Asia,High income,0.2318643767682097,Closing,0.22475,0.669,2042.0,2030.0,,0.63325,0.87625,2045.0,,likely halves by 2050
+MAC,"Macao SAR, China",East Asia & Pacific,High income,0.3091903498896233,Flat,0.103,0.6235,2045.0,2030.0,2087.0,0.49175,0.89575,2054.0,,likely halves by 2050
+MAR,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,1.3019288224470875,Widening,0.0,0.0085,,2099.0,,0.0,0.00725,,,unlikely to halve by 2050
+MDA,Moldova,Europe & Central Asia,Upper middle income,0.0307962590786484,Closing,,,,,,,,,,already near parity
+MDG,Madagascar,Sub-Saharan Africa ,Low income,0.2412427243266424,Widening,0.1025,0.36275,2078.0,2030.0,,0.312,0.52225,2093.0,,unlikely to halve by 2050
+MDV,Maldives,South Asia,Upper middle income,1.148879450896328,Widening,0.0,0.07875,,2054.0,,0.002,0.12475,,,unlikely to halve by 2050
+MEX,Mexico,Latin America & Caribbean ,Upper middle income,0.9155011187194168,Closing,0.006,0.31825,2063.0,2042.0,,0.0335,0.617,2090.0,,unlikely to halve by 2050
+MKD,North Macedonia,Europe & Central Asia,Upper middle income,0.3936913796624377,Closing,0.10875,0.61075,2045.0,2030.0,2093.2999999999997,0.43075,0.854,2057.0,,likely halves by 2050
+MLI,Mali,Sub-Saharan Africa ,Low income,0.9260524891041644,Closing,0.00025,0.024,,,,0.00025,0.00725,,,unlikely to halve by 2050
+MLT,Malta,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.4210997839663211,Closing,0.16225,0.89475,2036.0,2030.0,2054.0,0.78975,0.99075,2042.0,,likely halves by 2050
+MMR,Myanmar,East Asia & Pacific,Lower middle income,0.8896705823990397,Flat,0.0015,0.0755,,2057.0,,0.0045,0.0845,,,unlikely to halve by 2050
+MNE,Montenegro,Europe & Central Asia,Upper middle income,0.3256701358431959,Widening,0.15625,0.662,2042.0,2030.0,2096.0,0.5305,0.86975,2051.0,,likely halves by 2050
+MNG,Mongolia,East Asia & Pacific,Upper middle income,0.3618300345065644,Flat,0.05325,0.36825,2066.0,2035.7,,0.2275,0.577,2085.5,,unlikely to halve by 2050
+MOZ,Mozambique,Sub-Saharan Africa ,Low income,0.2924558492632221,Widening,0.03075,0.16325,,2039.0,,0.11325,0.21125,,,unlikely to halve by 2050
+MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,1.3910564535961374,Flat,0.0,0.01425,,2081.0,,0.0,0.00675,,,unlikely to halve by 2050
+MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,0.7500318821379643,Widening,0.015,0.401,2057.0,2039.0,,0.08375,0.66325,2084.0,,unlikely to halve by 2050
+MWI,Malawi,Sub-Saharan Africa ,Low income,0.4563908833361241,Widening,0.01325,0.137,,2045.0,,0.05375,0.1665,,,unlikely to halve by 2050
+MYS,Malaysia,East Asia & Pacific,Upper middle income,0.7048958211056368,Widening,0.01975,0.387,2060.0,2039.0,,0.1055,0.6295,2087.0,,unlikely to halve by 2050
+NAM,Namibia,Sub-Saharan Africa ,Lower middle income,0.2339510170677088,Widening,0.15325,0.62175,2045.0,2030.0,,0.5945,0.84625,2045.0,,likely halves by 2050
+NCL,New Caledonia,East Asia & Pacific,High income,0.2577399077795846,Widening,0.22425,0.831,2036.0,2030.0,2060.0,0.79675,0.98,2039.0,,likely halves by 2050
+NER,Niger,Sub-Saharan Africa ,Low income,0.5414414969516783,Closing,0.0185,0.1555,,2045.0,,0.04825,0.19475,,,unlikely to halve by 2050
+NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,0.4880553762518125,Closing,0.04025,0.3975,2060.0,2036.0,,0.17725,0.576,2087.0,,unlikely to halve by 2050
+NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,1.010884270688336,Closing,0.001,0.35475,2060.0,2042.0,,0.024,0.567,2093.0,,unlikely to halve by 2050
+NLD,Netherlands,Europe & Central Asia,High income,0.2445343181793255,Flat,0.286,0.892,2036.0,2030.0,2054.0,0.86525,0.99375,2036.0,,likely halves by 2050
+NOR,Norway,Europe & Central Asia,High income,0.1686476840675886,Flat,0.242,0.7255,2039.0,2027.0,2087.0,0.758,0.93475,2036.0,,likely halves by 2050
+NPL,Nepal,South Asia,Lower middle income,1.0041227761264413,Flat,0.0005,0.15,2081.0,2048.0,,0.00525,0.279,,,unlikely to halve by 2050
+NZL,New Zealand,East Asia & Pacific,High income,0.2522581929960146,Closing,0.294,0.90325,2036.0,2030.0,2051.0,0.8735,0.9905,2036.0,,likely halves by 2050
+OMN,Oman,"Middle East, North Africa, Afghanistan & Pakistan",High income,2.089056552627917,Widening,0.0,0.00225,,,,0.0,0.0005,,,unlikely to halve by 2050
+PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,1.8936342390965184,Closing,0.0,0.001,,,,0.0,0.00025,,,unlikely to halve by 2050
+PAN,Panama,Latin America & Caribbean ,High income,0.850539018240576,Widening,0.009,0.215,2072.0,2045.0,,0.0265,0.406,,,unlikely to halve by 2050
+PER,Peru,Latin America & Caribbean ,Upper middle income,0.6242915942963886,Widening,0.024,0.3465,2063.0,2039.0,,0.09225,0.56225,2093.0,,unlikely to halve by 2050
+PHL,Philippines,East Asia & Pacific,Upper middle income,0.7495255575157711,Closing,0.01125,0.202,2075.0,2045.0,,0.031,0.366,,,unlikely to halve by 2050
+PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,0.1761143400911648,Widening,0.1535,0.49125,2054.0,2030.0,,0.52875,0.685,2048.0,,unlikely to halve by 2050
+POL,Poland,Europe & Central Asia,High income,0.3668620713473829,Closing,0.08475,0.71775,2042.0,2033.0,2072.0,0.5305,0.95575,2051.0,,likely halves by 2050
+PRI,Puerto Rico (US),Latin America & Caribbean ,High income,0.2057776182292437,Widening,0.24675,0.757,2039.0,2030.0,2075.0,0.75175,0.9495,2039.0,,likely halves by 2050
+PRK,"Korea, Dem. People's Rep.",East Asia & Pacific,Low income,0.3527280435601339,Flat,0.034,0.2535,2090.0,2039.0,,0.13375,0.4015,,,unlikely to halve by 2050
+PRT,Portugal,Europe & Central Asia,High income,0.2383983782781783,Flat,0.259,0.8615,2036.0,2030.0,2057.0,0.8315,0.98375,2039.0,,likely halves by 2050
+PRY,Paraguay,Latin America & Caribbean ,Upper middle income,0.8237630034002651,Closing,0.005,0.2235,2075.0,2045.0,,0.02825,0.3725,,,unlikely to halve by 2050
+PYF,French Polynesia,East Asia & Pacific,High income,0.3665876104923816,Flat,0.13725,0.80825,2039.0,2030.0,2063.0,0.66375,0.97525,2045.0,,likely halves by 2050
+QAT,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.970695033772139,Flat,0.00575,0.34025,2060.0,2042.0,2090.0,0.03375,0.72725,2084.0,,unlikely to halve by 2050
+ROU,Romania,Europe & Central Asia,High income,0.4875354587606516,Flat,0.0345,0.3065,2075.0,2036.0,,0.1445,0.45825,,,unlikely to halve by 2050
+RUS,Russian Federation,Europe & Central Asia,High income,0.4259541505057784,Flat,0.047,0.39175,2063.0,2033.0,,0.21625,0.555,2090.0,,unlikely to halve by 2050
+RWA,Rwanda,Sub-Saharan Africa ,Low income,0.5636897356397357,Widening,0.0115,0.1035,,2051.0,,0.03,0.13175,,,unlikely to halve by 2050
+SAU,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",High income,1.890628882719724,Closing,0.0,0.0115,,2075.0,,0.0,0.0115,,,unlikely to halve by 2050
+SEN,Senegal,Sub-Saharan Africa ,Lower middle income,1.0232052190319765,Flat,0.001,0.09825,,2054.0,,0.0035,0.12375,,,unlikely to halve by 2050
+SGP,Singapore,East Asia & Pacific,High income,0.3148227791958527,Closing,0.257,0.89825,2036.0,2030.0,2054.0,0.838,0.98975,2039.0,,likely halves by 2050
+SLB,Solomon Islands,East Asia & Pacific,Lower middle income,0.2940255397428422,Widening,0.0745,0.339,2093.0,2033.0,,0.2535,0.44725,,,unlikely to halve by 2050
+SLE,Sierra Leone,Sub-Saharan Africa ,Low income,0.1130760052511737,Flat,0.1805,0.45075,2069.0,2030.0,,0.62525,0.7,2036.0,,unlikely to halve by 2050
+SLV,El Salvador,Latin America & Caribbean ,Upper middle income,0.9893683912631868,Closing,0.00075,0.05375,,2063.0,,0.0025,0.051,,,unlikely to halve by 2050
+SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa ,Low income,1.2307575869356089,Widening,0.0,0.00325,,,,0.0,0.002,,,unlikely to halve by 2050
+SRB,Serbia,Europe & Central Asia,Upper middle income,0.3942964135800433,Closing,0.10275,0.68925,2045.0,2030.0,2078.0,0.48975,0.9225,2054.0,,likely halves by 2050
+STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,0.0580349667197483,Widening,,,,,,,,,,already near parity
+SUR,Suriname,Latin America & Caribbean ,Upper middle income,0.7392810714024652,Closing,0.01775,0.54925,2051.0,2036.0,2084.0,0.1695,0.8245,2069.0,,likely halves by 2050
+SVK,Slovak Republic,Europe & Central Asia,High income,0.2548576378649431,Flat,0.226,0.828,2036.0,2030.0,2060.0,0.77475,0.9845,2039.0,,likely halves by 2050
+SVN,Slovenia,Europe & Central Asia,High income,0.2731590825004211,Flat,0.16725,0.71475,2042.0,2030.0,2075.0,0.64275,0.949,2045.0,,likely halves by 2050
+SWE,Sweden,Europe & Central Asia,High income,0.170326922554522,Closing,0.342,0.81375,2036.0,2027.0,2066.0,0.8425,0.97425,2033.0,,likely halves by 2050
+SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,0.4288964043592343,Widening,0.04675,0.4745,2054.0,2033.0,,0.303,0.70225,2069.0,,unlikely to halve by 2050
+SYR,Syrian Arab Republic,"Middle East, North Africa, Afghanistan & Pakistan",Low income,1.7521904027639092,Widening,0.0,0.00125,,,,0.0,0.0,,,unlikely to halve by 2050
+TCD,Chad,Sub-Saharan Africa ,Low income,0.7631800514947953,Widening,0.005,0.03575,,,,0.00175,0.015,,,unlikely to halve by 2050
+TGO,Togo,Sub-Saharan Africa ,Lower middle income,0.2579132284903024,Closing,0.219,0.71125,2039.0,2030.0,2099.0,0.64675,0.8835,2042.0,,likely halves by 2050
+THA,Thailand,East Asia & Pacific,Upper middle income,0.4687438799436599,Closing,0.05025,0.43725,2057.0,2033.0,,0.21825,0.6705,2078.0,,unlikely to halve by 2050
+TJK,Tajikistan,Europe & Central Asia,Lower middle income,0.8511431127845926,Widening,0.00025,0.0465,,2069.0,,0.00275,0.04,,,unlikely to halve by 2050
+TKM,Turkmenistan,Europe & Central Asia,Upper middle income,0.0797891632307766,Widening,,,,,,,,,,already near parity
+TLS,Timor-Leste,East Asia & Pacific,Lower middle income,0.421332213830257,Closing,0.08575,0.5255,2051.0,2033.0,,0.336,0.7545,2066.0,,likely halves by 2050
+TON,Tonga,East Asia & Pacific,Upper middle income,0.5814040279421103,Closing,0.0385,0.6065,2048.0,2036.0,2081.0,0.294,0.87025,2063.0,,likely halves by 2050
+TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,0.4676216485569933,Widening,0.05025,0.61625,2048.0,2033.0,2084.0,0.3725,0.88275,2058.5,,likely halves by 2050
+TUN,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,1.2903284747277273,Flat,0.0,0.01625,,2072.0,,0.0,0.02,,,unlikely to halve by 2050
+TUR,Turkiye,Europe & Central Asia,Upper middle income,1.2273348310027647,Closing,0.0,0.10625,2084.0,2051.0,,0.001,0.20275,,,unlikely to halve by 2050
+TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,0.3704992787966913,Flat,0.04725,0.34625,2072.0,2033.0,,0.20225,0.481,,,unlikely to halve by 2050
+UGA,Uganda,Sub-Saharan Africa ,Low income,0.4832831731405053,Flat,0.0105,0.09,,2057.0,,0.03,0.0835,,,unlikely to halve by 2050
+URY,Uruguay,Latin America & Caribbean ,High income,0.5350716151085129,Widening,0.04775,0.6655,2045.0,2033.0,2078.0,0.3805,0.91525,2057.0,,likely halves by 2050
+USA,United States,North America,High income,0.2879382099462996,Closing,0.21275,0.7385,2039.0,2030.0,2075.0,0.6555,0.942,2045.0,,likely halves by 2050
+UZB,Uzbekistan,Europe & Central Asia,Lower middle income,0.9369560123007378,Widening,0.0,0.07375,,2060.0,,0.00425,0.08725,,,unlikely to halve by 2050
+VCT,St. Vincent and the Grenadines,Latin America & Caribbean ,Upper middle income,0.2987501984800311,Closing,0.289,0.88975,2033.0,2030.0,2054.0,0.8355,0.98575,2036.0,,likely halves by 2050
+VEN,"Venezuela, RB",Latin America & Caribbean ,Lower middle income,0.8884550745384941,Widening,0.00125,0.079,,2056.7000000000003,,0.00325,0.10975,,,unlikely to halve by 2050
+VIR,Virgin Islands (U.S.),Latin America & Caribbean ,High income,0.1492759616587061,Closing,0.4005,0.8655,2033.0,2027.0,2060.0,0.8995,0.985,2030.0,,likely halves by 2050
+VNM,Viet Nam,East Asia & Pacific,Upper middle income,0.3515631124820554,Closing,0.129,0.5725,2048.0,2030.0,,0.418,0.796,2060.0,,likely halves by 2050
+VUT,Vanuatu,East Asia & Pacific,Lower middle income,0.4555381138399923,Widening,0.0475,0.4055,2063.0,2036.0,,0.20125,0.56675,2087.0,,unlikely to halve by 2050
+WSM,Samoa,East Asia & Pacific,Upper middle income,0.8051070696181387,Closing,0.01225,0.24725,2078.0,2042.0,,0.03825,0.335,,,unlikely to halve by 2050
+YEM,"Yemen, Rep.","Middle East, North Africa, Afghanistan & Pakistan",Low income,2.199787125037361,Widening,0.0,0.0,,,,0.0,0.0,,,unlikely to halve by 2050
+ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,0.488549991857781,Closing,0.08875,0.811,2039.0,2033.0,2063.0,0.59975,0.96175,2048.0,,likely halves by 2050
+ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,0.494505528201901,Closing,0.04225,0.369,2063.0,2036.0,,0.155,0.5425,2093.0,,unlikely to halve by 2050
+ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,0.5116897350263403,Flat,0.0335,0.32975,2078.0,2036.0,,0.12975,0.40475,,,unlikely to halve by 2050

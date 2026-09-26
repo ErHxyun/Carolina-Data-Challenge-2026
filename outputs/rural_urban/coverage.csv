@@ -1,0 +1,9 @@
+var,economies,obs,median_years,first,last,median_2019
+cooking_gap,189,4536,24.0,2000,2023,6.7
+electricity_gap,213,5067,25.0,2000,2024,0.0
+water_gap,173,4242,25.0,2000,2024,7.11
+sanitation_gap,171,4169,25.0,2000,2024,5.78
+infra_gap,174,4242,25.0,2000,2024,9.74
+jobs_gap,142,1080,5.0,2000,2021,0.33
+wage_gap_rural,118,834,4.5,2000,2021,0.79
+wage_gap_urban,121,860,5.0,2000,2021,0.81

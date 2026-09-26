@@ -1,0 +1,5 @@
+series,n,cover80,MAE_model,MAE_nochange
+cooking_gap,111,0.117,9.165,9.02
+infra_gap,120,0.408,3.566,5.221
+sanitation_gap,109,0.284,1.239,6.186
+water_gap,111,0.252,1.359,5.655

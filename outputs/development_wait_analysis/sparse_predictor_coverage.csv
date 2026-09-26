@@ -1,0 +1,8 @@
+code,feature,rows,countries,median_country_years,first_year,last_year
+SG.TIM.UWRK.FE,unpaid_work_female_pct_day,66,27,2.0,2000,2024
+SG.TIM.UWRK.MA,unpaid_work_male_pct_day,66,27,2.0,2000,2024
+account.t.d.1,account_female_pct,674,158,5.0,2011,2024
+account.t.d.2,account_male_pct,674,158,5.0,2011,2024
+ID.OWN.TOTL.FE.ZS,id_ownership_female_pct,208,129,2.0,2017,2021
+IT.NET.USER.FE.ZS,internet_female_pct,1355,137,9.0,2000,2024
+IT.NET.USER.MA.ZS,internet_male_pct,1356,137,9.0,2000,2024

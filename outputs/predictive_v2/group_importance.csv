@@ -1,0 +1,37 @@
+horizon,spec,model,group,r2_full,r2_drop
+3,core,B: between+within,momentum/state,0.12067225583678942,0.022649907362712773
+3,core,B: between+within,time tax / infrastructure,0.12067225583678942,0.017507280744129217
+3,core,B: between+within,structure,0.12067225583678942,0.017890851684019493
+3,core,B: between+within,shocks,0.12067225583678942,0.00592661522462945
+3,core,W: within-country,momentum/state,0.2562599841818147,0.19294939755340812
+3,core,W: within-country,time tax / infrastructure,0.2562599841818147,0.015513974052857593
+3,core,W: within-country,structure,0.2562599841818147,0.009113655190713832
+3,core,W: within-country,shocks,0.2562599841818147,0.004493686252891926
+3,with_misalign,B: between+within,momentum/state,0.1399890293417223,0.007668571797845303
+3,with_misalign,B: between+within,time tax / infrastructure,0.1399890293417223,0.021223830581238667
+3,with_misalign,B: between+within,structure,0.1399890293417223,0.01907950864165231
+3,with_misalign,B: between+within,shocks,0.1399890293417223,0.009346506643833519
+3,with_misalign,B: between+within,edu-emp misalignment,0.1399890293417223,4.780892294609096e-05
+3,with_misalign,W: within-country,momentum/state,0.2857689381880102,0.12628144786917317
+3,with_misalign,W: within-country,time tax / infrastructure,0.2857689381880102,0.020679101768614316
+3,with_misalign,W: within-country,structure,0.2857689381880102,0.013133909174524838
+3,with_misalign,W: within-country,shocks,0.2857689381880102,0.004807792054391302
+3,with_misalign,W: within-country,edu-emp misalignment,0.2857689381880102,0.001390863915340046
+5,core,B: between+within,momentum/state,0.17559517025882942,0.03626396459245673
+5,core,B: between+within,time tax / infrastructure,0.17559517025882942,0.028743484492402382
+5,core,B: between+within,structure,0.17559517025882942,0.0237453949333718
+5,core,B: between+within,shocks,0.17559517025882942,0.0030756186959011167
+5,core,W: within-country,momentum/state,0.3932091902579409,0.33189086600675466
+5,core,W: within-country,time tax / infrastructure,0.3932091902579409,0.014972052736675456
+5,core,W: within-country,structure,0.3932091902579409,0.004852398485575282
+5,core,W: within-country,shocks,0.3932091902579409,0.0014152133852608495
+5,with_misalign,B: between+within,momentum/state,0.19156173845064384,0.011215092482046773
+5,with_misalign,B: between+within,time tax / infrastructure,0.19156173845064384,0.030652455593543904
+5,with_misalign,B: between+within,structure,0.19156173845064384,0.023727460503051745
+5,with_misalign,B: between+within,shocks,0.19156173845064384,0.005591835467200101
+5,with_misalign,B: between+within,edu-emp misalignment,0.19156173845064384,4.1226569629237986e-05
+5,with_misalign,W: within-country,momentum/state,0.4207993824121583,0.19965879392812302
+5,with_misalign,W: within-country,time tax / infrastructure,0.4207993824121583,0.018618007251884006
+5,with_misalign,W: within-country,structure,0.4207993824121583,0.009423114152778855
+5,with_misalign,W: within-country,shocks,0.4207993824121583,0.0011372112275176427
+5,with_misalign,W: within-country,edu-emp misalignment,0.4207993824121583,0.0004844108039268047

@@ -1,0 +1,6 @@
+series,n,raw_cover80,heldout_cover80,MAE_model,MAE_nochange,drift_floor
+cooking,189,0.434,0.856,3.086,4.999,0.404
+electricity,198,0.717,0.857,4.264,6.738,0.698
+infra,165,0.467,0.854,2.662,6.086,0.397
+sanitation,159,0.377,0.776,1.08,6.797,0.147
+water,167,0.419,0.798,1.016,5.32,0.119

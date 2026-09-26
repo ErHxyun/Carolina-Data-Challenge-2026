@@ -1,0 +1,11 @@
+code,metric,domain,sex,rows,countries,first_year,last_year,median_country_years
+SE.SEC.ENRR.FE,secondary_enrollment,education,female,3524,203,2000,2024,19.0
+SE.SEC.ENRR.MA,secondary_enrollment,education,male,3520,203,2000,2024,19.0
+SL.TLF.CACT.FE.ZS,labor_participation,employment,female,4641,186,2000,2024,25.0
+SL.TLF.CACT.MA.ZS,labor_participation,employment,male,4641,186,2000,2024,25.0
+SL.EMP.TOTL.SP.FE.ZS,employment_ratio,employment,female,4641,186,2000,2024,25.0
+SL.EMP.TOTL.SP.MA.ZS,employment_ratio,employment,male,4641,186,2000,2024,25.0
+SL.EMP.VULN.FE.ZS,secure_employment,employment,female,4641,186,2000,2024,25.0
+SL.EMP.VULN.MA.ZS,secure_employment,employment,male,4641,186,2000,2024,25.0
+SL.UEM.TOTL.FE.ZS,inverse_unemployment,employment,female,4641,186,2000,2024,25.0
+SL.UEM.TOTL.MA.ZS,inverse_unemployment,employment,male,4641,186,2000,2024,25.0

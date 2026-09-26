@@ -1,0 +1,187 @@
+iso3,country_name,region_name,n_catch
+AFG,Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",0
+AGO,Angola,Sub-Saharan Africa ,7
+ALB,Albania,Europe & Central Asia,3
+ARE,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",7
+ARG,Argentina,Latin America & Caribbean ,7
+ARM,Armenia,Europe & Central Asia,2
+AUS,Australia,East Asia & Pacific,7
+AUT,Austria,Europe & Central Asia,7
+AZE,Azerbaijan,Europe & Central Asia,3
+BDI,Burundi,Sub-Saharan Africa ,1
+BEL,Belgium,Europe & Central Asia,5
+BEN,Benin,Sub-Saharan Africa ,5
+BFA,Burkina Faso,Sub-Saharan Africa ,2
+BGD,Bangladesh,South Asia,0
+BGR,Bulgaria,Europe & Central Asia,7
+BHR,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",1
+BHS,"Bahamas, The",Latin America & Caribbean ,7
+BIH,Bosnia and Herzegovina,Europe & Central Asia,7
+BLR,Belarus,Europe & Central Asia,7
+BLZ,Belize,Latin America & Caribbean ,7
+BOL,Bolivia,Latin America & Caribbean ,7
+BRA,Brazil,Latin America & Caribbean ,7
+BRB,Barbados,Latin America & Caribbean ,0
+BRN,Brunei Darussalam,East Asia & Pacific,7
+BTN,Bhutan,South Asia,0
+BWA,Botswana,Sub-Saharan Africa ,7
+CAF,Central African Republic,Sub-Saharan Africa ,0
+CAN,Canada,North America,3
+CHE,Switzerland,Europe & Central Asia,7
+CHL,Chile,Latin America & Caribbean ,7
+CHN,China,East Asia & Pacific,0
+CIV,Cote d'Ivoire,Sub-Saharan Africa ,0
+CMR,Cameroon,Sub-Saharan Africa ,7
+COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,7
+COG,"Congo, Rep.",Sub-Saharan Africa ,1
+COL,Colombia,Latin America & Caribbean ,7
+COM,Comoros,Sub-Saharan Africa ,7
+CPV,Cabo Verde,Sub-Saharan Africa ,7
+CRI,Costa Rica,Latin America & Caribbean ,0
+CUB,Cuba,Latin America & Caribbean ,7
+CYP,Cyprus,Europe & Central Asia,7
+CZE,Czechia,Europe & Central Asia,7
+DEU,Germany,Europe & Central Asia,4
+DJI,Djibouti,"Middle East, North Africa, Afghanistan & Pakistan",7
+DNK,Denmark,Europe & Central Asia,4
+DOM,Dominican Republic,Latin America & Caribbean ,7
+DZA,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",0
+ECU,Ecuador,Latin America & Caribbean ,7
+EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",7
+ERI,Eritrea,Sub-Saharan Africa ,0
+ESP,Spain,Europe & Central Asia,3
+EST,Estonia,Europe & Central Asia,2
+ETH,Ethiopia,Sub-Saharan Africa ,5
+FIN,Finland,Europe & Central Asia,7
+FJI,Fiji,East Asia & Pacific,7
+FRA,France,Europe & Central Asia,7
+GAB,Gabon,Sub-Saharan Africa ,7
+GBR,United Kingdom,Europe & Central Asia,7
+GEO,Georgia,Europe & Central Asia,7
+GHA,Ghana,Sub-Saharan Africa ,4
+GIN,Guinea,Sub-Saharan Africa ,0
+GMB,"Gambia, The",Sub-Saharan Africa ,7
+GNB,Guinea-Bissau,Sub-Saharan Africa ,3
+GNQ,Equatorial Guinea,Sub-Saharan Africa ,4
+GRC,Greece,Europe & Central Asia,7
+GTM,Guatemala,Latin America & Caribbean ,7
+GUM,Guam,East Asia & Pacific,0
+GUY,Guyana,Latin America & Caribbean ,7
+HKG,"Hong Kong SAR, China",East Asia & Pacific,7
+HND,Honduras,Latin America & Caribbean ,0
+HRV,Croatia,Europe & Central Asia,7
+HTI,Haiti,Latin America & Caribbean ,2
+HUN,Hungary,Europe & Central Asia,7
+IDN,Indonesia,East Asia & Pacific,7
+IND,India,South Asia,7
+IRL,Ireland,Europe & Central Asia,0
+IRN,"Iran, Islamic Rep.","Middle East, North Africa, Afghanistan & Pakistan",7
+IRQ,Iraq,"Middle East, North Africa, Afghanistan & Pakistan",0
+ISL,Iceland,Europe & Central Asia,5
+ISR,Israel,"Middle East, North Africa, Afghanistan & Pakistan",7
+ITA,Italy,Europe & Central Asia,4
+JAM,Jamaica,Latin America & Caribbean ,7
+JOR,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",0
+JPN,Japan,East Asia & Pacific,7
+KAZ,Kazakhstan,Europe & Central Asia,5
+KEN,Kenya,Sub-Saharan Africa ,0
+KGZ,Kyrgyz Republic,Europe & Central Asia,7
+KHM,Cambodia,East Asia & Pacific,7
+KOR,"Korea, Rep.",East Asia & Pacific,7
+KWT,Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",7
+LAO,Lao PDR,East Asia & Pacific,0
+LBN,Lebanon,"Middle East, North Africa, Afghanistan & Pakistan",6
+LBR,Liberia,Sub-Saharan Africa ,3
+LBY,Libya,"Middle East, North Africa, Afghanistan & Pakistan",2
+LCA,St. Lucia,Latin America & Caribbean ,2
+LKA,Sri Lanka,South Asia,2
+LSO,Lesotho,Sub-Saharan Africa ,0
+LTU,Lithuania,Europe & Central Asia,0
+LUX,Luxembourg,Europe & Central Asia,7
+LVA,Latvia,Europe & Central Asia,0
+MAC,"Macao SAR, China",East Asia & Pacific,3
+MAR,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",7
+MDA,Moldova,Europe & Central Asia,7
+MDG,Madagascar,Sub-Saharan Africa ,4
+MDV,Maldives,South Asia,7
+MEX,Mexico,Latin America & Caribbean ,7
+MKD,North Macedonia,Europe & Central Asia,7
+MLI,Mali,Sub-Saharan Africa ,2
+MLT,Malta,"Middle East, North Africa, Afghanistan & Pakistan",7
+MMR,Myanmar,East Asia & Pacific,0
+MNE,Montenegro,Europe & Central Asia,0
+MNG,Mongolia,East Asia & Pacific,3
+MOZ,Mozambique,Sub-Saharan Africa ,5
+MRT,Mauritania,Sub-Saharan Africa ,6
+MUS,Mauritius,Sub-Saharan Africa ,0
+MWI,Malawi,Sub-Saharan Africa ,3
+MYS,Malaysia,East Asia & Pacific,7
+NAM,Namibia,Sub-Saharan Africa ,3
+NCL,New Caledonia,East Asia & Pacific,7
+NER,Niger,Sub-Saharan Africa ,7
+NGA,Nigeria,Sub-Saharan Africa ,3
+NIC,Nicaragua,Latin America & Caribbean ,7
+NLD,Netherlands,Europe & Central Asia,7
+NOR,Norway,Europe & Central Asia,2
+NPL,Nepal,South Asia,7
+NZL,New Zealand,East Asia & Pacific,7
+OMN,Oman,"Middle East, North Africa, Afghanistan & Pakistan",0
+PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",7
+PAN,Panama,Latin America & Caribbean ,7
+PER,Peru,Latin America & Caribbean ,7
+PHL,Philippines,East Asia & Pacific,6
+PNG,Papua New Guinea,East Asia & Pacific,0
+POL,Poland,Europe & Central Asia,6
+PRI,Puerto Rico (US),Latin America & Caribbean ,7
+PRK,"Korea, Dem. People's Rep.",East Asia & Pacific,0
+PRT,Portugal,Europe & Central Asia,7
+PRY,Paraguay,Latin America & Caribbean ,7
+PSE,West Bank and Gaza,"Middle East, North Africa, Afghanistan & Pakistan",0
+PYF,French Polynesia,East Asia & Pacific,5
+QAT,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",7
+ROU,Romania,Europe & Central Asia,3
+RUS,Russian Federation,Europe & Central Asia,0
+RWA,Rwanda,Sub-Saharan Africa ,2
+SAU,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",0
+SDN,Sudan,Sub-Saharan Africa ,6
+SEN,Senegal,Sub-Saharan Africa ,7
+SGP,Singapore,East Asia & Pacific,7
+SLB,Solomon Islands,East Asia & Pacific,0
+SLE,Sierra Leone,Sub-Saharan Africa ,5
+SLV,El Salvador,Latin America & Caribbean ,7
+SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa ,0
+SRB,Serbia,Europe & Central Asia,2
+SSD,South Sudan,Sub-Saharan Africa ,6
+STP,Sao Tome and Principe,Sub-Saharan Africa ,7
+SUR,Suriname,Latin America & Caribbean ,7
+SVK,Slovak Republic,Europe & Central Asia,7
+SVN,Slovenia,Europe & Central Asia,6
+SWE,Sweden,Europe & Central Asia,7
+SWZ,Eswatini,Sub-Saharan Africa ,7
+SYR,Syrian Arab Republic,"Middle East, North Africa, Afghanistan & Pakistan",3
+TCD,Chad,Sub-Saharan Africa ,3
+TGO,Togo,Sub-Saharan Africa ,0
+THA,Thailand,East Asia & Pacific,0
+TJK,Tajikistan,Europe & Central Asia,7
+TKM,Turkmenistan,Europe & Central Asia,0
+TLS,Timor-Leste,East Asia & Pacific,5
+TON,Tonga,East Asia & Pacific,7
+TTO,Trinidad and Tobago,Latin America & Caribbean ,7
+TUN,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",0
+TUR,Turkiye,Europe & Central Asia,7
+TZA,Tanzania,Sub-Saharan Africa ,3
+UGA,Uganda,Sub-Saharan Africa ,7
+UKR,Ukraine,Europe & Central Asia,6
+URY,Uruguay,Latin America & Caribbean ,7
+USA,United States,North America,3
+UZB,Uzbekistan,Europe & Central Asia,7
+VCT,St. Vincent and the Grenadines,Latin America & Caribbean ,7
+VEN,"Venezuela, RB",Latin America & Caribbean ,0
+VIR,Virgin Islands (U.S.),Latin America & Caribbean ,7
+VNM,Viet Nam,East Asia & Pacific,0
+VUT,Vanuatu,East Asia & Pacific,7
+WSM,Samoa,East Asia & Pacific,5
+YEM,"Yemen, Rep.","Middle East, North Africa, Afghanistan & Pakistan",1
+ZAF,South Africa,Sub-Saharan Africa ,7
+ZMB,Zambia,Sub-Saharan Africa ,5
+ZWE,Zimbabwe,Sub-Saharan Africa ,7

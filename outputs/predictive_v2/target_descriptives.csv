@@ -1,0 +1,3 @@
+domain,rows,countries,years,mean_v,median_v,sd_v,share_closing,share_widening,corr_with_past_v,median_gap_now
+employment,3525,186,2003-2021,0.005,0.005,0.029,0.606,0.394,0.064,0.557
+education,2753,192,2003-2021,0.003,0.002,0.041,0.54,0.46,-0.175,-0.027
