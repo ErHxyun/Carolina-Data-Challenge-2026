@@ -22,7 +22,7 @@ export default function LandingPage({ onAskAssistant, assistantOpen }) {
 		<main className='landing-page'>
 			<section className='landing-intro' aria-labelledby='landing-title'>
 				<div className='landing-heading'>
-					<p className='landing-eyebrow'>Time. Opportunity. Future.</p>
+					<p className='landing-eyebrow'>Time. Access. Opportunity.</p>
 					<h1 id='landing-title'>
 						One world.
 						<br />
@@ -49,7 +49,7 @@ export default function LandingPage({ onAskAssistant, assistantOpen }) {
 						aria-controls='data-assistant-panel'
 					>
 						<span>
-							<span aria-hidden='true'>✦</span> Ask Data Assistant
+							<span aria-hidden='true'></span> Ask Data Assistant
 						</span>
 						<span aria-hidden='true'>→</span>
 					</button>
