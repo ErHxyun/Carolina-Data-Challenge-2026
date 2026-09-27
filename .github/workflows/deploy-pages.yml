@@ -1,4 +1,4 @@
-name: Deploy GlobalStat to GitHub Pages
+name: Deploy HerTime to GitHub Pages
 
 on:
   push:
@@ -33,6 +33,8 @@ jobs:
       - run: npm ci
       - run: npm run lint
       - run: npm run build
+        env:
+          VITE_AGENT_API_URL: ${{ vars.VITE_AGENT_API_URL }}
       - uses: actions/upload-pages-artifact@v3
         with:
           path: Web_Design/dist

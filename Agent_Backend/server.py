@@ -302,6 +302,11 @@ class Handler(BaseHTTPRequestHandler):
             except (BrokenPipeError, ConnectionResetError):
                 pass
 
+    def do_GET(self):
+        if self.path == "/health":
+            return self.send_json(200, {"status": "ok"})
+        return self.send_json(404, {"error": "Endpoint not found"})
+
     def do_OPTIONS(self):
         self.send_response(204 if self.origin_allowed() else 403)
         if self.origin_allowed():
@@ -339,6 +344,9 @@ class Handler(BaseHTTPRequestHandler):
             SLOTS.release()
 
 if __name__ == "__main__":
-    # Keep private. Public deployment requires an authenticated, rate-limited gateway.
-    print("Assistant API: http://127.0.0.1:8001")
-    ThreadingHTTPServer(("127.0.0.1", 8001), Handler).serve_forever()
+    # Render terminates HTTPS and forwards requests to PORT on all interfaces.
+    # Keep local development loopback-only unless explicitly configured.
+    host = os.getenv("HOST", "0.0.0.0" if os.getenv("RENDER") == "true" else "127.0.0.1")
+    port = int(os.getenv("PORT", "8001"))
+    print(f"Assistant API listening on {host}:{port}", flush=True)
+    ThreadingHTTPServer((host, port), Handler).serve_forever()
