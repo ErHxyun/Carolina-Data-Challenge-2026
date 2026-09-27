@@ -33,4 +33,10 @@ export const demoTopics = [
 		chartTitle: 'An illustrative participation trajectory',
 		values: [42, 48, 46, 55, 59],
 	},
+	{
+		id: 'conversion',
+		label: 'Conversion',
+		question: 'When does education become employment?',
+		description: "Explore where women's educational progress has and has not been matched by employment opportunity, with model uncertainty and reviewed evidence.",
+	},
 ];

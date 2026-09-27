@@ -7,6 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
+    "test:data": "node --test scripts/conversion_data.test.mjs",
     "preview": "vite preview"
   },
   "dependencies": {

@@ -1,0 +1,49 @@
+.landing-page { background: #0a0a0a; color: #f2f0eb; min-height: calc(100svh - 84px); overflow: hidden; }
+.landing-intro { display: grid; grid-template-columns: 1.6fr 1fr; gap: 60px; align-items: end; padding: clamp(40px, 5vw, 88px) 3.3vw 42px; }
+.landing-eyebrow { margin: 0 0 24px; text-transform: uppercase; letter-spacing: .22em; font-size: 11px; color: #a4a4a4; }
+.landing-heading h1 { margin: 0; font-size: clamp(44px, 5.65vw, 100px); line-height: 1.03; letter-spacing: -.055em; font-weight: 500; }
+.landing-heading h1 span { color: #999893; }
+.landing-invitation { max-width: 380px; justify-self: end; }
+.landing-invitation > p:first-child { margin: 0 0 14px; font-size: clamp(18px, 1.5vw, 24px); line-height: 1.4; }
+.landing-description { color: #a5a5a5; font-size: 14px; line-height: 1.7; margin: 0 0 22px; }
+.landing-cta { display: flex; align-items: center; justify-content: space-between; gap: 40px; padding: 14px 20px; background: #f2f0eb; color: #101010; border: 1px solid #f2f0eb; font-size: 14px; border-radius: 2px; transition: background .2s; }
+.landing-cta:hover { background: #d6d3ca; }
+.landing-cta span { font-size: 23px; }
+.landing-gallery-heading { margin: 0 3.3vw 20px; padding-top: 18px; border-top: 1px solid #303030; display: flex; justify-content: space-between; align-items: center; gap: 16px; font-size: 11px; letter-spacing: .09em; text-transform: uppercase; color: #aaa; }
+.landing-motion-control { background: none; border: none; padding: 8px 0 8px 12px; color: #b6b6b6; font-size: 11px; letter-spacing: .04em; }
+.landing-motion-control span { margin-left: 12px; }
+.landing-gallery-window { overflow: hidden; padding: 8px 0 20px; }
+.landing-gallery-track { display: flex; width: max-content; animation: landing-travel-right 110s linear infinite; will-change: transform; }
+.landing-gallery-group { display: flex; align-items: start; gap: 24px; padding-right: 24px; flex-shrink: 0; }
+.landing-photo { flex: 0 0 auto; width: clamp(250px, 24vw, 420px); margin: 0; }
+.landing-photo-frame { height: clamp(260px, 26vw, 400px); background: #171717; overflow: hidden; }
+.landing-photo img { display: block; width: 100%; height: 100%; object-fit: cover; filter: saturate(.6); }
+.landing-photo-1 { width: clamp(360px, 34vw, 580px); }
+.landing-photo-2, .landing-photo-5 { padding-top: 42px; }
+.landing-photo-3 { padding-top: 18px; }
+.landing-photo-4 { width: clamp(320px, 29vw, 490px); }
+.landing-photo-6 { width: clamp(215px, 21vw, 330px); padding-top: 20px; }
+.landing-photo-6 img { object-fit: contain; }
+.landing-photo-7 { padding-top: 52px; }
+.landing-photo figcaption { display: flex; justify-content: space-between; padding-top: 12px; color: #b3b3b3; font-size: 11px; text-transform: uppercase; letter-spacing: .12em; }
+.landing-photo figcaption span:last-child { color: #646464; }
+.landing-gallery-window:hover .landing-gallery-track, .is-paused .landing-gallery-track { animation-play-state: paused; }
+@keyframes landing-travel-right { from { transform: translateX(-50%); } to { transform: translateX(0); } }
+.landing-footer { margin: 12px 3.3vw 0; padding: 20px 0 24px; border-top: 1px solid #292929; display: flex; justify-content: space-between; gap: 20px; color: #888; font-size: 11px; line-height: 1.6; }
+.landing-footer i { margin: 0 10px; color: #555; font-style: normal; }
+@media (min-width: 1800px) { .landing-gallery-group { gap: 32px; padding-right: 32px; } }
+@media (max-width: 700px) { .landing-intro { grid-template-columns: 1fr; gap: 28px; padding: 36px 22px 30px; } .landing-invitation { justify-self: start; max-width: 100%; } .landing-heading h1 { font-size: clamp(39px, 8.8vw, 60px); } .landing-gallery-heading { margin-inline: 22px; font-size: 9px; } .landing-footer { margin-inline: 22px; flex-direction: column; gap: 8px; } .landing-gallery-group { gap: 16px; padding-right: 16px; } }
+@media (prefers-reduced-motion: reduce) { .landing-gallery-track { animation: none; transform: none; } .landing-gallery-window { overflow-x: auto; } .landing-gallery-group[aria-hidden='true'] { display: none; } .landing-motion-control { display: none; } }
+
+.landing-assistant-cta {
+  display: flex; align-items: center; justify-content: space-between; gap: 20px;
+  width: 100%; margin-top: 10px; padding: 15px 20px;
+  border: 1px solid #393939; border-radius: 2px; background: transparent;
+  color: #e7e5e0; font-size: 14px; text-align: left;
+  transition: background .2s, border-color .2s;
+}
+.landing-assistant-cta > span:first-child > span { margin-right: 9px; }
+.landing-assistant-cta:hover { background: #1a1a1a; border-color: #777; }
+
+/* Match the replacement landscape photograph to its gallery frame. */
+.landing-photo-6 img { object-fit: cover; }

@@ -1,23 +1,15 @@
 export default function TopNavigation() {
 	return (
 		<header className='top-navigation'>
-			<a className='brand' href='#/' aria-label='GlobalStat home'>
-				<span className='brand-mark' aria-hidden='true' />
-				<span>GlobalStat</span>
+			<a className='brand' href='#/' aria-label='HerTime home'>
+				<svg className='brand-mark' viewBox='160 180 404 400' aria-hidden='true' focusable='false'>
+					<image href={`${import.meta.env.BASE_URL}brand/globalstat-logo-dark.png`} width='1944' height='809' />
+				</svg>
+				<span>HerTime</span>
 			</a>
 
 			<nav className='navigation-links' aria-label='Main navigation'>
-				<a className='navigation-link' href='#/' aria-current='page'>
-					Explore
-				</a>
-
-				<button className='navigation-link' type='button' disabled title='Coming soon'>
-					Compare
-				</button>
-
-				<button className='navigation-link' type='button' disabled title='Coming soon'>
-					Insights
-				</button>
+				<a className='navigation-link' href='#/explore'>Explore ↗</a>
 			</nav>
 		</header>
 	);

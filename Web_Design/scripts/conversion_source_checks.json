@@ -1,0 +1,10 @@
+{
+  "_doc": "Independent checks of URLs cited in the reviewed pilot evidence reports. Each note was produced by downloading the linked document on 2026-09-26 and comparing it with the cited title and claim. The reviewed reports themselves are not modified; the website shows these notes next to the affected source. Remove an entry once the underlying report is corrected.",
+  "checked_on": "2026-09-26",
+  "notes": {
+    "https://documents1.worldbank.org/curated/en/099556408032227795/pdf/IDU04351d87c09e470446808cc90004c6187c47a.pdf": "The linked PDF is titled 'Child Care Subsidies, Employment Services and Women's Labor Market Outcomes in Egypt: First Midline Results' (World Bank MENA Gender Innovation Lab, July 2022), not the cited project document.",
+    "https://documents1.worldbank.org/curated/en/099122425090534097/pdf/BOSIB-974f863f-adc1-4b78-934d-d52add12c2b6.pdf": "The linked PDF is the World Bank Group Country Partnership Framework for India FY26-FY31 (Annexes), not the cited gender assessment; the claimed 59 percent figure was not found in it.",
+    "https://documents1.worldbank.org/curated/en/377711511422588789/pdf/Main-Report.pdf": "The linked PDF is IFC's global report 'Tackling Childcare: The Business Case for Employer-Supported Childcare' (2017), not the cited India Gender Portfolio Review.",
+    "https://www.ilo.org/sites/default/files/2024-07/UNWomen-ILO%20Consolidated%20report_Fiscal_Final_Edited%20Jan%2024.pdf": "This is a multi-country report. Its Mozambique section (pp. 19-21) contains no female labour-force participation figure; the low participation figures in the document refer to Morocco, Nepal and Palestine. The 'much lower estimate' part of the claim is not supported by this source."
+  }
+}

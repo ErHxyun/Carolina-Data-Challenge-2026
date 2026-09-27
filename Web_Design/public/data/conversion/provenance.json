@@ -1,0 +1,166 @@
+{
+  "generated_at": "2026-09-27T01:01:43+00:00",
+  "generator": "Web_Design/scripts/build_conversion_web_data.py",
+  "inputs": {
+    "conversion_package": {
+      "country_layers": {
+        "path": "data/map/country_map_layers.csv",
+        "sha256": "6f2467e5632df9dc2197f0a43541e40010c6b3eb46584dc0f35570c572775787"
+      },
+      "catalog_csv": {
+        "path": "data/map/layer_catalog.csv",
+        "sha256": "ea691c942401a0e14a70e40833ef4670d07395c50410813ce3ea30e66a997c2e"
+      },
+      "catalog_json": {
+        "path": "data/map/layer_catalog.json",
+        "sha256": "7a3284fa3c2b446c3092cce906bd41d4cc7e5f6b4d073c29da036d3d09d361b0"
+      },
+      "pack_audit": {
+        "path": "data/map/pack_audit.json",
+        "sha256": "64f9f5784e752b45fedd85f84bb4fa3a68ca50fb297a1af469723c56293f00ed"
+      },
+      "evidence_reports": {
+        "path": "data/evidence/pilot_evidence_reports.jsonl",
+        "sha256": "3fdb12de9bc252f30bf86aeabf006674ea55f4d0bb215068eb870e536c27177b"
+      },
+      "evidence_validation": {
+        "path": "data/evidence/pilot_evidence_validation.json",
+        "sha256": "17fab0ad64dd3ae99390b36c98927984af135bed1ef9ed9f501301352e215895"
+      },
+      "layer_notes": {
+        "path": "docs/map_layers.md",
+        "sha256": "ed851eb4eda61da45cc0902ce646536effc7b2b1ef66f6652f61f3c91cc94a4e"
+      }
+    },
+    "raw_archive": {
+      "repository": "ErHxyun/Carolina-Data-Challenge-2026",
+      "commit": "f234e5f8e2b29c9f00313d733f29367871c4c7fa",
+      "path": "Graduate_Dataset/all_sources",
+      "files": {
+        "002_WDI/SE.ENR.SECO.FM.ZS.csv.gz": "05248e409128fb1b377193b8561af514f525feb4b1d9e3c20e65dcb08757400d",
+        "002_WDI/SE.ENR.TERT.FM.ZS.csv.gz": "6c6d29fdd8add4ff902fc3354e25a834f76c797da17abfb0bd85d18eff034045",
+        "002_WDI/SE.SEC.ENRR.FE.csv.gz": "abb79a72f9198f7104e57b2fdd73a0ed2a386544d292f35bb289b6e55cbc6e5e",
+        "002_WDI/SE.SEC.ENRR.MA.csv.gz": "a47e79b86484a830ad37e25fbbea356b3909e000e9c8d23613826da4d321731d",
+        "002_WDI/SE.TER.ENRR.FE.csv.gz": "6c595a81a49ea03b7906626ea82e6dcfc52934310849a8d2212676f27f335723",
+        "002_WDI/SE.TER.ENRR.MA.csv.gz": "040fcd000bc42f03f34c7d22daa53e9ebc3c6a632912fd0f9781bf7f778006fd",
+        "002_WDI/SE.PRM.CMPT.FE.ZS.csv.gz": "dc59fcc948ae2752b081e6fb32576fa3845560d3039a58aaffdac615f99e0630",
+        "002_WDI/SE.SEC.CMPT.LO.FE.ZS.csv.gz": "c659a8993e2b77230e4e1bf3a2984ea736a70b51095219dc9747e56ad7de64c4",
+        "002_WDI/SL.TLF.CACT.FM.ZS.csv.gz": "2dd218615a430ac3cd9e6ae573e16e279ec97db44b1eadb1b63096018769a9d2",
+        "002_WDI/SL.TLF.CACT.FE.ZS.csv.gz": "d8cde78cdaf5bf2d43a65cbc14ec70eb614e19e5ea3386cc0a8a835e1ab1f193",
+        "002_WDI/SL.TLF.CACT.MA.ZS.csv.gz": "c1e4707ac2545b206b2fa4d4b492d32dca0813e6519c2b10dbe6ef0cbb8734a9",
+        "002_WDI/SL.EMP.VULN.FE.ZS.csv.gz": "5a7431931313600bc155175835276c4c4d36166551df3d7eab973044c21c3a32",
+        "002_WDI/SL.EMP.VULN.MA.ZS.csv.gz": "6f9bac82a53df102e50f9ced2f4452920a9abc98c94b57aa51ea86996dacadbf",
+        "002_WDI/SL.EMP.WORK.FE.ZS.csv.gz": "2dfb559f0e5e6629c3ac0f490684f373322ccd07e8c6ccbe5364ab7acd31ff98",
+        "002_WDI/SL.EMP.WORK.MA.ZS.csv.gz": "efb689fd7ce241f0fe4acfb18d882f9fe7cbc85eaedf328211605b2a1fceffa1",
+        "002_WDI/SL.FAM.WORK.FE.ZS.csv.gz": "bdf3db6c4be74dca2bd23295776b097379b894b957d5b526e6b05eac4a38e5a8",
+        "002_WDI/SL.FAM.WORK.MA.ZS.csv.gz": "2930fa994298068d3b188ceff0aa75640219e7b56319919da88bc0a927af0d86",
+        "002_WDI/SL.EMP.SELF.FE.ZS.csv.gz": "bd9433919f1c9954f0c578d310d91314ce64e6097449acff44757047f6d06cd4",
+        "002_WDI/SL.EMP.SELF.MA.ZS.csv.gz": "1663068db47333fa59c5d3579c97efa721b28fb1aa90c8d761dfc5d5392fe742",
+        "002_WDI/SL.UEM.TOTL.FE.ZS.csv.gz": "dc8375ad56daf412fb7353e7c793bf1b8a7687213d60d2abf6302c7b9ecdfaf5",
+        "002_WDI/SL.UEM.TOTL.MA.ZS.csv.gz": "cfeff86c0d0c07d7ce2b51dbb50ce66da90b473246f87c8e80c461406599a77d",
+        "002_WDI/SL.EMP.SMGT.FE.ZS.csv.gz": "a01a2eb36eba173cd8e6e75f42f13df4982aae25ebe5c31e7b4133081d0e6b57",
+        "002_WDI/EG.ELC.ACCS.RU.ZS.csv.gz": "ca8fac1ef3263b7628f01084c3a87c828e6cf917657f13a42a8707e356eeacf5",
+        "002_WDI/EG.ELC.ACCS.UR.ZS.csv.gz": "60fc1f21ef4d51a80a2105b58e5e45290105f744dc434ab6fe9ed7e9efec4e80",
+        "002_WDI/EG.CFT.ACCS.RU.ZS.csv.gz": "d5f1d7d48c631faec66d274b50df6fdd86b5ccb683ad3e6d2ebba980ae6cded0",
+        "002_WDI/EG.CFT.ACCS.UR.ZS.csv.gz": "1a5664d15a4d1950bf9e4d18c74378ca38d2cd1ef01ca98309a44c219d8c4494",
+        "014_GDS/SG.TIM.UWRK.FE.csv.gz": "ae8fe3d391af5c36c37e29e4abb16fc2635e9dd27d6a0eacd14441dbd983fc02",
+        "014_GDS/SG.TIM.UWRK.MA.csv.gz": "35a997203873a0dca537a725412f80ab621a30243533ff24b8f7d468de5aa472",
+        "028_FDX/account.t.d.1.csv.gz": "75f56bfc9a25ee09d83c837658f171d7e356dd425c18c7838377a797d5ab87a2",
+        "028_FDX/account.t.d.2.csv.gz": "5824964c68d3ddd7d0c35a63bc53dd218ab9cbd030c50dbfafb1baed7feddbd0",
+        "089_ID4/ID.OWN.TOTL.FE.ZS.csv.gz": "e9b1b21b3248dda7954bdfb02b788e2a8c334eace5d684e745e92c966d56e79e"
+      }
+    }
+  },
+  "selected_raw_indicators": {
+    "SE.ENR.SECO.FM.ZS": "Official UNESCO gender parity index for secondary enrollment; observed (not modelled), ~21 observed years per economy in 1990-2024, 204 economies. Education side of the historical conversion gap.",
+    "SE.ENR.TERT.FM.ZS": "Tertiary enrollment parity; observed, 202 economies. Used in the data-visibility metric.",
+    "SE.SEC.ENRR.FE": "Female/male secondary gross enrollment for the country profile (observed).",
+    "SE.SEC.ENRR.MA": "Partner series (female/male or rural/urban) of a selected indicator.",
+    "SE.TER.ENRR.FE": "Female/male tertiary gross enrollment for the country profile (observed).",
+    "SE.TER.ENRR.MA": "Partner series (female/male or rural/urban) of a selected indicator.",
+    "SE.PRM.CMPT.FE.ZS": "Observed completion series used only in the data-visibility metric.",
+    "SE.SEC.CMPT.LO.FE.ZS": "Observed completion series used only in the data-visibility metric.",
+    "SL.TLF.CACT.FM.ZS": "Female-to-male labour-force participation ratio; annual 1990-2024, 186 economies. ILO modelled estimate; employment side of the historical conversion gap.",
+    "SL.TLF.CACT.FE.ZS": "Women's labour-force participation over time (ILO modelled estimate), 186 economies.",
+    "SL.TLF.CACT.MA.ZS": "Partner series (female/male or rural/urban) of a selected indicator.",
+    "SL.EMP.VULN.FE.ZS": "Vulnerable employment separates access from quality (ILO modelled estimate), 1991-2024.",
+    "SL.EMP.VULN.MA.ZS": "Partner series (female/male or rural/urban) of a selected indicator.",
+    "SL.EMP.WORK.FE.ZS": "Wage and salaried share: employment-quality profile (ILO modelled).",
+    "SL.EMP.WORK.MA.ZS": "Partner series (female/male or rural/urban) of a selected indicator.",
+    "SL.FAM.WORK.FE.ZS": "Contributing family workers: unpaid family work (ILO modelled).",
+    "SL.FAM.WORK.MA.ZS": "Partner series (female/male or rural/urban) of a selected indicator.",
+    "SL.EMP.SELF.FE.ZS": "Self-employment share (ILO modelled).",
+    "SL.EMP.SELF.MA.ZS": "Partner series (female/male or rural/urban) of a selected indicator.",
+    "SL.UEM.TOTL.FE.ZS": "Unemployment rate (ILO modelled).",
+    "SL.UEM.TOTL.MA.ZS": "Partner series (female/male or rural/urban) of a selected indicator.",
+    "SL.EMP.SMGT.FE.ZS": "Women in senior and middle management: advancement; observed but sparse (median 7 years), latest snapshot only.",
+    "EG.ELC.ACCS.RU.ZS": "Rural vs urban electricity access, annual 1990-2024, 213 economies: rural infrastructure context for time poverty.",
+    "EG.ELC.ACCS.UR.ZS": "Partner series (female/male or rural/urban) of a selected indicator.",
+    "EG.CFT.ACCS.RU.ZS": "Rural vs urban clean-cooking access, annual 2000-2023, 189 economies (WHO estimates).",
+    "EG.CFT.ACCS.UR.ZS": "Partner series (female/male or rural/urban) of a selected indicator.",
+    "SG.TIM.UWRK.FE": "Direct unpaid-work time use; only 27 economies and 66 observations, so snapshot only (with survey year).",
+    "SG.TIM.UWRK.MA": "Partner series (female/male or rural/urban) of a selected indicator.",
+    "account.t.d.1": "Findex account ownership female/male: genuine survey waves 2011-2024; shown as waves, never annual.",
+    "account.t.d.2": "Partner series (female/male or rural/urban) of a selected indicator.",
+    "ID.OWN.TOTL.FE.ZS": "ID ownership among women: Findex/ID4D survey waves 2017-2024; shown as waves, never annual."
+  },
+  "economies": 215,
+  "aggregate_codes_excluded": 55,
+  "row_counts": {
+    "countries": 209,
+    "evidence_reports": 6
+  },
+  "layer_counts": {
+    "exposed": 24,
+    "primary": 6,
+    "historical": 7,
+    "more": 11,
+    "timeline": 7,
+    "waves": 2,
+    "snapshot": 15,
+    "registry_only": 3
+  },
+  "rules": [
+    "ISO3 economies only; World Bank aggregates removed",
+    "actual observation years preserved",
+    "missing values are null",
+    "no interpolation, forward/backward fill or averaging",
+    "combined series use same-year pairs only",
+    "ILO/WHO modelled series are labelled modelled"
+  ],
+  "validation": {
+    "status": "passed",
+    "errors": [],
+    "warnings": [
+      "GIB has data but no map feature (not drawn on the map)",
+      "FRO appears in the rural–urban data but not in the conversion package",
+      "GRL appears in the rural–urban data but not in the conversion package",
+      "IMN appears in the rural–urban data but not in the conversion package",
+      "MAF appears in the rural–urban data but not in the conversion package",
+      "MNP appears in the rural–urban data but not in the conversion package",
+      "XKX appears in the rural–urban data but not in the conversion package"
+    ],
+    "discrepancy_counts": {
+      "identity_package_not_latest_wave": 117,
+      "momentum_state_not_highest_probability": 18
+    }
+  },
+  "package_evidence_validation": {
+    "schema": "outputs/conversion_evidence_agent/conversion_evidence_report_schema.json",
+    "report_file": "outputs/conversion_evidence_agent/pilot_evidence_reports.jsonl",
+    "report_count": 6,
+    "task_ids": [
+      "CONV-U-003",
+      "CONV-U-008",
+      "CONV-P-001",
+      "CONV-P-004",
+      "CONV-D-003",
+      "CONV-D-005"
+    ],
+    "schema_valid": true,
+    "validation_errors": [],
+    "causal_conclusion_false_count": 6,
+    "reports_with_complicating_evidence": 6,
+    "reports_with_source_urls": 6
+  }
+}

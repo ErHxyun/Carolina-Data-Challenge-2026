@@ -1,13 +1,16 @@
+import useConversionResearch from '../components/research/useConversionResearch';
+import TimeTaxPanel from '../components/research/TimeTaxPanel.jsx';
 import { useEffect, useRef, useState } from 'react';
 import { demoTopics } from '../data/mockData';
 import useCountryResearch from '../components/research/useCountryResearch';
 import ResearchPanel, { ResearchFacts } from '../components/research/ResearchPanel';
 import { countryPortraits } from '../data/countryPortraits';
-import AssistantPlaceholder from '../components/layout/AssistantPlaceholder.jsx';
 
-export default function CountryPage({ country, initialDimension }) {
-	const [topicId, setTopicId] = useState(initialDimension === 'Infrastructure' ? 'infrastructure' : ['Employment', 'Education', 'Health'].includes(initialDimension) ? 'opportunity' : 'overview');
+export default function CountryPage({ country, initialDimension, initialTopic, initialAnalysis }) {
+	const [topicId, setTopicId] = useState(['overview', 'time', 'infrastructure', 'opportunity', 'conversion'].includes(initialTopic) ? initialTopic : initialDimension === 'Infrastructure' ? 'infrastructure' : ['Employment', 'Education', 'Health'].includes(initialDimension) ? 'opportunity' : 'overview');
     const research = useCountryResearch(country.name);
+    const [infrastructureView, setInfrastructureView] = useState('access');
+    const conversion = useConversionResearch(topicId === 'conversion');
 	const titleRef = useRef(null);
     const [photoFailed, setPhotoFailed] = useState(false);
     const portrait = countryPortraits[country.name];
@@ -56,8 +59,8 @@ export default function CountryPage({ country, initialDimension }) {
 			</aside>
 
 			<div className='country-content'>
-				<a href='#/' className='back-link'>
-					← Back to World
+				<a href='#/explore' className='back-link'>
+					← Back to world map
 				</a>
 
 				<header className='country-header'>
@@ -86,12 +89,18 @@ export default function CountryPage({ country, initialDimension }) {
 				<section className='country-analysis' id='country-analysis-panel' role='tabpanel' aria-labelledby={`topic-${topicId}`}>
 					<p className='eyebrow'>{topic.label} / An opening question</p>
 					<h2>{topic.question}</h2>
-					<p className='analysis-introduction'>{topic.description}</p>
 
-                    <ResearchPanel key={topicId} topicId={topicId} research={research} initialDimension={initialDimension} />
+                    {topicId === 'infrastructure' && <div className="analysis-view-switch" role="group" aria-label="Infrastructure analysis">
+                      <button type="button" aria-pressed={infrastructureView === 'access'} onClick={() => setInfrastructureView('access')}>Access & opportunity</button>
+                      <button type="button" aria-pressed={infrastructureView === 'friction'} onClick={() => setInfrastructureView('friction')}>Time friction</button>
+                    </div>}
+                    <div className="country-analysis-workspace">
+                      {topicId === 'time' || (topicId === 'infrastructure' && infrastructureView === 'friction')
+                        ? <TimeTaxPanel key={topicId} countryName={country.name} module={topicId === 'infrastructure' ? 'infrastructure' : ['time_tax', 'time_changes', 'freed_time'].includes(initialAnalysis) ? initialAnalysis : 'time_tax'} />
+                        : <ResearchPanel key={topicId} topicId={topicId} research={research} initialDimension={initialDimension} conversion={conversion} countryName={country.name} />}
+                    </div>
 				</section>
 			</div>
-            <AssistantPlaceholder countryName={country.name} />
 		</main>
 	);
 }
