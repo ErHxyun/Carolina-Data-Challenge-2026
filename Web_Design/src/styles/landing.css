@@ -42,7 +42,8 @@
   color: #e7e5e0; font-size: 14px; text-align: left;
   transition: background .2s, border-color .2s;
 }
-.landing-assistant-cta > span:first-child > span { margin-right: 9px; }
+.landing-cta, .landing-assistant-cta { box-sizing: border-box; padding-inline: 20px; }
+.landing-cta > span:last-child, .landing-assistant-cta > span:last-child { flex: 0 0 24px; width: 24px; text-align: center; font-size: 23px; line-height: 1; }
 .landing-assistant-cta:hover { background: #1a1a1a; border-color: #777; }
 
 /* Match the replacement landscape photograph to its gallery frame. */

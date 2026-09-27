@@ -49,7 +49,7 @@ export default function LandingPage({ onAskAssistant, assistantOpen }) {
 						aria-controls='data-assistant-panel'
 					>
 						<span>
-							<span aria-hidden='true'></span> Ask Data Assistant
+							Ask Data Assistant
 						</span>
 						<span aria-hidden='true'>→</span>
 					</button>
