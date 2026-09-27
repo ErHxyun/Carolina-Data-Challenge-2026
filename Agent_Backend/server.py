@@ -44,7 +44,7 @@ def completion(system, payload, role, search=False):
     model = os.getenv("OPENROUTER_" + role.upper() + "_MODEL") or os.getenv("OPENROUTER_MODEL")
     if not key or not model:
         raise RuntimeError("OpenRouter is not configured. Set OPENROUTER_API_KEY and OPENROUTER_MODEL in Agent_Backend/.env.")
-    body = {"model": model, "messages": [{"role": "system", "content": system}, {"role": "user", "content": json.dumps(payload, ensure_ascii=False)}], "max_tokens": 2600 if role == "report" else 1800}
+    body = {"model": model, "messages": [{"role": "system", "content": system}, {"role": "user", "content": json.dumps(payload, ensure_ascii=False)}], "max_tokens": (2200 if payload.get("scenario") is not None else 1600) if role == "report" else 1800}
     if search:
         body["tools"] = [{"type": "openrouter:web_search", "parameters": {"engine": "exa", "max_results": 4, "max_total_results": 4, "max_uses": 1}}]
     else:
@@ -229,12 +229,34 @@ def build_report(route, progress=lambda stage, status: None):
     return run_report_graph(graph, route, progress)
 
 
+def report_context(research):
+    """Avoid duplicate summaries and unused source text; retain cited originals.
+
+    The full research object is still returned for inspection and download.
+    In incomplete/legacy responses keep all evidence rather than guess citations.
+    """
+    claims = research.get("claims")
+    sources = research.get("sources", [])
+    if research.get("status") != "complete" or not isinstance(claims, list) or not claims:
+        return research
+    known = {s["id"] for s in sources}
+    used = set()
+    for claim in claims:
+        ids = claim.get("evidence_ids") if isinstance(claim, dict) else None
+        if not isinstance(ids, list) or not ids or not all(isinstance(i, str) and i in known for i in ids):
+            return research
+        used.update(ids)
+    return {key: value for key, value in research.items() if key not in ("summary", "sources")} | {
+        "sources": [source for source in sources if source["id"] in used]
+    }
+
+
 def report_agent(route, bundle, stat, research, scenario=None):
     allowed = {f["id"] for f in bundle["facts"]} | {s["id"] for s in research["sources"]}
     try:
         draft = parse_json(completion(RULES + (ROADMAP_PROMPT if scenario is not None else REPORT_PROMPT),
                          {"original_question": route.get("question", ""), "request": route,
-                          "statistics": stat, "research": research, "scenario": scenario}, "report"))
+                          "statistics": stat, "research": report_context(research), "scenario": scenario}, "report"))
         sections = draft["sections"]
         if not isinstance(sections, list) or not sections or len(sections) > 6:
             raise ValueError("Invalid report")

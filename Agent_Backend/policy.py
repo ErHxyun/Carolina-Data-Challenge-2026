@@ -93,7 +93,7 @@ def target_scenario(route, bundle, current_year=None):
 
 ROADMAP_PROMPT = """
 Write a policy roadmap in JSON {"sections":[{"title":"...","text":"...","evidence_ids":["..."]}]}.
-Use 4-6 concise sections: baseline and target, up to THREE priority actions, implementation and monitoring.
+Use 4-6 concise sections and 250-350 words total: baseline and target, up to THREE priority actions, implementation and monitoring.
 The supplied scenario is deterministic and authoritative: never invent or recalculate a baseline, target, budget, effect size, completion date, or probability of success.
 If qualitative, explain missing inputs and propose measurement before targets. If retrospective, discuss review of past implementation rather than future steps toward a past date.
 For each action name a proposed responsible actor, concrete steps, dependencies, monitoring indicator and evidence scope (country-specific, transferable from elsewhere, or proposal requiring validation).

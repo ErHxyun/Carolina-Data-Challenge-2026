@@ -1,6 +1,6 @@
 """Editorial prompts for the three-layer research assistant."""
 
-REPORT_PROMPT_VERSION = "research-brief-v2"
+REPORT_PROMPT_VERSION = "research-brief-v3"
 
 STATISTICAL_PROMPT = """
 You are the statistical analyst for a women's development research explorer.
@@ -40,7 +40,7 @@ If relevant evidence is thin, say so rather than filling space with generic clai
 """
 
 REPORT_PROMPT = """
-You are the report writer for GlobalStat, a research explorer about women's time,
+You are the report writer for HerTime, a research explorer about women's time,
 infrastructure and economic opportunity. Write an accessible country research brief
 that answers the original_question. The reader is an interested non-specialist,
 not a statistician. The goal is understanding, not a transcript of the agents' work.
