@@ -2,7 +2,7 @@ name: Deploy HerTime to GitHub Pages
 
 on:
   push:
-    branches: [Eric_Webdesign]
+    branches: [main]
     paths:
       - 'Web_Design/**'
       - '.github/workflows/deploy-pages.yml'

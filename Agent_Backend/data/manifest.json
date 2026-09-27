@@ -1,0 +1,26 @@
+[
+  {
+    "file": "time_tax_eda/eda.csv.gz",
+    "original_source": "Graduate_Dataset/analysis_results/time_tax_eda/eda.csv.gz",
+    "sha256": "ed742cdaa561e266e2d45b288719cd5f74e8d181d33eb93f601b6b818c417023",
+    "bytes": 14082
+  },
+  {
+    "file": "infrastructure_friction/infrastructure_friction_analysis.csv.gz",
+    "original_source": "Graduate_Dataset/analysis_results/infrastructure_friction/infrastructure_friction_analysis.csv.gz",
+    "sha256": "a51fc809773be5daaa85e90f9ae9ee753f1dbca4398a5a9086c8b1d6142d026e",
+    "bytes": 21440
+  },
+  {
+    "file": "time_changes/first_last_changes.csv",
+    "original_source": "Graduate_Dataset/analysis_results/time_changes/first_last_changes.csv",
+    "sha256": "c8aab86169860df80694fc3e057918bc31a310293a23704b53c1fd8f02ad5cae",
+    "bytes": 12646
+  },
+  {
+    "file": "freed_time_opportunity/first_last_with_freed_time.csv",
+    "original_source": "Graduate_Dataset/analysis_results/freed_time_opportunity/first_last_with_freed_time.csv",
+    "sha256": "cc1f685b48f470c55586caef2021d129b1443d7c419d92a3c49db11d74320ec4",
+    "bytes": 14686
+  }
+]

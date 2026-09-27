@@ -1,7 +1,0 @@
-view,index,observations,entities,time_slope_at_reference_mean_ifi,interaction_coefficient
-All available observations,ifi_pca_z,166,85,-6.031505511312421,1.8051724155825033
-All available observations,ifi_equal_weight,166,85,-6.092254087335141,1.9563842422457152
-Exclude source conflicts,ifi_pca_z,161,85,-6.279781772019907,1.9016593958639096
-Exclude source conflicts,ifi_equal_weight,161,85,-6.362542822615379,2.0496818595154394
-Latest observation per entity,ifi_pca_z,85,85,-5.892601549628024,1.0399705097046748
-Latest observation per entity,ifi_equal_weight,85,85,-5.862161759240725,1.2752052996807766

@@ -28,7 +28,7 @@ Reports can be downloaded as JSON with the complete data bundle and source list.
 - Time change: time_changes/first_last_changes.csv.
 - Freed time: freed_time_opportunity/first_last_with_freed_time.csv.
 
-Paths above are relative to Graduate_Dataset/analysis_results unless otherwise stated.
+Paths above are relative to Agent_Backend/data unless otherwise stated. These four curated exports retain their original Graduate_Dataset provenance in data/manifest.json. Set HERTIME_ANALYSIS_DATA_DIR to use another export directory. The full Graduate_Dataset directory is local-only and ignored.
 First-to-last tables filter requested years on their endpoint. They do not implement arbitrary date-range analysis.
 Country-specific pooled correlations are not recalculated by this version.
 Existing flags, missing values, model uncertainty and subgroup definitions remain in the evidence.
@@ -52,8 +52,8 @@ GitHub Pages hosts only the static frontend. Production builds have no backend U
 Set VITE_AGENT_API_URL to your HTTPS backend origin **at build time**; never set a VITE_OPENROUTER_API_KEY.
 Agent_Backend/.env and Web_Design/.env.local are ignored by Git.
 
-The included server binds only to 127.0.0.1. It is a local development server, not a public production service.
-Before public hosting, put it behind an authenticated, rate-limited HTTPS gateway and configure ALLOWED_ORIGINS.
+The server defaults to 127.0.0.1:8001 locally. On Render (RENDER=true), it binds to 0.0.0.0 and reads PORT. HOST can explicitly override the bind address. GET /health is a lightweight liveness check, not a provider-key test.
+For public hosting, use an authenticated, rate-limited HTTPS gateway and configure ALLOWED_ORIGINS.
 CORS and a concurrency limit are not user authentication or a spending quota.
 Do not expose this server directly to the internet. Deployment of that gateway is a separate step.
 
@@ -77,3 +77,7 @@ Prompts are maintained in prompts.py (research-brief-v2). Reports lead with an a
 The report node has an explicit join on both analysis branches. Each branch writes its own state key. Custom LangGraph events become the existing NDJSON phase messages on a single HTTP writer thread. The final JSON schema, OpenRouter calls, prompts, citation validation, and service-unavailable fallbacks are unchanged.
 
 This version does not configure a checkpointer, persistent conversation memory, LangSmith tracing, or automatic paid-call retries. Each request starts with isolated state. Provider calls remain mocked in automated tests.
+
+## Output branches
+
+Statistics and web research join before routing to Research Brief or Policy Roadmap. The roadmap computes an illustrative target from historical data and an explicit target year/reduction; it is not a policy-effect forecast. Streaming events use `report` or `roadmap` for the final stage. See the root README for deployment and reproduction instructions.

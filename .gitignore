@@ -5,3 +5,6 @@ __pycache__/
 
 .env
 .env.local
+
+# Full source archive stays local; commit only curated application exports.
+/Graduate_Dataset/

@@ -1,7 +1,0 @@
-﻿gdp_group,related_variable,observations,entities,pearson_r,spearman_rho
-Lower GDP third,female_lfpr_pct,30,30,-0.6632067247945382,-0.6
-Lower GDP third,lfpr_gap_pp,30,30,0.7194730337104019,0.7459399332591768
-Middle GDP third,female_lfpr_pct,29,29,-0.5752144281127828,-0.4837438423645319
-Middle GDP third,lfpr_gap_pp,29,29,0.5844530023715088,0.569950738916256
-Upper GDP third,female_lfpr_pct,29,29,-0.5279744980011737,-0.5029556650246305
-Upper GDP third,lfpr_gap_pp,29,29,0.4700337298292042,0.733990147783251

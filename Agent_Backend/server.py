@@ -20,7 +20,7 @@ for line in (Path(__file__).parent / ".env").read_text(encoding="utf-8-sig").spl
     if "=" in line and not line.lstrip().startswith("#"):
         key, value = line.split("=", 1)
         os.environ.setdefault(key.strip(), value.strip().strip('"').strip("'"))
-DATA = ROOT / "Graduate_Dataset/analysis_results"
+DATA = Path(os.getenv("HERTIME_ANALYSIS_DATA_DIR") or (Path(__file__).parent / "data"))
 MIA = ROOT / "Web_Design/public/data/mia"
 COUNTRIES = json.loads((ROOT / "Web_Design/src/data/researchCountryCodes.json").read_text(encoding="utf-8"))
 TOPICS = ("opportunity_gap", "opportunity_delay", "time_tax", "infrastructure", "time_changes", "freed_time")
@@ -147,7 +147,7 @@ def statistical_data(route):
     if topic in FILES:
         relative = FILES[topic]
         rows = rows_for(DATA / relative, iso, year)
-        facts.append({"id": "local-analysis", "source": "Graduate_Dataset/analysis_results/" + relative,
+        facts.append({"id": "local-analysis", "source": "analysis-export:" + relative, "original_source": "Graduate_Dataset/analysis_results/" + relative,
                       "population": "National women and men; not rural-urban subgroups",
                       "units": "unpaid/time_gap: hours per day; LFPR: percent; LFPR change/gap: percentage points; ifi_pca_z: standardized index; ifi_equal_weight: mean deprivation proportion",
                       "rows": rows})

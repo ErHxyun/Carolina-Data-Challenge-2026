@@ -1,4 +1,4 @@
-# GlobalStat
+# HerTime
 
 React/Vite national opportunity explorer with satellite maps, 2D/3D national gap layers, country portraits and animated research charts.
 
@@ -24,9 +24,9 @@ Production assets use `/Carolina-Data-Challenge-2026/`. Open that path on the pr
 
 ## GitHub Pages
 
-The root `.github/workflows/deploy-pages.yml` builds and deploys pushes to `Eric_Webdesign`. It uploads only `Web_Design/dist`, not notebooks or raw datasets.
+The root `.github/workflows/deploy-pages.yml` builds and deploys pushes to `main`. It uploads only `Web_Design/dist`, not notebooks or raw datasets.
 
-One-time repository setup: Settings > Pages > Build and deployment > Source > GitHub Actions. If the `github-pages` environment restricts branches, allow `Eric_Webdesign`. Re-run a failed deployment after changing settings.
+One-time repository setup: Settings > Pages > Build and deployment > Source > GitHub Actions. If the `github-pages` environment restricts branches, allow `main`. Re-run a failed deployment after changing settings.
 
 Expected site: https://erhxyun.github.io/Carolina-Data-Challenge-2026/
 
@@ -34,7 +34,7 @@ Expected site: https://erhxyun.github.io/Carolina-Data-Challenge-2026/
 
 `public/data/mia` contains the pinned research exports with provenance and a data dictionary. `scripts/import_mia.py` refreshes exports from local `origin/Mia_womengap` and rebuilds the atlas; fetch that branch first when intentionally updating the research snapshot. `scripts/build_map_atlas.py` can rebuild just the atlas from existing country exports.
 
-Map colors show urban-minus-rural model medians; 3D height represents the absolute national gap, not subnational observations or terrain. Delay estimates remain labelled 2021. Missing values are not zeros. Time Tax and the AI assistant are not connected yet.
+Map colors show urban-minus-rural model medians; 3D height represents the absolute national gap, not subnational observations or terrain. Delay estimates remain labelled 2021. Missing values are not zeros. Time Tax is connected through public/data/time_tax. The assistant uses the Python backend; production requires VITE_AGENT_API_URL at build time.
 
 Satellite imagery and country photographs require external services; on-screen attribution and license details are retained.
 
